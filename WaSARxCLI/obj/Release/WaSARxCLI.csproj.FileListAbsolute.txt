@@ -1,0 +1,13 @@
+C:\Users\Tyler\source\repos\WaSARxCLI\obj\Release\WaSARxCLI.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\WaSARxCLI\obj\Release\WaSARxCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyler\source\repos\WaSARxCLI\obj\Release\WaSARxCLI.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\WaSARxCLI\obj\Release\WaSARxCLI.csproj.CopyComplete
+C:\Users\Tyler\source\repos\WaSARxCLI\obj\Release\RT.exe
+C:\Users\Tyler\source\repos\WaSARxCLI\obj\Release\RT.pdb
+C:\Users\Tyler\source\repos\WaSARxCLI\RT.exe.config
+C:\Users\Tyler\source\repos\WaSARxCLI\RT.exe
+C:\Users\Tyler\source\repos\WaSARxCLI\RT.pdb
+C:\Users\Tyler\source\repos\WaSARxCLI\IntersectionSupport.dll
+C:\Users\Tyler\source\repos\WaSARxCLI\Newtonsoft.Json.dll
+C:\Users\Tyler\source\repos\WaSARxCLI\IntersectionSupport.pdb
+C:\Users\Tyler\source\repos\WaSARxCLI\Newtonsoft.Json.xml
