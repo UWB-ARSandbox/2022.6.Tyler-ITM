@@ -79,7 +79,22 @@ namespace WaSARxGUI
             this.btnSaveLog.UseVisualStyleBackColor = true;
             this.btnSaveLog.Click += new System.EventHandler(this.btnSaveLog_Click);
 
-            // Set the anchor property of btnSaveLog to Top and
+            // 
+            // btnSortByRoutes
+            // 
+            this.btnSortByRoutes = new System.Windows.Forms.Button();
+            this.btnSortByRoutes.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnSortByRoutes.Location = new System.Drawing.Point(280, 41); // Changed the Y value from 30 to 41
+            this.btnSortByRoutes.Name = "btnSortByRoutes";
+            this.btnSortByRoutes.Size = new System.Drawing.Size(100, 23);
+            this.btnSortByRoutes.TabIndex = 5;
+            this.btnSortByRoutes.Text = "Sort by Routes";
+            this.btnSortByRoutes.UseVisualStyleBackColor = false;
+            this.btnSortByRoutes.BackColor = System.Drawing.Color.White;
+            this.btnSortByRoutes.Click += new System.EventHandler(this.BtnSortByRoutes_Click);
+            // 
+
+
 
             // 
             // dgvResults
@@ -116,6 +131,7 @@ namespace WaSARxGUI
             this.Controls.Add(this.lblTitle);
             this.Controls.Add(this.btnChooseFile);
             this.Controls.Add(this.dgvResults);
+
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "Form1";
@@ -142,5 +158,7 @@ namespace WaSARxGUI
         private System.Windows.Forms.Button btnSaveLog;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
+        private System.Windows.Forms.Button btnSortByRoutes;
+
     }
 }

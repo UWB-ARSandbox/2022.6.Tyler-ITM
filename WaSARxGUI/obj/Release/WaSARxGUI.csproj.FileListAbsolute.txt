@@ -5,10 +5,6 @@ C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.Properties.Resources
 C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.csproj.GenerateResource.cache
 C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.csproj.CoreCompileInputs.cache
 C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.csproj.CopyComplete
-C:\Users\Tyler\source\repos\WaSARxGUI\IntersectionSupport.dll
-C:\Users\Tyler\source\repos\WaSARxGUI\Newtonsoft.Json.dll
-C:\Users\Tyler\source\repos\WaSARxGUI\IntersectionSupport.pdb
-C:\Users\Tyler\source\repos\WaSARxGUI\Newtonsoft.Json.xml
 C:\Users\Tyler\source\repos\WaSARxGUI\GUI.exe.config
 C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\GUI.exe
 C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\GUI.pdb
