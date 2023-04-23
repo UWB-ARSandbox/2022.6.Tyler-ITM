@@ -1,0 +1,12 @@
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.Form1.resources
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.Properties.Resources.resources
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\WaSARxGUI.csproj.CopyComplete
+C:\Users\Tyler\source\repos\WaSARxGUI\GUI.exe.config
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\GUI.exe
+C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\GUI.pdb
+C:\Users\Tyler\source\repos\WaSARxGUI\GUI.exe
+C:\Users\Tyler\source\repos\WaSARxGUI\GUI.pdb

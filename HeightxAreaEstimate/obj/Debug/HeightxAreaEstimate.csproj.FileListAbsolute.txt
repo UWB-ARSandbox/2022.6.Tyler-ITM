@@ -9,3 +9,4 @@ C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.cs
 C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.csproj.CopyComplete
 C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.exe
 C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.pdb
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\bin\Debug\IntersectionSupport.dll

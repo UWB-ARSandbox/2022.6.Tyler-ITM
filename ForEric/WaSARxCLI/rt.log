@@ -1,0 +1,83 @@
+Results:
+Processing file: ../MarbleMt.txt
+------------------------------------------------------------------------------------
+Areas:
+  Seg 2 Area A
+  Seg 2 Area C
+  Seg 1 Area B
+  Seg 2 Area B
+  Seg 1 Area A
+  Segment 1
+  Segment 3
+  Segment 2
+
+Routes:
+  13
+  Team 13 K9 Oso 
+  Team 29 K9 Nate
+  Team 22 K9 R2 PM
+  Team 22 K9 R2 AM
+  Team 13 Handler 
+  Team 29 Handler
+  Team 22 Handler
+
+Intersection Results:
+------------------------------------------------------------------------------------
+Area: Seg 2 Area A
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 11.11 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 0.07 kilometers
+Total traversed in Area Seg 2 Area A --> 11.18 kilometers
+------------------------------------------------------------------------------------
+Area: Seg 2 Area C
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 9.29 kilometers
+--> Route: Team 29 K9 Nate
+  Total distance of route: 8.54 kilometers
+Total traversed in Area Seg 2 Area C --> 17.83 kilometers
+------------------------------------------------------------------------------------
+Area: Seg 1 Area B
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 3.24 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 5.34 kilometers
+Total traversed in Area Seg 1 Area B --> 8.57 kilometers
+------------------------------------------------------------------------------------
+Area: Seg 2 Area B
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 14.33 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 4.71 kilometers
+Total traversed in Area Seg 2 Area B --> 19.04 kilometers
+------------------------------------------------------------------------------------
+Area: Seg 1 Area A
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 1.24 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 0.01 kilometers
+Total traversed in Area Seg 1 Area A --> 1.25 kilometers
+------------------------------------------------------------------------------------
+Area: Segment 1
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 15.64 kilometers
+--> Route: Team 22 K9 R2 PM
+  Total distance of route: 2.25 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 7.44 kilometers
+Total traversed in Area Segment 1 --> 25.33 kilometers
+------------------------------------------------------------------------------------
+Area: Segment 3
+--> Route: Team 29 K9 Nate
+  Total distance of route: 21.41 kilometers
+Total traversed in Area Segment 3 --> 21.41 kilometers
+------------------------------------------------------------------------------------
+Area: Segment 2
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 11.58 kilometers
+--> Route: Team 29 K9 Nate
+  Total distance of route: 0.69 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 0.16 kilometers
+Total traversed in Area Segment 2 --> 12.43 kilometers
+------------------------------------------------------------------------------------
