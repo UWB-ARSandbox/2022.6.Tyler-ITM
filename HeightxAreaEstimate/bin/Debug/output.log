@@ -1,3 +1,4696 @@
-Total 2D distance: 17209.5645225189 meters
-Total 3D distance: 17311.5878696392 meters
-Difference between 2D and 3D distances: 102.023347120339 meters
+Total number of objects in the GeoJSON data: 26
+Processing LineString feature 1 of 11
+Title of the LineString feature: 13
+Total number of points in the LineString feature before filtering: 2577
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 2130
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: 13
+Batch 1:
+  2D Distance: 696.110219546432 meters
+  3D Distance: 699.006735557527 meters
+  Difference between 2D and 3D distances: 2.89651601109517 meters
+Batch 2:
+  2D Distance: 679.451904352202 meters
+  3D Distance: 680.289499085529 meters
+  Difference between 2D and 3D distances: 0.837594733327364 meters
+Batch 3:
+  2D Distance: 629.125200881622 meters
+  3D Distance: 629.694569268312 meters
+  Difference between 2D and 3D distances: 0.569368386689916 meters
+Batch 4:
+  2D Distance: 605.713502012491 meters
+  3D Distance: 606.099458697646 meters
+  Difference between 2D and 3D distances: 0.385956685155293 meters
+Batch 5:
+  2D Distance: 740.732710438459 meters
+  3D Distance: 740.934280835559 meters
+  Difference between 2D and 3D distances: 0.201570397099545 meters
+Batch 6:
+  2D Distance: 777.74336035768 meters
+  3D Distance: 778.103665932358 meters
+  Difference between 2D and 3D distances: 0.360305574678023 meters
+Batch 7:
+  2D Distance: 484.534552628448 meters
+  3D Distance: 485.851824953664 meters
+  Difference between 2D and 3D distances: 1.31727232521564 meters
+Batch 8:
+  2D Distance: 504.935307346375 meters
+  3D Distance: 510.890964819584 meters
+  Difference between 2D and 3D distances: 5.95565747320859 meters
+Batch 9:
+  2D Distance: 607.613127750211 meters
+  3D Distance: 608.053447969937 meters
+  Difference between 2D and 3D distances: 0.440320219725322 meters
+Batch 10:
+  2D Distance: 590.066133808828 meters
+  3D Distance: 590.298937167777 meters
+  Difference between 2D and 3D distances: 0.232803358949127 meters
+Batch 11:
+  2D Distance: 541.472337622678 meters
+  3D Distance: 545.802386944889 meters
+  Difference between 2D and 3D distances: 4.33004932221058 meters
+Batch 12:
+  2D Distance: 507.785625156305 meters
+  3D Distance: 513.18864344852 meters
+  Difference between 2D and 3D distances: 5.40301829221414 meters
+Batch 13:
+  2D Distance: 1906.48545232686 meters
+  3D Distance: 1941.79419463886 meters
+  Difference between 2D and 3D distances: 35.3087423120012 meters
+Batch 14:
+  2D Distance: 1366.83247686064 meters
+  3D Distance: 1386.49346433573 meters
+  Difference between 2D and 3D distances: 19.6609874750925 meters
+Batch 15:
+  2D Distance: 574.679989023939 meters
+  3D Distance: 586.076874411683 meters
+  Difference between 2D and 3D distances: 11.3968853877442 meters
+Batch 16:
+  2D Distance: 665.09880655142 meters
+  3D Distance: 672.285173347078 meters
+  Difference between 2D and 3D distances: 7.18636679565816 meters
+Batch 17:
+  2D Distance: 2444.57704358898 meters
+  3D Distance: 2446.54097578718 meters
+  Difference between 2D and 3D distances: 1.96393219819493 meters
+Batch 18:
+  2D Distance: 881.951685994829 meters
+  3D Distance: 883.76411826785 meters
+  Difference between 2D and 3D distances: 1.81243227302139 meters
+Batch 19:
+  2D Distance: 614.301176377919 meters
+  3D Distance: 614.365248447557 meters
+  Difference between 2D and 3D distances: 0.0640720696386552 meters
+Batch 20:
+  2D Distance: 450.058966311797 meters
+  3D Distance: 450.15408871818 meters
+  Difference between 2D and 3D distances: 0.0951224063826999 meters
+Batch 21:
+  2D Distance: 403.923071840375 meters
+  3D Distance: 404.044427762248 meters
+  Difference between 2D and 3D distances: 0.121355921872862 meters
+Batch 22:
+  2D Distance: 183.940097652215 meters
+  3D Distance: 183.952250737364 meters
+  Difference between 2D and 3D distances: 0.012153085149464 meters
+Average difference between 2D and 3D distances for LineString feature 1: 0.0472299120264571 meters
+Processing LineString feature 2 of 11
+Title of the LineString feature: Team 13 K9 Oso 
+Total number of points in the LineString feature before filtering: 3893
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 3472
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 13 K9 Oso 
+Batch 1:
+  2D Distance: 374.352847916531 meters
+  3D Distance: 376.974662384505 meters
+  Difference between 2D and 3D distances: 2.62181446797342 meters
+Batch 2:
+  2D Distance: 547.946683252562 meters
+  3D Distance: 549.521880274159 meters
+  Difference between 2D and 3D distances: 1.57519702159675 meters
+Batch 3:
+  2D Distance: 646.768439624437 meters
+  3D Distance: 647.040786344495 meters
+  Difference between 2D and 3D distances: 0.272346720057726 meters
+Batch 4:
+  2D Distance: 579.407408363355 meters
+  3D Distance: 580.079250951952 meters
+  Difference between 2D and 3D distances: 0.671842588597315 meters
+Batch 5:
+  2D Distance: 398.240934239724 meters
+  3D Distance: 398.698328884265 meters
+  Difference between 2D and 3D distances: 0.457394644541296 meters
+Batch 6:
+  2D Distance: 492.032652521009 meters
+  3D Distance: 492.412462780238 meters
+  Difference between 2D and 3D distances: 0.379810259228634 meters
+Batch 7:
+  2D Distance: 483.226372812243 meters
+  3D Distance: 483.644773229452 meters
+  Difference between 2D and 3D distances: 0.418400417208488 meters
+Batch 8:
+  2D Distance: 452.026255494383 meters
+  3D Distance: 452.328267820355 meters
+  Difference between 2D and 3D distances: 0.30201232597193 meters
+Batch 9:
+  2D Distance: 425.354497018714 meters
+  3D Distance: 425.497408069438 meters
+  Difference between 2D and 3D distances: 0.142911050724763 meters
+Batch 10:
+  2D Distance: 554.627778190748 meters
+  3D Distance: 555.120482161934 meters
+  Difference between 2D and 3D distances: 0.492703971186188 meters
+Batch 11:
+  2D Distance: 463.040469768807 meters
+  3D Distance: 463.187595410527 meters
+  Difference between 2D and 3D distances: 0.147125641720947 meters
+Batch 12:
+  2D Distance: 524.450976727099 meters
+  3D Distance: 524.670986785277 meters
+  Difference between 2D and 3D distances: 0.220010058177877 meters
+Batch 13:
+  2D Distance: 547.953620807823 meters
+  3D Distance: 548.088332853658 meters
+  Difference between 2D and 3D distances: 0.134712045835499 meters
+Batch 14:
+  2D Distance: 508.025293190726 meters
+  3D Distance: 508.421728420867 meters
+  Difference between 2D and 3D distances: 0.396435230141719 meters
+Batch 15:
+  2D Distance: 527.604889470193 meters
+  3D Distance: 528.222911123155 meters
+  Difference between 2D and 3D distances: 0.618021652961488 meters
+Batch 16:
+  2D Distance: 380.525948643596 meters
+  3D Distance: 384.034862808764 meters
+  Difference between 2D and 3D distances: 3.50891416516777 meters
+Batch 17:
+  2D Distance: 363.440273358823 meters
+  3D Distance: 366.730819563877 meters
+  Difference between 2D and 3D distances: 3.29054620505457 meters
+Batch 18:
+  2D Distance: 408.16802693986 meters
+  3D Distance: 413.158498659848 meters
+  Difference between 2D and 3D distances: 4.99047171998774 meters
+Batch 19:
+  2D Distance: 402.646766099381 meters
+  3D Distance: 402.914647961893 meters
+  Difference between 2D and 3D distances: 0.267881862512183 meters
+Batch 20:
+  2D Distance: 462.185915942263 meters
+  3D Distance: 462.492319308885 meters
+  Difference between 2D and 3D distances: 0.306403366621851 meters
+Batch 21:
+  2D Distance: 407.518977193571 meters
+  3D Distance: 407.744543585395 meters
+  Difference between 2D and 3D distances: 0.22556639182443 meters
+Batch 22:
+  2D Distance: 600.347708584578 meters
+  3D Distance: 600.48687557483 meters
+  Difference between 2D and 3D distances: 0.139166990252079 meters
+Batch 23:
+  2D Distance: 479.502190236591 meters
+  3D Distance: 481.745180507077 meters
+  Difference between 2D and 3D distances: 2.24299027048602 meters
+Batch 24:
+  2D Distance: 386.465915692191 meters
+  3D Distance: 391.37090911266 meters
+  Difference between 2D and 3D distances: 4.9049934204686 meters
+Batch 25:
+  2D Distance: 428.194904688097 meters
+  3D Distance: 433.165785554831 meters
+  Difference between 2D and 3D distances: 4.97088086673466 meters
+Batch 26:
+  2D Distance: 537.197605156084 meters
+  3D Distance: 547.141398824492 meters
+  Difference between 2D and 3D distances: 9.94379366840838 meters
+Batch 27:
+  2D Distance: 1054.47289812444 meters
+  3D Distance: 1071.89672134346 meters
+  Difference between 2D and 3D distances: 17.4238232190173 meters
+Batch 28:
+  2D Distance: 1115.00689439058 meters
+  3D Distance: 1132.53284625076 meters
+  Difference between 2D and 3D distances: 17.5259518601806 meters
+Batch 29:
+  2D Distance: 766.930318728097 meters
+  3D Distance: 782.202371383176 meters
+  Difference between 2D and 3D distances: 15.2720526550781 meters
+Batch 30:
+  2D Distance: 457.243736565948 meters
+  3D Distance: 467.686896000455 meters
+  Difference between 2D and 3D distances: 10.4431594345074 meters
+Batch 31:
+  2D Distance: 594.44550298431 meters
+  3D Distance: 613.497858139817 meters
+  Difference between 2D and 3D distances: 19.0523551555074 meters
+Batch 32:
+  2D Distance: 381.04376588064 meters
+  3D Distance: 385.17384919346 meters
+  Difference between 2D and 3D distances: 4.1300833128206 meters
+Batch 33:
+  2D Distance: 470.128349407755 meters
+  3D Distance: 474.183898168016 meters
+  Difference between 2D and 3D distances: 4.0555487602615 meters
+Batch 34:
+  2D Distance: 462.970413275275 meters
+  3D Distance: 463.18344481046 meters
+  Difference between 2D and 3D distances: 0.213031535184825 meters
+Batch 35:
+  2D Distance: 2015.42360962983 meters
+  3D Distance: 2017.08892922954 meters
+  Difference between 2D and 3D distances: 1.66531959971121 meters
+Average difference between 2D and 3D distances for LineString feature 2: 0.038439548417088 meters
+Processing LineString feature 3 of 11
+Title of the LineString feature: Segment 1
+Total number of points in the LineString feature before filtering: 22
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 21
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Segment 1
+Batch 1:
+  2D Distance: 2719.92765372565 meters
+  3D Distance: 2720.32506850259 meters
+  Difference between 2D and 3D distances: 0.397414776940423 meters
+Average difference between 2D and 3D distances for LineString feature 3: 0.0198707388470068 meters
+Processing LineString feature 4 of 11
+Title of the LineString feature: Team 29 K9 Nate
+Total number of points in the LineString feature before filtering: 4054
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 3574
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 29 K9 Nate
+Batch 1:
+  2D Distance: 579.283792835253 meters
+  3D Distance: 584.293000946531 meters
+  Difference between 2D and 3D distances: 5.00920811127799 meters
+Batch 2:
+  2D Distance: 437.623365332266 meters
+  3D Distance: 445.846311615927 meters
+  Difference between 2D and 3D distances: 8.22294628366149 meters
+Batch 3:
+  2D Distance: 463.874894087575 meters
+  3D Distance: 472.552424985574 meters
+  Difference between 2D and 3D distances: 8.67753089799965 meters
+Batch 4:
+  2D Distance: 576.336154972385 meters
+  3D Distance: 587.925424066078 meters
+  Difference between 2D and 3D distances: 11.5892690936928 meters
+Batch 5:
+  2D Distance: 459.128634382868 meters
+  3D Distance: 464.645531078571 meters
+  Difference between 2D and 3D distances: 5.51689669570226 meters
+Batch 6:
+  2D Distance: 415.611848412104 meters
+  3D Distance: 420.145031508041 meters
+  Difference between 2D and 3D distances: 4.53318309593692 meters
+Batch 7:
+  2D Distance: 388.495316555281 meters
+  3D Distance: 399.682083675097 meters
+  Difference between 2D and 3D distances: 11.1867671198158 meters
+Batch 8:
+  2D Distance: 366.09617100957 meters
+  3D Distance: 370.605922569483 meters
+  Difference between 2D and 3D distances: 4.50975155991347 meters
+Batch 9:
+  2D Distance: 518.350103697888 meters
+  3D Distance: 530.871026793251 meters
+  Difference between 2D and 3D distances: 12.5209230953626 meters
+Batch 10:
+  2D Distance: 352.413302619265 meters
+  3D Distance: 364.701272067458 meters
+  Difference between 2D and 3D distances: 12.2879694481936 meters
+Batch 11:
+  2D Distance: 436.204397336107 meters
+  3D Distance: 453.747080583826 meters
+  Difference between 2D and 3D distances: 17.5426832477189 meters
+Batch 12:
+  2D Distance: 516.999203506337 meters
+  3D Distance: 532.070929153205 meters
+  Difference between 2D and 3D distances: 15.0717256468686 meters
+Batch 13:
+  2D Distance: 463.609471300616 meters
+  3D Distance: 471.909594396343 meters
+  Difference between 2D and 3D distances: 8.30012309572697 meters
+Batch 14:
+  2D Distance: 486.196786414293 meters
+  3D Distance: 497.190837999256 meters
+  Difference between 2D and 3D distances: 10.9940515849636 meters
+Batch 15:
+  2D Distance: 401.690563506112 meters
+  3D Distance: 415.688954149082 meters
+  Difference between 2D and 3D distances: 13.99839064297 meters
+Batch 16:
+  2D Distance: 478.474791799651 meters
+  3D Distance: 494.936270177794 meters
+  Difference between 2D and 3D distances: 16.4614783781429 meters
+Batch 17:
+  2D Distance: 485.20778158451 meters
+  3D Distance: 495.617373341825 meters
+  Difference between 2D and 3D distances: 10.4095917573149 meters
+Batch 18:
+  2D Distance: 1149.37245602407 meters
+  3D Distance: 1164.79726638225 meters
+  Difference between 2D and 3D distances: 15.4248103581824 meters
+Batch 19:
+  2D Distance: 1441.42486269658 meters
+  3D Distance: 1455.32065324767 meters
+  Difference between 2D and 3D distances: 13.8957905510936 meters
+Batch 20:
+  2D Distance: 1568.05177789238 meters
+  3D Distance: 1603.90227503396 meters
+  Difference between 2D and 3D distances: 35.8504971415789 meters
+Batch 21:
+  2D Distance: 3008.40387998543 meters
+  3D Distance: 3012.12212407436 meters
+  Difference between 2D and 3D distances: 3.71824408892962 meters
+Batch 22:
+  2D Distance: 851.261217211201 meters
+  3D Distance: 856.845832983498 meters
+  Difference between 2D and 3D distances: 5.58461577229627 meters
+Batch 23:
+  2D Distance: 901.557067262636 meters
+  3D Distance: 911.374740261842 meters
+  Difference between 2D and 3D distances: 9.81767299920602 meters
+Batch 24:
+  2D Distance: 1095.23077200537 meters
+  3D Distance: 1109.77123789945 meters
+  Difference between 2D and 3D distances: 14.5404658940738 meters
+Batch 25:
+  2D Distance: 463.230528686642 meters
+  3D Distance: 472.997824903981 meters
+  Difference between 2D and 3D distances: 9.76729621733853 meters
+Batch 26:
+  2D Distance: 400.110038575456 meters
+  3D Distance: 404.55692848902 meters
+  Difference between 2D and 3D distances: 4.44688991356452 meters
+Batch 27:
+  2D Distance: 364.096917470104 meters
+  3D Distance: 370.741697919174 meters
+  Difference between 2D and 3D distances: 6.64478044907071 meters
+Batch 28:
+  2D Distance: 401.587696385003 meters
+  3D Distance: 407.029659669999 meters
+  Difference between 2D and 3D distances: 5.44196328499538 meters
+Batch 29:
+  2D Distance: 486.268137913119 meters
+  3D Distance: 501.368764809645 meters
+  Difference between 2D and 3D distances: 15.1006268965269 meters
+Batch 30:
+  2D Distance: 532.076433737024 meters
+  3D Distance: 548.664780254378 meters
+  Difference between 2D and 3D distances: 16.588346517354 meters
+Batch 31:
+  2D Distance: 424.561219697115 meters
+  3D Distance: 440.530357463149 meters
+  Difference between 2D and 3D distances: 15.9691377660337 meters
+Batch 32:
+  2D Distance: 424.362984736709 meters
+  3D Distance: 431.997036966433 meters
+  Difference between 2D and 3D distances: 7.63405222972403 meters
+Batch 33:
+  2D Distance: 411.4181983533 meters
+  3D Distance: 425.899799400387 meters
+  Difference between 2D and 3D distances: 14.4816010470869 meters
+Batch 34:
+  2D Distance: 994.778076536215 meters
+  3D Distance: 1004.80497549952 meters
+  Difference between 2D and 3D distances: 10.0268989633043 meters
+Batch 35:
+  2D Distance: 1355.90232084298 meters
+  3D Distance: 1360.70389421681 meters
+  Difference between 2D and 3D distances: 4.80157337382593 meters
+Batch 36:
+  2D Distance: 268.611372181548 meters
+  3D Distance: 268.702588549595 meters
+  Difference between 2D and 3D distances: 0.0912163680462754 meters
+Average difference between 2D and 3D distances for LineString feature 4: 0.108216896050236 meters
+Processing LineString feature 5 of 11
+Title of the LineString feature: Segment 3
+Total number of points in the LineString feature before filtering: 7
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 6
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Segment 3
+Batch 1:
+  2D Distance: 914.215358965603 meters
+  3D Distance: 925.531965280606 meters
+  Difference between 2D and 3D distances: 11.3166063150027 meters
+Average difference between 2D and 3D distances for LineString feature 5: 2.26332126300052 meters
+Processing LineString feature 6 of 11
+Title of the LineString feature: Team 22 K9 R2 PM
+Total number of points in the LineString feature before filtering: 2707
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 2320
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 PM
+Batch 1:
+  2D Distance: 448.188059859047 meters
+  3D Distance: 448.379682120693 meters
+  Difference between 2D and 3D distances: 0.191622261646273 meters
+Batch 2:
+  2D Distance: 363.825918899988 meters
+  3D Distance: 366.041108528668 meters
+  Difference between 2D and 3D distances: 2.21518962868049 meters
+Batch 3:
+  2D Distance: 426.23562776518 meters
+  3D Distance: 428.06571314179 meters
+  Difference between 2D and 3D distances: 1.8300853766101 meters
+Batch 4:
+  2D Distance: 409.148504615588 meters
+  3D Distance: 410.151147501231 meters
+  Difference between 2D and 3D distances: 1.00264288564347 meters
+Batch 5:
+  2D Distance: 431.68887682966 meters
+  3D Distance: 432.664592016849 meters
+  Difference between 2D and 3D distances: 0.975715187188598 meters
+Batch 6:
+  2D Distance: 418.26338135587 meters
+  3D Distance: 427.331579285973 meters
+  Difference between 2D and 3D distances: 9.06819793010368 meters
+Batch 7:
+  2D Distance: 423.839905834697 meters
+  3D Distance: 424.249996339235 meters
+  Difference between 2D and 3D distances: 0.410090504537663 meters
+Batch 8:
+  2D Distance: 364.934099398326 meters
+  3D Distance: 374.039267215842 meters
+  Difference between 2D and 3D distances: 9.10516781751636 meters
+Batch 9:
+  2D Distance: 382.267066537748 meters
+  3D Distance: 386.05224221505 meters
+  Difference between 2D and 3D distances: 3.78517567730165 meters
+Batch 10:
+  2D Distance: 451.330664932723 meters
+  3D Distance: 467.255870694117 meters
+  Difference between 2D and 3D distances: 15.925205761394 meters
+Batch 11:
+  2D Distance: 432.240812881784 meters
+  3D Distance: 436.497039685103 meters
+  Difference between 2D and 3D distances: 4.25622680331901 meters
+Batch 12:
+  2D Distance: 379.4920019339 meters
+  3D Distance: 381.451832401972 meters
+  Difference between 2D and 3D distances: 1.95983046807197 meters
+Batch 13:
+  2D Distance: 376.82381686237 meters
+  3D Distance: 377.551193054745 meters
+  Difference between 2D and 3D distances: 0.727376192374493 meters
+Batch 14:
+  2D Distance: 360.609901962489 meters
+  3D Distance: 360.703485815395 meters
+  Difference between 2D and 3D distances: 0.0935838529059083 meters
+Batch 15:
+  2D Distance: 306.306433993607 meters
+  3D Distance: 307.346928662275 meters
+  Difference between 2D and 3D distances: 1.04049466866769 meters
+Batch 16:
+  2D Distance: 347.892597848185 meters
+  3D Distance: 351.963811506711 meters
+  Difference between 2D and 3D distances: 4.07121365852635 meters
+Batch 17:
+  2D Distance: 401.649878177712 meters
+  3D Distance: 401.994694667438 meters
+  Difference between 2D and 3D distances: 0.344816489726213 meters
+Batch 18:
+  2D Distance: 435.468716526919 meters
+  3D Distance: 436.854808012551 meters
+  Difference between 2D and 3D distances: 1.38609148563177 meters
+Batch 19:
+  2D Distance: 464.457376866275 meters
+  3D Distance: 475.905216219111 meters
+  Difference between 2D and 3D distances: 11.4478393528356 meters
+Batch 20:
+  2D Distance: 511.297842252483 meters
+  3D Distance: 527.940714354802 meters
+  Difference between 2D and 3D distances: 16.6428721023186 meters
+Batch 21:
+  2D Distance: 596.836521207625 meters
+  3D Distance: 618.874464313618 meters
+  Difference between 2D and 3D distances: 22.0379431059937 meters
+Batch 22:
+  2D Distance: 534.570684094403 meters
+  3D Distance: 535.77806936249 meters
+  Difference between 2D and 3D distances: 1.20738526808623 meters
+Batch 23:
+  2D Distance: 343.683907700726 meters
+  3D Distance: 345.829941507238 meters
+  Difference between 2D and 3D distances: 2.14603380651198 meters
+Batch 24:
+  2D Distance: 59.1747238233796 meters
+  3D Distance: 59.1904238603157 meters
+  Difference between 2D and 3D distances: 0.0157000369360603 meters
+Average difference between 2D and 3D distances for LineString feature 6: 0.0482477362322253 meters
+Processing LineString feature 7 of 11
+Title of the LineString feature: Segment 2
+Total number of points in the LineString feature before filtering: 32
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 32
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Segment 2
+Batch 1:
+  2D Distance: 4120.37489347132 meters
+  3D Distance: 4121.15741923812 meters
+  Difference between 2D and 3D distances: 0.782525766800063 meters
+Average difference between 2D and 3D distances for LineString feature 7: 0.0252427666709922 meters
+Processing LineString feature 8 of 11
+Title of the LineString feature: Team 22 K9 R2 AM
+Total number of points in the LineString feature before filtering: 2156
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 1648
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 AM
+Batch 1:
+  2D Distance: 345.723631565395 meters
+  3D Distance: 346.022664314288 meters
+  Difference between 2D and 3D distances: 0.299032748892216 meters
+Batch 2:
+  2D Distance: 351.762248755752 meters
+  3D Distance: 352.012073411174 meters
+  Difference between 2D and 3D distances: 0.249824655421833 meters
+Batch 3:
+  2D Distance: 338.56227199204 meters
+  3D Distance: 338.802629922587 meters
+  Difference between 2D and 3D distances: 0.24035793054702 meters
+Batch 4:
+  2D Distance: 407.906131801311 meters
+  3D Distance: 408.414582515134 meters
+  Difference between 2D and 3D distances: 0.50845071382372 meters
+Batch 5:
+  2D Distance: 312.6620775775 meters
+  3D Distance: 313.03087838717 meters
+  Difference between 2D and 3D distances: 0.368800809669722 meters
+Batch 6:
+  2D Distance: 335.449236388881 meters
+  3D Distance: 336.309898492399 meters
+  Difference between 2D and 3D distances: 0.860662103518166 meters
+Batch 7:
+  2D Distance: 348.566459384236 meters
+  3D Distance: 349.124750938209 meters
+  Difference between 2D and 3D distances: 0.558291553972651 meters
+Batch 8:
+  2D Distance: 350.826844488367 meters
+  3D Distance: 351.676038176937 meters
+  Difference between 2D and 3D distances: 0.849193688570665 meters
+Batch 9:
+  2D Distance: 342.263246577415 meters
+  3D Distance: 342.542490536772 meters
+  Difference between 2D and 3D distances: 0.279243959357188 meters
+Batch 10:
+  2D Distance: 359.726319829593 meters
+  3D Distance: 360.482313669183 meters
+  Difference between 2D and 3D distances: 0.755993839589564 meters
+Batch 11:
+  2D Distance: 305.462324581969 meters
+  3D Distance: 305.897193852899 meters
+  Difference between 2D and 3D distances: 0.434869270930164 meters
+Batch 12:
+  2D Distance: 333.912977915692 meters
+  3D Distance: 334.233642784485 meters
+  Difference between 2D and 3D distances: 0.32066486879279 meters
+Batch 13:
+  2D Distance: 313.021101182428 meters
+  3D Distance: 313.341896587753 meters
+  Difference between 2D and 3D distances: 0.320795405325441 meters
+Batch 14:
+  2D Distance: 1084.38466122716 meters
+  3D Distance: 1087.60509453348 meters
+  Difference between 2D and 3D distances: 3.22043330631186 meters
+Batch 15:
+  2D Distance: 331.548911516773 meters
+  3D Distance: 331.94101662845 meters
+  Difference between 2D and 3D distances: 0.392105111676699 meters
+Batch 16:
+  2D Distance: 520.562000024734 meters
+  3D Distance: 521.98504995252 meters
+  Difference between 2D and 3D distances: 1.42304992778645 meters
+Batch 17:
+  2D Distance: 215.274777867646 meters
+  3D Distance: 215.330792784942 meters
+  Difference between 2D and 3D distances: 0.0560149172954993 meters
+Average difference between 2D and 3D distances for LineString feature 8: 0.00676246800940029 meters
+Processing LineString feature 9 of 11
+Title of the LineString feature: Team 13 Handler 
+Total number of points in the LineString feature before filtering: 1456
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 1213
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 13 Handler 
+Batch 1:
+  2D Distance: 5086.78770305953 meters
+  3D Distance: 5088.9523674026 meters
+  Difference between 2D and 3D distances: 2.16466434306858 meters
+Batch 2:
+  2D Distance: 1197.37806619274 meters
+  3D Distance: 1198.75308708776 meters
+  Difference between 2D and 3D distances: 1.37502089502846 meters
+Batch 3:
+  2D Distance: 641.599051163109 meters
+  3D Distance: 642.305933631459 meters
+  Difference between 2D and 3D distances: 0.706882468349249 meters
+Batch 4:
+  2D Distance: 1099.96132581409 meters
+  3D Distance: 1100.33527082928 meters
+  Difference between 2D and 3D distances: 0.373945015189747 meters
+Batch 5:
+  2D Distance: 817.430595715965 meters
+  3D Distance: 817.885130342746 meters
+  Difference between 2D and 3D distances: 0.454534626780742 meters
+Batch 6:
+  2D Distance: 553.699787537332 meters
+  3D Distance: 558.22679842909 meters
+  Difference between 2D and 3D distances: 4.52701089175787 meters
+Batch 7:
+  2D Distance: 784.036918988113 meters
+  3D Distance: 787.048220053175 meters
+  Difference between 2D and 3D distances: 3.01130106506173 meters
+Batch 8:
+  2D Distance: 1246.78289994785 meters
+  3D Distance: 1252.42695048638 meters
+  Difference between 2D and 3D distances: 5.64405053853852 meters
+Batch 9:
+  2D Distance: 1422.65753245008 meters
+  3D Distance: 1445.02001893539 meters
+  Difference between 2D and 3D distances: 22.3624864853105 meters
+Batch 10:
+  2D Distance: 1839.36781703189 meters
+  3D Distance: 1870.18428610813 meters
+  Difference between 2D and 3D distances: 30.8164690762353 meters
+Batch 11:
+  2D Distance: 891.950634934624 meters
+  3D Distance: 904.686335599387 meters
+  Difference between 2D and 3D distances: 12.7357006647627 meters
+Batch 12:
+  2D Distance: 959.623855393902 meters
+  3D Distance: 967.374597435229 meters
+  Difference between 2D and 3D distances: 7.75074204132761 meters
+Batch 13:
+  2D Distance: 1425.27037822442 meters
+  3D Distance: 1425.34580655191 meters
+  Difference between 2D and 3D distances: 0.075428327490954 meters
+Average difference between 2D and 3D distances for LineString feature 9: 0.0759061356756629 meters
+Processing LineString feature 10 of 11
+Title of the LineString feature: Team 29 Handler
+Total number of points in the LineString feature before filtering: 1659
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 1473
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 29 Handler
+Batch 1:
+  2D Distance: 5988.6753041658 meters
+  3D Distance: 5995.4207142151 meters
+  Difference between 2D and 3D distances: 6.74541004929688 meters
+Batch 2:
+  2D Distance: 2409.15026209056 meters
+  3D Distance: 2429.04148365202 meters
+  Difference between 2D and 3D distances: 19.8912215614614 meters
+Batch 3:
+  2D Distance: 1543.83203563913 meters
+  3D Distance: 1566.78543439253 meters
+  Difference between 2D and 3D distances: 22.9533987534057 meters
+Batch 4:
+  2D Distance: 737.492680010237 meters
+  3D Distance: 746.990275049881 meters
+  Difference between 2D and 3D distances: 9.49759503964367 meters
+Batch 5:
+  2D Distance: 722.676090761126 meters
+  3D Distance: 739.066077064805 meters
+  Difference between 2D and 3D distances: 16.3899863036794 meters
+Batch 6:
+  2D Distance: 620.765106077279 meters
+  3D Distance: 636.887474629521 meters
+  Difference between 2D and 3D distances: 16.1223685522422 meters
+Batch 7:
+  2D Distance: 969.833754287062 meters
+  3D Distance: 988.96865559989 meters
+  Difference between 2D and 3D distances: 19.134901312828 meters
+Batch 8:
+  2D Distance: 2580.78270999973 meters
+  3D Distance: 2604.0673622891 meters
+  Difference between 2D and 3D distances: 23.2846522893697 meters
+Batch 9:
+  2D Distance: 4662.7928545802 meters
+  3D Distance: 4675.52976205181 meters
+  Difference between 2D and 3D distances: 12.736907471608 meters
+Batch 10:
+  2D Distance: 1806.07878294608 meters
+  3D Distance: 1824.52770386834 meters
+  Difference between 2D and 3D distances: 18.4489209222593 meters
+Batch 11:
+  2D Distance: 1195.1621804123 meters
+  3D Distance: 1215.22026541594 meters
+  Difference between 2D and 3D distances: 20.0580850036342 meters
+Batch 12:
+  2D Distance: 1053.31383276859 meters
+  3D Distance: 1065.74310433056 meters
+  Difference between 2D and 3D distances: 12.4292715619631 meters
+Batch 13:
+  2D Distance: 1119.73345751534 meters
+  3D Distance: 1136.8030757624 meters
+  Difference between 2D and 3D distances: 17.0696182470599 meters
+Batch 14:
+  2D Distance: 2117.64432726104 meters
+  3D Distance: 2130.78894831194 meters
+  Difference between 2D and 3D distances: 13.1446210509039 meters
+Batch 15:
+  2D Distance: 3117.10494976052 meters
+  3D Distance: 3118.13934900141 meters
+  Difference between 2D and 3D distances: 1.03439924089298 meters
+Average difference between 2D and 3D distances for LineString feature 10: 0.155530813424084 meters
+Processing LineString feature 11 of 11
+Title of the LineString feature: Team 22 Handler
+Total number of points in the LineString feature before filtering: 1735
+Processing GeoJSON coordinates...
+Total number of points in the LineString feature after filtering: 1336
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 22 Handler
+Batch 1:
+  2D Distance: 5916.74108783057 meters
+  3D Distance: 5919.37598747922 meters
+  Difference between 2D and 3D distances: 2.63489964864311 meters
+Batch 2:
+  2D Distance: 588.722391639106 meters
+  3D Distance: 589.162509129616 meters
+  Difference between 2D and 3D distances: 0.440117490510261 meters
+Batch 3:
+  2D Distance: 545.898461435189 meters
+  3D Distance: 546.836015244319 meters
+  Difference between 2D and 3D distances: 0.937553809129554 meters
+Batch 4:
+  2D Distance: 595.945927721631 meters
+  3D Distance: 596.730624313196 meters
+  Difference between 2D and 3D distances: 0.78469659156508 meters
+Batch 5:
+  2D Distance: 554.033463935526 meters
+  3D Distance: 554.777881169197 meters
+  Difference between 2D and 3D distances: 0.744417233671584 meters
+Batch 6:
+  2D Distance: 1528.902968704 meters
+  3D Distance: 1532.53863784603 meters
+  Difference between 2D and 3D distances: 3.63566914202715 meters
+Batch 7:
+  2D Distance: 987.708735541497 meters
+  3D Distance: 992.951516401239 meters
+  Difference between 2D and 3D distances: 5.24278085974152 meters
+Batch 8:
+  2D Distance: 900.914602476657 meters
+  3D Distance: 902.8921105165 meters
+  Difference between 2D and 3D distances: 1.97750803984286 meters
+Batch 9:
+  2D Distance: 941.139483641385 meters
+  3D Distance: 946.578663984352 meters
+  Difference between 2D and 3D distances: 5.43918034296655 meters
+Batch 10:
+  2D Distance: 982.000892818197 meters
+  3D Distance: 984.460496921141 meters
+  Difference between 2D and 3D distances: 2.45960410294322 meters
+Batch 11:
+  2D Distance: 736.725050997396 meters
+  3D Distance: 739.783223380697 meters
+  Difference between 2D and 3D distances: 3.05817238330087 meters
+Batch 12:
+  2D Distance: 1034.65586037857 meters
+  3D Distance: 1038.4723786202 meters
+  Difference between 2D and 3D distances: 3.81651824162464 meters
+Batch 13:
+  2D Distance: 1198.43425669158 meters
+  3D Distance: 1204.07407973839 meters
+  Difference between 2D and 3D distances: 5.63982304680917 meters
+Batch 14:
+  2D Distance: 284.994436197798 meters
+  3D Distance: 287.212130654736 meters
+  Difference between 2D and 3D distances: 2.21769445693769 meters
+Average difference between 2D and 3D distances for LineString feature 11: 0.029234932876192 meters
+Program complete. Press Enter to End.
+Total number of objects in the GeoJSON data: 26
+
+Processing LineString feature 1 of 11
+	Title of the LineString feature: 13
+	Total number of points in the LineString feature before filtering: 2577
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2413
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: 13
+Batch 1:
+  2D Distance: 682.285202296087 meters
+  3D Distance: 685.177035121919 meters
+  Difference between 2D and 3D distances: 2.89183282583213 meters
+Batch 2:
+  2D Distance: 673.621616821962 meters
+  3D Distance: 674.4946770591 meters
+  Difference between 2D and 3D distances: 0.873060237138247 meters
+Batch 3:
+  2D Distance: 522.898195344315 meters
+  3D Distance: 523.421307949453 meters
+  Difference between 2D and 3D distances: 0.523112605137499 meters
+Batch 4:
+  2D Distance: 421.79227477128 meters
+  3D Distance: 422.160217200411 meters
+  Difference between 2D and 3D distances: 0.367942429130437 meters
+Batch 5:
+  2D Distance: 768.263772442048 meters
+  3D Distance: 768.400981074171 meters
+  Difference between 2D and 3D distances: 0.13720863212302 meters
+Batch 6:
+  2D Distance: 706.530814172566 meters
+  3D Distance: 706.853588717118 meters
+  Difference between 2D and 3D distances: 0.322774544551862 meters
+Batch 7:
+  2D Distance: 584.188786543645 meters
+  3D Distance: 584.636281514697 meters
+  Difference between 2D and 3D distances: 0.447494971051356 meters
+Batch 8:
+  2D Distance: 407.21397273756 meters
+  3D Distance: 410.299040681438 meters
+  Difference between 2D and 3D distances: 3.08506794387841 meters
+Batch 9:
+  2D Distance: 425.188586994366 meters
+  3D Distance: 429.337395869584 meters
+  Difference between 2D and 3D distances: 4.14880887521747 meters
+Batch 10:
+  2D Distance: 556.842067915747 meters
+  3D Distance: 557.146391542352 meters
+  Difference between 2D and 3D distances: 0.30432362660531 meters
+Batch 11:
+  2D Distance: 581.007239346296 meters
+  3D Distance: 581.240815764652 meters
+  Difference between 2D and 3D distances: 0.233576418355938 meters
+Batch 12:
+  2D Distance: 519.136403840683 meters
+  3D Distance: 522.516231057496 meters
+  Difference between 2D and 3D distances: 3.37982721681374 meters
+Batch 13:
+  2D Distance: 474.356175005067 meters
+  3D Distance: 479.15419766254 meters
+  Difference between 2D and 3D distances: 4.79802265747361 meters
+Batch 14:
+  2D Distance: 1190.44010534471 meters
+  3D Distance: 1215.72485490909 meters
+  Difference between 2D and 3D distances: 25.2847495643734 meters
+Batch 15:
+  2D Distance: 1359.90073977448 meters
+  3D Distance: 1378.08978003892 meters
+  Difference between 2D and 3D distances: 18.1890402644378 meters
+Batch 16:
+  2D Distance: 1018.26287332829 meters
+  3D Distance: 1032.81829775711 meters
+  Difference between 2D and 3D distances: 14.5554244288197 meters
+Batch 17:
+  2D Distance: 661.914783312011 meters
+  3D Distance: 675.602192321863 meters
+  Difference between 2D and 3D distances: 13.6874090098527 meters
+Batch 18:
+  2D Distance: 651.333692360264 meters
+  3D Distance: 656.953044643343 meters
+  Difference between 2D and 3D distances: 5.61935228307948 meters
+Batch 19:
+  2D Distance: 2654.58741420291 meters
+  3D Distance: 2656.93114814128 meters
+  Difference between 2D and 3D distances: 2.34373393836722 meters
+Batch 20:
+  2D Distance: 547.011036701953 meters
+  3D Distance: 547.121951956125 meters
+  Difference between 2D and 3D distances: 0.110915254171346 meters
+Batch 21:
+  2D Distance: 485.279047398174 meters
+  3D Distance: 485.319820999353 meters
+  Difference between 2D and 3D distances: 0.0407736011788415 meters
+Batch 22:
+  2D Distance: 338.418027019659 meters
+  3D Distance: 338.51136875633 meters
+  Difference between 2D and 3D distances: 0.0933417366707658 meters
+Batch 23:
+  2D Distance: 324.080994278844 meters
+  3D Distance: 324.179804797323 meters
+  Difference between 2D and 3D distances: 0.098810518478615 meters
+Batch 24:
+  2D Distance: 420.565853593951 meters
+  3D Distance: 420.635583595346 meters
+  Difference between 2D and 3D distances: 0.0697300013949302 meters
+Batch 25:
+  2D Distance: 76.6468888066502 meters
+  3D Distance: 76.6521419074034 meters
+  Difference between 2D and 3D distances: 0.00525310075322238 meters
+
+Average difference between 2D and 3D distances for LineString feature 1: 0.042127523501196 meters
+
+Processing LineString feature 2 of 11
+	Title of the LineString feature: Team 13 K9 Oso 
+	Total number of points in the LineString feature before filtering: 3893
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 3893
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 13 K9 Oso 
+Batch 1:
+  2D Distance: 364.098126871789 meters
+  3D Distance: 366.742122153903 meters
+  Difference between 2D and 3D distances: 2.64399528211436 meters
+Batch 2:
+  2D Distance: 468.111709269882 meters
+  3D Distance: 469.630821751578 meters
+  Difference between 2D and 3D distances: 1.51911248169631 meters
+Batch 3:
+  2D Distance: 647.39783932847 meters
+  3D Distance: 647.635350415317 meters
+  Difference between 2D and 3D distances: 0.237511086847121 meters
+Batch 4:
+  2D Distance: 545.555216571795 meters
+  3D Distance: 545.926514810347 meters
+  Difference between 2D and 3D distances: 0.37129823855264 meters
+Batch 5:
+  2D Distance: 401.559803586239 meters
+  3D Distance: 402.090919297566 meters
+  Difference between 2D and 3D distances: 0.531115711326208 meters
+Batch 6:
+  2D Distance: 300.443843396449 meters
+  3D Distance: 300.937193471185 meters
+  Difference between 2D and 3D distances: 0.493350074735531 meters
+Batch 7:
+  2D Distance: 551.803751754142 meters
+  3D Distance: 552.195761746288 meters
+  Difference between 2D and 3D distances: 0.392009992145404 meters
+Batch 8:
+  2D Distance: 382.483209932317 meters
+  3D Distance: 382.994148377622 meters
+  Difference between 2D and 3D distances: 0.510938445304191 meters
+Batch 9:
+  2D Distance: 403.921560193987 meters
+  3D Distance: 404.085104143434 meters
+  Difference between 2D and 3D distances: 0.16354394944733 meters
+Batch 10:
+  2D Distance: 383.205389591042 meters
+  3D Distance: 383.338209955913 meters
+  Difference between 2D and 3D distances: 0.132820364870611 meters
+Batch 11:
+  2D Distance: 501.951857834863 meters
+  3D Distance: 502.438000493478 meters
+  Difference between 2D and 3D distances: 0.486142658615563 meters
+Batch 12:
+  2D Distance: 450.740021750138 meters
+  3D Distance: 450.907540144381 meters
+  Difference between 2D and 3D distances: 0.167518394242563 meters
+Batch 13:
+  2D Distance: 454.343518765048 meters
+  3D Distance: 454.458362396742 meters
+  Difference between 2D and 3D distances: 0.114843631693816 meters
+Batch 14:
+  2D Distance: 447.823178404539 meters
+  3D Distance: 448.032730557193 meters
+  Difference between 2D and 3D distances: 0.209552152654055 meters
+Batch 15:
+  2D Distance: 572.151637034438 meters
+  3D Distance: 572.275835307295 meters
+  Difference between 2D and 3D distances: 0.124198272857711 meters
+Batch 16:
+  2D Distance: 388.42090634985 meters
+  3D Distance: 389.270807657209 meters
+  Difference between 2D and 3D distances: 0.849901307359119 meters
+Batch 17:
+  2D Distance: 510.185593718099 meters
+  3D Distance: 510.656399061164 meters
+  Difference between 2D and 3D distances: 0.470805343065138 meters
+Batch 18:
+  2D Distance: 318.007225242257 meters
+  3D Distance: 321.538211084749 meters
+  Difference between 2D and 3D distances: 3.53098584249216 meters
+Batch 19:
+  2D Distance: 309.388645580782 meters
+  3D Distance: 312.63931721919 meters
+  Difference between 2D and 3D distances: 3.25067163840805 meters
+Batch 20:
+  2D Distance: 363.338173893338 meters
+  3D Distance: 365.810484692792 meters
+  Difference between 2D and 3D distances: 2.47231079945402 meters
+Batch 21:
+  2D Distance: 343.881507968501 meters
+  3D Distance: 347.327575629601 meters
+  Difference between 2D and 3D distances: 3.44606766110024 meters
+Batch 22:
+  2D Distance: 414.135484462494 meters
+  3D Distance: 414.414096979939 meters
+  Difference between 2D and 3D distances: 0.278612517445254 meters
+Batch 23:
+  2D Distance: 387.973642755213 meters
+  3D Distance: 388.171521560759 meters
+  Difference between 2D and 3D distances: 0.197878805545486 meters
+Batch 24:
+  2D Distance: 443.921993913645 meters
+  3D Distance: 444.214181680821 meters
+  Difference between 2D and 3D distances: 0.292187767175335 meters
+Batch 25:
+  2D Distance: 521.295869714491 meters
+  3D Distance: 521.390987121652 meters
+  Difference between 2D and 3D distances: 0.0951174071603873 meters
+Batch 26:
+  2D Distance: 438.602080028314 meters
+  3D Distance: 440.767497129037 meters
+  Difference between 2D and 3D distances: 2.16541710072255 meters
+Batch 27:
+  2D Distance: 365.437476377175 meters
+  3D Distance: 369.943294999198 meters
+  Difference between 2D and 3D distances: 4.50581862202262 meters
+Batch 28:
+  2D Distance: 407.46871533817 meters
+  3D Distance: 411.467186846759 meters
+  Difference between 2D and 3D distances: 3.99847150858915 meters
+Batch 29:
+  2D Distance: 297.158745106693 meters
+  3D Distance: 303.076033585258 meters
+  Difference between 2D and 3D distances: 5.91728847856484 meters
+Batch 30:
+  2D Distance: 905.722539763062 meters
+  3D Distance: 922.025962765034 meters
+  Difference between 2D and 3D distances: 16.3034230019724 meters
+Batch 31:
+  2D Distance: 1086.99356226381 meters
+  3D Distance: 1104.80853063626 meters
+  Difference between 2D and 3D distances: 17.8149683724475 meters
+Batch 32:
+  2D Distance: 1021.96526688927 meters
+  3D Distance: 1042.04688894424 meters
+  Difference between 2D and 3D distances: 20.0816220549701 meters
+Batch 33:
+  2D Distance: 402.721408589853 meters
+  3D Distance: 406.633911054289 meters
+  Difference between 2D and 3D distances: 3.91250246443565 meters
+Batch 34:
+  2D Distance: 463.727187670494 meters
+  3D Distance: 478.61555909816 meters
+  Difference between 2D and 3D distances: 14.888371427666 meters
+Batch 35:
+  2D Distance: 573.112165307973 meters
+  3D Distance: 588.412689879233 meters
+  Difference between 2D and 3D distances: 15.3005245712602 meters
+Batch 36:
+  2D Distance: 360.623933676375 meters
+  3D Distance: 364.24588859387 meters
+  Difference between 2D and 3D distances: 3.62195491749424 meters
+Batch 37:
+  2D Distance: 431.118536165497 meters
+  3D Distance: 435.008340384988 meters
+  Difference between 2D and 3D distances: 3.88980421949088 meters
+Batch 38:
+  2D Distance: 401.712543448211 meters
+  3D Distance: 401.929487889236 meters
+  Difference between 2D and 3D distances: 0.216944441024282 meters
+Batch 39:
+  2D Distance: 2139.88821451967 meters
+  3D Distance: 2141.57492518024 meters
+  Difference between 2D and 3D distances: 1.6867106605664 meters
+
+Average difference between 2D and 3D distances for LineString feature 2: 0.0352739752485963 meters
+
+Processing LineString feature 3 of 11
+	Title of the LineString feature: Segment 1
+	Total number of points in the LineString feature before filtering: 22
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 22
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Segment 1
+Batch 1:
+  2D Distance: 2721.84787703926 meters
+  3D Distance: 2722.24486289586 meters
+  Difference between 2D and 3D distances: 0.396985856606989 meters
+
+Average difference between 2D and 3D distances for LineString feature 3: 0.0189040884098316 meters
+
+Processing LineString feature 4 of 11
+	Title of the LineString feature: Team 29 K9 Nate
+	Total number of points in the LineString feature before filtering: 4054
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 4054
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 29 K9 Nate
+Batch 1:
+  2D Distance: 549.213478546432 meters
+  3D Distance: 554.241817710381 meters
+  Difference between 2D and 3D distances: 5.028339163949 meters
+Batch 2:
+  2D Distance: 406.084896512935 meters
+  3D Distance: 414.180004056757 meters
+  Difference between 2D and 3D distances: 8.09510754382217 meters
+Batch 3:
+  2D Distance: 360.066788676393 meters
+  3D Distance: 369.026072221531 meters
+  Difference between 2D and 3D distances: 8.95928354513779 meters
+Batch 4:
+  2D Distance: 488.997838969749 meters
+  3D Distance: 494.26899036072 meters
+  Difference between 2D and 3D distances: 5.2711513909714 meters
+Batch 5:
+  2D Distance: 481.549123298896 meters
+  3D Distance: 495.234827468503 meters
+  Difference between 2D and 3D distances: 13.6857041696064 meters
+Batch 6:
+  2D Distance: 365.197390599148 meters
+  3D Distance: 368.002667765572 meters
+  Difference between 2D and 3D distances: 2.80527716642388 meters
+Batch 7:
+  2D Distance: 376.683146017196 meters
+  3D Distance: 380.300547251716 meters
+  Difference between 2D and 3D distances: 3.61740123452 meters
+Batch 8:
+  2D Distance: 334.185931112373 meters
+  3D Distance: 343.995444396021 meters
+  Difference between 2D and 3D distances: 9.80951328364785 meters
+Batch 9:
+  2D Distance: 305.053318494499 meters
+  3D Distance: 310.272436815346 meters
+  Difference between 2D and 3D distances: 5.21911832084703 meters
+Batch 10:
+  2D Distance: 385.583877016591 meters
+  3D Distance: 391.540900493224 meters
+  Difference between 2D and 3D distances: 5.95702347663291 meters
+Batch 11:
+  2D Distance: 415.442138820085 meters
+  3D Distance: 428.304080588286 meters
+  Difference between 2D and 3D distances: 12.8619417682012 meters
+Batch 12:
+  2D Distance: 311.932052816174 meters
+  3D Distance: 322.653030597587 meters
+  Difference between 2D and 3D distances: 10.720977781413 meters
+Batch 13:
+  2D Distance: 376.088211574511 meters
+  3D Distance: 391.76256956014 meters
+  Difference between 2D and 3D distances: 15.6743579856284 meters
+Batch 14:
+  2D Distance: 452.00315995341 meters
+  3D Distance: 465.527967032546 meters
+  Difference between 2D and 3D distances: 13.5248070791367 meters
+Batch 15:
+  2D Distance: 472.403754013735 meters
+  3D Distance: 482.28780222546 meters
+  Difference between 2D and 3D distances: 9.88404821172577 meters
+Batch 16:
+  2D Distance: 382.427203741058 meters
+  3D Distance: 389.13701684932 meters
+  Difference between 2D and 3D distances: 6.70981310826124 meters
+Batch 17:
+  2D Distance: 406.590564410347 meters
+  3D Distance: 422.564926670684 meters
+  Difference between 2D and 3D distances: 15.9743622603373 meters
+Batch 18:
+  2D Distance: 311.659006961722 meters
+  3D Distance: 323.756517050955 meters
+  Difference between 2D and 3D distances: 12.0975100892329 meters
+Batch 19:
+  2D Distance: 455.575047146705 meters
+  3D Distance: 467.643786477738 meters
+  Difference between 2D and 3D distances: 12.0687393310329 meters
+Batch 20:
+  2D Distance: 447.674399173137 meters
+  3D Distance: 457.603962607519 meters
+  Difference between 2D and 3D distances: 9.92956343438175 meters
+Batch 21:
+  2D Distance: 1190.15587851492 meters
+  3D Distance: 1205.68556152353 meters
+  Difference between 2D and 3D distances: 15.5296830086133 meters
+Batch 22:
+  2D Distance: 1463.14127839615 meters
+  3D Distance: 1477.24222516108 meters
+  Difference between 2D and 3D distances: 14.1009467649326 meters
+Batch 23:
+  2D Distance: 1536.53853660154 meters
+  3D Distance: 1572.432144653 meters
+  Difference between 2D and 3D distances: 35.8936080514609 meters
+Batch 24:
+  2D Distance: 2994.69613446856 meters
+  3D Distance: 2997.85890341432 meters
+  Difference between 2D and 3D distances: 3.16276894576595 meters
+Batch 25:
+  2D Distance: 858.242064776 meters
+  3D Distance: 864.240560702039 meters
+  Difference between 2D and 3D distances: 5.9984959260388 meters
+Batch 26:
+  2D Distance: 904.759314407863 meters
+  3D Distance: 914.891019998959 meters
+  Difference between 2D and 3D distances: 10.1317055910962 meters
+Batch 27:
+  2D Distance: 1065.24542391906 meters
+  3D Distance: 1079.39907226433 meters
+  Difference between 2D and 3D distances: 14.1536483452733 meters
+Batch 28:
+  2D Distance: 393.545005358857 meters
+  3D Distance: 403.49904138423 meters
+Total number of objects in the GeoJSON data: 26
+
+Processing LineString feature 1 of 11
+	Title of the LineString feature: 13
+	Total number of points in the LineString feature before filtering: 2577
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2413
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: 13
+Batch 1:
+  2D Distance: 682.285202296087 meters
+  3D Distance: 685.177035121919 meters
+  Difference between 2D and 3D distances: 2.89183282583213 meters
+Batch 2:
+  2D Distance: 673.621616821962 meters
+  3D Distance: 674.4946770591 meters
+  Difference between 2D and 3D distances: 0.873060237138247 meters
+Batch 3:
+  2D Distance: 522.898195344315 meters
+  3D Distance: 523.421307949453 meters
+  Difference between 2D and 3D distances: 0.523112605137499 meters
+Batch 4:
+  2D Distance: 421.79227477128 meters
+  3D Distance: 422.160217200411 meters
+  Difference between 2D and 3D distances: 0.367942429130437 meters
+Batch 5:
+  2D Distance: 768.263772442048 meters
+  3D Distance: 768.400981074171 meters
+  Difference between 2D and 3D distances: 0.13720863212302 meters
+Batch 6:
+  2D Distance: 706.530814172566 meters
+  3D Distance: 706.853588717118 meters
+  Difference between 2D and 3D distances: 0.322774544551862 meters
+Batch 7:
+  2D Distance: 584.188786543645 meters
+  3D Distance: 584.636281514697 meters
+  Difference between 2D and 3D distances: 0.447494971051356 meters
+Batch 8:
+  2D Distance: 407.21397273756 meters
+  3D Distance: 410.299040681438 meters
+  Difference between 2D and 3D distances: 3.08506794387841 meters
+Batch 9:
+  2D Distance: 425.188586994366 meters
+  3D Distance: 429.337395869584 meters
+  Difference between 2D and 3D distances: 4.14880887521747 meters
+Batch 10:
+  2D Distance: 556.842067915747 meters
+  3D Distance: 557.146391542352 meters
+  Difference between 2D and 3D distances: 0.30432362660531 meters
+Batch 11:
+  2D Distance: 581.007239346296 meters
+  3D Distance: 581.240815764652 meters
+  Difference between 2D and 3D distances: 0.233576418355938 meters
+Batch 12:
+  2D Distance: 519.136403840683 meters
+  3D Distance: 522.516231057496 meters
+  Difference between 2D and 3D distances: 3.37982721681374 meters
+Batch 13:
+  2D Distance: 474.356175005067 meters
+  3D Distance: 479.15419766254 meters
+  Difference between 2D and 3D distances: 4.79802265747361 meters
+Batch 14:
+  2D Distance: 1190.44010534471 meters
+  3D Distance: 1215.72485490909 meters
+  Difference between 2D and 3D distances: 25.2847495643734 meters
+Batch 15:
+  2D Distance: 1359.90073977448 meters
+  3D Distance: 1378.08978003892 meters
+  Difference between 2D and 3D distances: 18.1890402644378 meters
+Batch 16:
+  2D Distance: 1018.26287332829 meters
+  3D Distance: 1032.81829775711 meters
+  Difference between 2D and 3D distances: 14.5554244288197 meters
+Batch 17:
+  2D Distance: 661.914783312011 meters
+  3D Distance: 675.602192321863 meters
+  Difference between 2D and 3D distances: 13.6874090098527 meters
+Batch 18:
+  2D Distance: 651.333692360264 meters
+  3D Distance: 656.953044643343 meters
+  Difference between 2D and 3D distances: 5.61935228307948 meters
+Batch 19:
+  2D Distance: 2654.58741420291 meters
+  3D Distance: 2656.93114814128 meters
+  Difference between 2D and 3D distances: 2.34373393836722 meters
+Batch 20:
+  2D Distance: 547.011036701953 meters
+  3D Distance: 547.121951956125 meters
+  Difference between 2D and 3D distances: 0.110915254171346 meters
+Batch 21:
+  2D Distance: 485.279047398174 meters
+  3D Distance: 485.319820999353 meters
+  Difference between 2D and 3D distances: 0.0407736011788415 meters
+Batch 22:
+  2D Distance: 338.418027019659 meters
+  3D Distance: 338.51136875633 meters
+  Difference between 2D and 3D distances: 0.0933417366707658 meters
+Batch 23:
+  2D Distance: 324.080994278844 meters
+  3D Distance: 324.179804797323 meters
+  Difference between 2D and 3D distances: 0.098810518478615 meters
+Batch 24:
+  2D Distance: 420.565853593951 meters
+  3D Distance: 420.635583595346 meters
+  Difference between 2D and 3D distances: 0.0697300013949302 meters
+Batch 25:
+  2D Distance: 76.6468888066502 meters
+  3D Distance: 76.6521419074034 meters
+  Difference between 2D and 3D distances: 0.00525310075322238 meters
+
+Average difference between 2D and 3D distances for LineString feature 1: 13 --> 0.042127523501196 meters
+
+Processing LineString feature 2 of 11
+	Title of the LineString feature: Team 13 K9 Oso 
+	Total number of points in the LineString feature before filtering: 3893
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 3893
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 13 K9 Oso 
+Batch 1:
+  2D Distance: 364.098126871789 meters
+  3D Distance: 366.742122153903 meters
+  Difference between 2D and 3D distances: 2.64399528211436 meters
+Batch 2:
+  2D Distance: 468.111709269882 meters
+  3D Distance: 469.630821751578 meters
+  Difference between 2D and 3D distances: 1.51911248169631 meters
+Batch 3:
+  2D Distance: 647.39783932847 meters
+  3D Distance: 647.635350415317 meters
+  Difference between 2D and 3D distances: 0.237511086847121 meters
+Batch 4:
+  2D Distance: 545.555216571795 meters
+  3D Distance: 545.926514810347 meters
+  Difference between 2D and 3D distances: 0.37129823855264 meters
+Batch 5:
+  2D Distance: 401.559803586239 meters
+  3D Distance: 402.090919297566 meters
+  Difference between 2D and 3D distances: 0.531115711326208 meters
+Batch 6:
+  2D Distance: 300.443843396449 meters
+  3D Distance: 300.937193471185 meters
+  Difference between 2D and 3D distances: 0.493350074735531 meters
+Batch 7:
+  2D Distance: 551.803751754142 meters
+  3D Distance: 552.195761746288 meters
+  Difference between 2D and 3D distances: 0.392009992145404 meters
+Batch 8:
+  2D Distance: 382.483209932317 meters
+  3D Distance: 382.994148377622 meters
+  Difference between 2D and 3D distances: 0.510938445304191 meters
+Batch 9:
+  2D Distance: 403.921560193987 meters
+  3D Distance: 404.085104143434 meters
+  Difference between 2D and 3D distances: 0.16354394944733 meters
+Batch 10:
+  2D Distance: 383.205389591042 meters
+  3D Distance: 383.338209955913 meters
+  Difference between 2D and 3D distances: 0.132820364870611 meters
+Batch 11:
+  2D Distance: 501.951857834863 meters
+  3D Distance: 502.438000493478 meters
+  Difference between 2D and 3D distances: 0.486142658615563 meters
+Batch 12:
+  2D Distance: 450.740021750138 meters
+  3D Distance: 450.907540144381 meters
+  Difference between 2D and 3D distances: 0.167518394242563 meters
+Batch 13:
+  2D Distance: 454.343518765048 meters
+  3D Distance: 454.458362396742 meters
+  Difference between 2D and 3D distances: 0.114843631693816 meters
+Batch 14:
+  2D Distance: 447.823178404539 meters
+  3D Distance: 448.032730557193 meters
+  Difference between 2D and 3D distances: 0.209552152654055 meters
+Batch 15:
+  2D Distance: 572.151637034438 meters
+  3D Distance: 572.275835307295 meters
+  Difference between 2D and 3D distances: 0.124198272857711 meters
+Batch 16:
+  2D Distance: 388.42090634985 meters
+  3D Distance: 389.270807657209 meters
+  Difference between 2D and 3D distances: 0.849901307359119 meters
+Batch 17:
+  2D Distance: 510.185593718099 meters
+  3D Distance: 510.656399061164 meters
+  Difference between 2D and 3D distances: 0.470805343065138 meters
+Batch 18:
+  2D Distance: 318.007225242257 meters
+  3D Distance: 321.538211084749 meters
+  Difference between 2D and 3D distances: 3.53098584249216 meters
+Batch 19:
+  2D Distance: 309.388645580782 meters
+  3D Distance: 312.63931721919 meters
+  Difference between 2D and 3D distances: 3.25067163840805 meters
+Batch 20:
+  2D Distance: 363.338173893338 meters
+  3D Distance: 365.810484692792 meters
+  Difference between 2D and 3D distances: 2.47231079945402 meters
+Batch 21:
+  2D Distance: 343.881507968501 meters
+  3D Distance: 347.327575629601 meters
+  Difference between 2D and 3D distances: 3.44606766110024 meters
+Batch 22:
+  2D Distance: 414.135484462494 meters
+  3D Distance: 414.414096979939 meters
+  Difference between 2D and 3D distances: 0.278612517445254 meters
+Batch 23:
+  2D Distance: 387.973642755213 meters
+  3D Distance: 388.171521560759 meters
+  Difference between 2D and 3D distances: 0.197878805545486 meters
+Batch 24:
+  2D Distance: 443.921993913645 meters
+  3D Distance: 444.214181680821 meters
+  Difference between 2D and 3D distances: 0.292187767175335 meters
+Batch 25:
+  2D Distance: 521.295869714491 meters
+  3D Distance: 521.390987121652 meters
+  Difference between 2D and 3D distances: 0.0951174071603873 meters
+Batch 26:
+  2D Distance: 438.602080028314 meters
+  3D Distance: 440.767497129037 meters
+  Difference between 2D and 3D distances: 2.16541710072255 meters
+Batch 27:
+  2D Distance: 365.437476377175 meters
+  3D Distance: 369.943294999198 meters
+  Difference between 2D and 3D distances: 4.50581862202262 meters
+Batch 28:
+  2D Distance: 407.46871533817 meters
+  3D Distance: 411.467186846759 meters
+  Difference between 2D and 3D distances: 3.99847150858915 meters
+Batch 29:
+  2D Distance: 297.158745106693 meters
+  3D Distance: 303.076033585258 meters
+  Difference between 2D and 3D distances: 5.91728847856484 meters
+Batch 30:
+  2D Distance: 905.722539763062 meters
+  3D Distance: 922.025962765034 meters
+  Difference between 2D and 3D distances: 16.3034230019724 meters
+Batch 31:
+  2D Distance: 1086.99356226381 meters
+  3D Distance: 1104.80853063626 meters
+  Difference between 2D and 3D distances: 17.8149683724475 meters
+Batch 32:
+  2D Distance: 1021.96526688927 meters
+  3D Distance: 1042.04688894424 meters
+  Difference between 2D and 3D distances: 20.0816220549701 meters
+Batch 33:
+  2D Distance: 402.721408589853 meters
+  3D Distance: 406.633911054289 meters
+  Difference between 2D and 3D distances: 3.91250246443565 meters
+Batch 34:
+  2D Distance: 463.727187670494 meters
+  3D Distance: 478.61555909816 meters
+  Difference between 2D and 3D distances: 14.888371427666 meters
+Batch 35:
+  2D Distance: 573.112165307973 meters
+  3D Distance: 588.412689879233 meters
+  Difference between 2D and 3D distances: 15.3005245712602 meters
+Batch 36:
+  2D Distance: 360.623933676375 meters
+  3D Distance: 364.24588859387 meters
+  Difference between 2D and 3D distances: 3.62195491749424 meters
+Batch 37:
+  2D Distance: 431.118536165497 meters
+  3D Distance: 435.008340384988 meters
+  Difference between 2D and 3D distances: 3.88980421949088 meters
+Batch 38:
+  2D Distance: 401.712543448211 meters
+  3D Distance: 401.929487889236 meters
+  Difference between 2D and 3D distances: 0.216944441024282 meters
+Batch 39:
+  2D Distance: 2139.88821451967 meters
+  3D Distance: 2141.57492518024 meters
+  Difference between 2D and 3D distances: 1.6867106605664 meters
+
+Average difference between 2D and 3D distances for LineString feature 2: Team 13 K9 Oso  --> 0.0352739752485963 meters
+
+Processing LineString feature 3 of 11
+	Title of the LineString feature: Segment 1
+	Total number of points in the LineString feature before filtering: 22
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 22
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Segment 1
+Batch 1:
+  2D Distance: 2721.84787703926 meters
+  3D Distance: 2722.24486289586 meters
+  Difference between 2D and 3D distances: 0.396985856606989 meters
+
+Average difference between 2D and 3D distances for LineString feature 3: Segment 1 --> 0.0189040884098316 meters
+
+Processing LineString feature 4 of 11
+	Title of the LineString feature: Team 29 K9 Nate
+	Total number of points in the LineString feature before filtering: 4054
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 4054
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 29 K9 Nate
+Batch 1:
+  2D Distance: 549.213478546432 meters
+  3D Distance: 554.241817710381 meters
+  Difference between 2D and 3D distances: 5.028339163949 meters
+Batch 2:
+  2D Distance: 406.084896512935 meters
+  3D Distance: 414.180004056757 meters
+  Difference between 2D and 3D distances: 8.09510754382217 meters
+Batch 3:
+  2D Distance: 360.066788676393 meters
+  3D Distance: 369.026072221531 meters
+  Difference between 2D and 3D distances: 8.95928354513779 meters
+Batch 4:
+  2D Distance: 488.997838969749 meters
+  3D Distance: 494.26899036072 meters
+  Difference between 2D and 3D distances: 5.2711513909714 meters
+Batch 5:
+  2D Distance: 481.549123298896 meters
+  3D Distance: 495.234827468503 meters
+  Difference between 2D and 3D distances: 13.6857041696064 meters
+Batch 6:
+  2D Distance: 365.197390599148 meters
+  3D Distance: 368.002667765572 meters
+  Difference between 2D and 3D distances: 2.80527716642388 meters
+Batch 7:
+  2D Distance: 376.683146017196 meters
+  3D Distance: 380.300547251716 meters
+  Difference between 2D and 3D distances: 3.61740123452 meters
+Batch 8:
+  2D Distance: 334.185931112373 meters
+  3D Distance: 343.995444396021 meters
+  Difference between 2D and 3D distances: 9.80951328364785 meters
+Batch 9:
+  2D Distance: 305.053318494499 meters
+  3D Distance: 310.272436815346 meters
+  Difference between 2D and 3D distances: 5.21911832084703 meters
+Batch 10:
+  2D Distance: 385.583877016591 meters
+  3D Distance: 391.540900493224 meters
+  Difference between 2D and 3D distances: 5.95702347663291 meters
+Batch 11:
+  2D Distance: 415.442138820085 meters
+  3D Distance: 428.304080588286 meters
+  Difference between 2D and 3D distances: 12.8619417682012 meters
+Batch 12:
+  2D Distance: 311.932052816174 meters
+  3D Distance: 322.653030597587 meters
+  Difference between 2D and 3D distances: 10.720977781413 meters
+Batch 13:
+  2D Distance: 376.088211574511 meters
+  3D Distance: 391.76256956014 meters
+  Difference between 2D and 3D distances: 15.6743579856284 meters
+Batch 14:
+  2D Distance: 452.00315995341 meters
+  3D Distance: 465.527967032546 meters
+  Difference between 2D and 3D distances: 13.5248070791367 meters
+Batch 15:
+  2D Distance: 472.403754013735 meters
+  3D Distance: 482.28780222546 meters
+  Difference between 2D and 3D distances: 9.88404821172577 meters
+Batch 16:
+  2D Distance: 382.427203741058 meters
+  3D Distance: 389.13701684932 meters
+  Difference between 2D and 3D distances: 6.70981310826124 meters
+Batch 17:
+  2D Distance: 406.590564410347 meters
+  3D Distance: 422.564926670684 meters
+  Difference between 2D and 3D distances: 15.9743622603373 meters
+Batch 18:
+  2D Distance: 311.659006961722 meters
+  3D Distance: 323.756517050955 meters
+  Difference between 2D and 3D distances: 12.0975100892329 meters
+Batch 19:
+  2D Distance: 455.575047146705 meters
+  3D Distance: 467.643786477738 meters
+  Difference between 2D and 3D distances: 12.0687393310329 meters
+Batch 20:
+  2D Distance: 447.674399173137 meters
+  3D Distance: 457.603962607519 meters
+  Difference between 2D and 3D distances: 9.92956343438175 meters
+Batch 21:
+  2D Distance: 1190.15587851492 meters
+  3D Distance: 1205.68556152353 meters
+  Difference between 2D and 3D distances: 15.5296830086133 meters
+Batch 22:
+  2D Distance: 1463.14127839615 meters
+  3D Distance: 1477.24222516108 meters
+  Difference between 2D and 3D distances: 14.1009467649326 meters
+Batch 23:
+  2D Distance: 1536.53853660154 meters
+  3D Distance: 1572.432144653 meters
+  Difference between 2D and 3D distances: 35.8936080514609 meters
+Batch 24:
+  2D Distance: 2994.69613446856 meters
+  3D Distance: 2997.85890341432 meters
+  Difference between 2D and 3D distances: 3.16276894576595 meters
+Batch 25:
+  2D Distance: 858.242064776 meters
+  3D Distance: 864.240560702039 meters
+  Difference between 2D and 3D distances: 5.9984959260388 meters
+Batch 26:
+  2D Distance: 904.759314407863 meters
+  3D Distance: 914.891019998959 meters
+  Difference between 2D and 3D distances: 10.1317055910962 meters
+Batch 27:
+  2D Distance: 1065.24542391906 meters
+  3D Distance: 1079.39907226433 meters
+  Difference between 2D and 3D distances: 14.1536483452733 meters
+Batch 28:
+  2D Distance: 393.545005358857 meters
+  3D Distance: 403.49904138423 meters
+  Difference between 2D and 3D distances: 9.9540360253734 meters
+Batch 29:
+  2D Distance: 395.732175832651 meters
+  3D Distance: 400.742209122697 meters
+  Difference between 2D and 3D distances: 5.01003329004556 meters
+Batch 30:
+  2D Distance: 303.755758963586 meters
+  3D Distance: 308.232492416888 meters
+  Difference between 2D and 3D distances: 4.47673345330236 meters
+Batch 31:
+  2D Distance: 304.211892293453 meters
+  3D Distance: 308.700520329251 meters
+  Difference between 2D and 3D distances: 4.48862803579823 meters
+Batch 32:
+  2D Distance: 370.185043730016 meters
+  3D Distance: 376.838117088531 meters
+  Difference between 2D and 3D distances: 6.6530733585148 meters
+Batch 33:
+  2D Distance: 437.360465586107 meters
+  3D Distance: 451.69448240536 meters
+  Difference between 2D and 3D distances: 14.3340168192524 meters
+Batch 34:
+  2D Distance: 461.643269000774 meters
+  3D Distance: 477.960872177549 meters
+  Difference between 2D and 3D distances: 16.3176031767753 meters
+Batch 35:
+  2D Distance: 400.419364790888 meters
+  3D Distance: 414.748025049009 meters
+  Difference between 2D and 3D distances: 14.3286602581204 meters
+Batch 36:
+  2D Distance: 335.686430267508 meters
+  3D Distance: 343.531827829339 meters
+  Difference between 2D and 3D distances: 7.84539756183136 meters
+Batch 37:
+  2D Distance: 439.842903398338 meters
+  3D Distance: 450.775166215289 meters
+  Difference between 2D and 3D distances: 10.9322628169507 meters
+Batch 38:
+  2D Distance: 547.542072879709 meters
+  3D Distance: 558.164053569308 meters
+  Difference between 2D and 3D distances: 10.6219806895996 meters
+Batch 39:
+  2D Distance: 1343.28247191667 meters
+  3D Distance: 1354.7115715707 meters
+  Difference between 2D and 3D distances: 11.4290996540274 meters
+Batch 40:
+  2D Distance: 796.650354436005 meters
+  3D Distance: 796.804912585129 meters
+  Difference between 2D and 3D distances: 0.154558149124227 meters
+Batch 41:
+  2D Distance: 149.534543118644 meters
+  3D Distance: 149.589430628943 meters
+  Difference between 2D and 3D distances: 0.0548875102986415 meters
+
+Average difference between 2D and 3D distances for LineString feature 4: Team 29 K9 Nate --> 0.0995474630587485 meters
+
+Processing LineString feature 5 of 11
+	Title of the LineString feature: Segment 3
+	Total number of points in the LineString feature before filtering: 7
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 7
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Segment 3
+Batch 1:
+  2D Distance: 915.791909527283 meters
+  3D Distance: 927.111228825526 meters
+  Difference between 2D and 3D distances: 11.3193192982428 meters
+
+Average difference between 2D and 3D distances for LineString feature 5: Segment 3 --> 1.88655321637379 meters
+
+Processing LineString feature 6 of 11
+	Title of the LineString feature: Team 22 K9 R2 PM
+	Total number of points in the LineString feature before filtering: 2707
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2707
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 PM
+Batch 1:
+  2D Distance: 379.013714906238 meters
+  3D Distance: 379.178990149873 meters
+  Difference between 2D and 3D distances: 0.165275243635051 meters
+Batch 2:
+  2D Distance: 328.549276293336 meters
+  3D Distance: 328.968728393068 meters
+  Difference between 2D and 3D distances: 0.419452099732041 meters
+Batch 3:
+  2D Distance: 344.537308072275 meters
+  3D Distance: 348.571138633184 meters
+  Difference between 2D and 3D distances: 4.03383056090883 meters
+Batch 4:
+  2D Distance: 383.176754964133 meters
+  3D Distance: 383.649775784872 meters
+  Difference between 2D and 3D distances: 0.473020820739123 meters
+Batch 5:
+  2D Distance: 322.090901106023 meters
+  3D Distance: 323.123726894982 meters
+  Difference between 2D and 3D distances: 1.03282578895886 meters
+Batch 6:
+  2D Distance: 396.284534277447 meters
+  3D Distance: 397.112317326492 meters
+  Difference between 2D and 3D distances: 0.827783049045081 meters
+Batch 7:
+  2D Distance: 376.784431165634 meters
+  3D Distance: 385.627577094856 meters
+  Difference between 2D and 3D distances: 8.84314592922186 meters
+Batch 8:
+  2D Distance: 411.52099853556 meters
+  3D Distance: 412.133596264229 meters
+  Difference between 2D and 3D distances: 0.612597728668732 meters
+Batch 9:
+  2D Distance: 299.834226771821 meters
+  3D Distance: 303.437085495914 meters
+  Difference between 2D and 3D distances: 3.60285872409344 meters
+Batch 10:
+  2D Distance: 269.10256892729 meters
+  3D Distance: 279.00854742021 meters
+  Difference between 2D and 3D distances: 9.90597849292038 meters
+Batch 11:
+  2D Distance: 374.427621867268 meters
+  3D Distance: 375.04821827842 meters
+  Difference between 2D and 3D distances: 0.620596411152235 meters
+Batch 12:
+  2D Distance: 426.363089514652 meters
+  3D Distance: 445.729983641289 meters
+  Difference between 2D and 3D distances: 19.3668941266372 meters
+Batch 13:
+  2D Distance: 379.051794213506 meters
+  3D Distance: 380.244586955636 meters
+  Difference between 2D and 3D distances: 1.19279274213045 meters
+Batch 14:
+  2D Distance: 302.105429907334 meters
+  3D Distance: 304.343636147812 meters
+  Difference between 2D and 3D distances: 2.23820624047841 meters
+Batch 15:
+  2D Distance: 323.291477463703 meters
+  3D Distance: 323.994469028515 meters
+  Difference between 2D and 3D distances: 0.702991564811498 meters
+Batch 16:
+  2D Distance: 323.23932604519 meters
+  3D Distance: 323.515325291195 meters
+  Difference between 2D and 3D distances: 0.275999246004574 meters
+Batch 17:
+  2D Distance: 319.82224206378 meters
+  3D Distance: 319.955247360868 meters
+  Difference between 2D and 3D distances: 0.133005297088175 meters
+Batch 18:
+  2D Distance: 233.089159347949 meters
+  3D Distance: 234.255380826178 meters
+  Difference between 2D and 3D distances: 1.16622147822812 meters
+Batch 19:
+  2D Distance: 294.621770520301 meters
+  3D Distance: 299.095113623615 meters
+  Difference between 2D and 3D distances: 4.47334310331394 meters
+Batch 20:
+  2D Distance: 385.161354282518 meters
+  3D Distance: 385.256093687252 meters
+  Difference between 2D and 3D distances: 0.0947394047336161 meters
+Batch 21:
+  2D Distance: 359.188148057166 meters
+  3D Distance: 360.054158920994 meters
+  Difference between 2D and 3D distances: 0.866010863828706 meters
+Batch 22:
+  2D Distance: 398.546079879805 meters
+  3D Distance: 411.047708537557 meters
+  Difference between 2D and 3D distances: 12.5016286577516 meters
+Batch 23:
+  2D Distance: 461.067610964888 meters
+  3D Distance: 463.701709918957 meters
+  Difference between 2D and 3D distances: 2.63409895406829 meters
+Batch 24:
+  2D Distance: 492.01899641427 meters
+  3D Distance: 520.087271921976 meters
+  Difference between 2D and 3D distances: 28.0682755077065 meters
+Batch 25:
+  2D Distance: 579.932939628873 meters
+  3D Distance: 591.0624653616 meters
+  Difference between 2D and 3D distances: 11.1295257327273 meters
+Batch 26:
+  2D Distance: 460.854814732006 meters
+  3D Distance: 461.432730972828 meters
+  Difference between 2D and 3D distances: 0.577916240821764 meters
+Batch 27:
+  2D Distance: 319.30670365171 meters
+  3D Distance: 321.326617974763 meters
+  Difference between 2D and 3D distances: 2.01991432305255 meters
+Batch 28:
+  2D Distance: 15.6908045094951 meters
+  3D Distance: 15.6976134050416 meters
+  Difference between 2D and 3D distances: 0.00680889554653952 meters
+
+Average difference between 2D and 3D distances for LineString feature 6: Team 22 K9 R2 PM --> 0.0436015289090931 meters
+
+Processing LineString feature 7 of 11
+	Title of the LineString feature: Segment 2
+	Total number of points in the LineString feature before filtering: 32
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 32
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Segment 2
+Batch 1:
+  2D Distance: 4120.37489347132 meters
+  3D Distance: 4121.15741923812 meters
+  Difference between 2D and 3D distances: 0.782525766800063 meters
+
+Average difference between 2D and 3D distances for LineString feature 7: Segment 2 --> 0.0252427666709922 meters
+
+Processing LineString feature 8 of 11
+	Title of the LineString feature: Team 22 K9 R2 AM
+	Total number of points in the LineString feature before filtering: 2156
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2156
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 AM
+Batch 1:
+  2D Distance: 257.99575668545 meters
+  3D Distance: 258.25039358213 meters
+  Difference between 2D and 3D distances: 0.254636896679131 meters
+Batch 2:
+  2D Distance: 273.592689854368 meters
+  3D Distance: 273.781508521439 meters
+  Difference between 2D and 3D distances: 0.188818667071075 meters
+Batch 3:
+  2D Distance: 278.902739279865 meters
+  3D Distance: 279.115121330448 meters
+  Difference between 2D and 3D distances: 0.21238205058296 meters
+Batch 4:
+  2D Distance: 297.900318987421 meters
+  3D Distance: 298.115168308546 meters
+  Difference between 2D and 3D distances: 0.214849321125598 meters
+Batch 5:
+  2D Distance: 350.239919499384 meters
+  3D Distance: 350.700759465062 meters
+  Difference between 2D and 3D distances: 0.460839965678076 meters
+Batch 6:
+  2D Distance: 294.025671702753 meters
+  3D Distance: 294.319428757119 meters
+  Difference between 2D and 3D distances: 0.293757054365642 meters
+Batch 7:
+  2D Distance: 235.577902707197 meters
+  3D Distance: 235.960320010684 meters
+  Difference between 2D and 3D distances: 0.382417303486733 meters
+Batch 8:
+  2D Distance: 281.605540432508 meters
+  3D Distance: 282.778042913909 meters
+  Difference between 2D and 3D distances: 1.17250248140078 meters
+Batch 9:
+  2D Distance: 308.185234173198 meters
+  3D Distance: 308.478192644777 meters
+  Difference between 2D and 3D distances: 0.292958471579539 meters
+Batch 10:
+  2D Distance: 278.683156333642 meters
+  3D Distance: 279.714836233396 meters
+  Difference between 2D and 3D distances: 1.03167989975384 meters
+Batch 11:
+  2D Distance: 277.577803555605 meters
+  3D Distance: 277.757992952592 meters
+  Difference between 2D and 3D distances: 0.180189396987601 meters
+Batch 12:
+  2D Distance: 274.839210294154 meters
+  3D Distance: 275.121885224808 meters
+  Difference between 2D and 3D distances: 0.282674930653855 meters
+Batch 13:
+  2D Distance: 299.531122069708 meters
+  3D Distance: 300.269150440047 meters
+  Difference between 2D and 3D distances: 0.738028370339123 meters
+Batch 14:
+  2D Distance: 242.249479601441 meters
+  3D Distance: 242.660989672275 meters
+  Difference between 2D and 3D distances: 0.41151007083468 meters
+Batch 15:
+  2D Distance: 243.090316229346 meters
+  3D Distance: 243.467286055627 meters
+  Difference between 2D and 3D distances: 0.376969826281083 meters
+Batch 16:
+  2D Distance: 275.608705013956 meters
+  3D Distance: 275.719265572213 meters
+  Difference between 2D and 3D distances: 0.11056055825776 meters
+Batch 17:
+  2D Distance: 256.8762086012 meters
+  3D Distance: 257.203982519577 meters
+  Difference between 2D and 3D distances: 0.327773918376465 meters
+Batch 18:
+  2D Distance: 1043.5044293721 meters
+  3D Distance: 1046.73564398531 meters
+  Difference between 2D and 3D distances: 3.23121461320761 meters
+Batch 19:
+  2D Distance: 206.491904433807 meters
+  3D Distance: 206.526103375975 meters
+  Difference between 2D and 3D distances: 0.0341989421675066 meters
+Batch 20:
+  2D Distance: 332.842052586092 meters
+  3D Distance: 333.273255197076 meters
+  Difference between 2D and 3D distances: 0.431202610984315 meters
+Batch 21:
+  2D Distance: 435.072974382315 meters
+  3D Distance: 436.463923765505 meters
+  Difference between 2D and 3D distances: 1.39094938318993 meters
+Batch 22:
+  2D Distance: 232.51067755325 meters
+  3D Distance: 232.576297572656 meters
+  Difference between 2D and 3D distances: 0.0656200194059977 meters
+
+Average difference between 2D and 3D distances for LineString feature 8: Team 22 K9 R2 AM --> 0.00560822958348449 meters
+
+Processing LineString feature 9 of 11
+	Title of the LineString feature: Team 13 Handler 
+	Total number of points in the LineString feature before filtering: 1456
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1332
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 13 Handler 
+Batch 1:
+  2D Distance: 4866.97158860437 meters
+  3D Distance: 4867.48199369209 meters
+  Difference between 2D and 3D distances: 0.510405087718027 meters
+Batch 2:
+  2D Distance: 1280.96008918109 meters
+  3D Distance: 1283.80264304731 meters
+  Difference between 2D and 3D distances: 2.8425538662284 meters
+Batch 3:
+  2D Distance: 653.192496909812 meters
+  3D Distance: 653.962181183465 meters
+  Difference between 2D and 3D distances: 0.769684273652274 meters
+Batch 4:
+  2D Distance: 1000.06385566548 meters
+  3D Distance: 1000.51191135988 meters
+  Difference between 2D and 3D distances: 0.448055694394952 meters
+Batch 5:
+  2D Distance: 786.661019234389 meters
+  3D Distance: 786.957601848139 meters
+  Difference between 2D and 3D distances: 0.296582613750161 meters
+Batch 6:
+  2D Distance: 516.205566459606 meters
+  3D Distance: 518.883741254496 meters
+  Difference between 2D and 3D distances: 2.67817479489065 meters
+Batch 7:
+  2D Distance: 654.075139978216 meters
+  3D Distance: 659.377537378433 meters
+  Difference between 2D and 3D distances: 5.30239740021693 meters
+Batch 8:
+  2D Distance: 862.299478543564 meters
+  3D Distance: 862.555835993786 meters
+  Difference between 2D and 3D distances: 0.256357450222026 meters
+Batch 9:
+  2D Distance: 1024.90024759449 meters
+  3D Distance: 1033.41751245992 meters
+  Difference between 2D and 3D distances: 8.51726486543612 meters
+Batch 10:
+  2D Distance: 1358.25324961716 meters
+  3D Distance: 1380.16514005319 meters
+  Difference between 2D and 3D distances: 21.9118904360271 meters
+Batch 11:
+  2D Distance: 1891.74525025919 meters
+  3D Distance: 1922.48740808807 meters
+  Difference between 2D and 3D distances: 30.7421578288786 meters
+Batch 12:
+  2D Distance: 621.767279868692 meters
+  3D Distance: 632.536855442693 meters
+  Difference between 2D and 3D distances: 10.7695755740015 meters
+Batch 13:
+  2D Distance: 943.5645314787 meters
+  3D Distance: 952.897233047673 meters
+  Difference between 2D and 3D distances: 9.33270156897311 meters
+Batch 14:
+  2D Distance: 1598.65018247274 meters
+  3D Distance: 1598.74519132071 meters
+  Difference between 2D and 3D distances: 0.095008847971485 meters
+
+Average difference between 2D and 3D distances for LineString feature 9: Team 13 Handler  --> 0.0709788206629329 meters
+
+Processing LineString feature 10 of 11
+	Title of the LineString feature: Team 29 Handler
+	Total number of points in the LineString feature before filtering: 1659
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1568
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 29 Handler
+Batch 1:
+  2D Distance: 5836.1839439149 meters
+  3D Distance: 5842.57911452329 meters
+  Difference between 2D and 3D distances: 6.39517060838807 meters
+Batch 2:
+  2D Distance: 2406.646263859 meters
+  3D Distance: 2425.90277061993 meters
+  Difference between 2D and 3D distances: 19.2565067609362 meters
+Batch 3:
+  2D Distance: 1593.51520689934 meters
+  3D Distance: 1617.86475171485 meters
+  Difference between 2D and 3D distances: 24.3495448155024 meters
+Batch 4:
+  2D Distance: 706.321837110543 meters
+  3D Distance: 715.076470198201 meters
+  Difference between 2D and 3D distances: 8.75463308765848 meters
+Batch 5:
+  2D Distance: 714.427814568053 meters
+  3D Distance: 728.769467649473 meters
+  Difference between 2D and 3D distances: 14.3416530814195 meters
+Batch 6:
+  2D Distance: 594.119675549164 meters
+  3D Distance: 608.690349251181 meters
+  Difference between 2D and 3D distances: 14.5706737020168 meters
+Batch 7:
+  2D Distance: 748.581840642263 meters
+  3D Distance: 766.154338785978 meters
+  Difference between 2D and 3D distances: 17.5724981437149 meters
+Batch 8:
+  2D Distance: 2132.31615174066 meters
+  3D Distance: 2151.45728093263 meters
+  Difference between 2D and 3D distances: 19.1411291919603 meters
+Batch 9:
+  2D Distance: 2955.7124835019 meters
+  3D Distance: 2975.98098034958 meters
+  Difference between 2D and 3D distances: 20.2684968476769 meters
+Batch 10:
+  2D Distance: 3401.43840579321 meters
+  3D Distance: 3412.97079255672 meters
+  Difference between 2D and 3D distances: 11.5323867635075 meters
+Batch 11:
+  2D Distance: 1627.38740015909 meters
+  3D Distance: 1652.41014171373 meters
+  Difference between 2D and 3D distances: 25.0227415546435 meters
+Batch 12:
+  2D Distance: 920.378141029598 meters
+  3D Distance: 930.25890947152 meters
+  Difference between 2D and 3D distances: 9.88076844192176 meters
+Batch 13:
+  2D Distance: 890.937651132328 meters
+  3D Distance: 904.967239048077 meters
+  Difference between 2D and 3D distances: 14.0295879157493 meters
+Batch 14:
+  2D Distance: 1421.11984153305 meters
+  3D Distance: 1439.45645728852 meters
+  Difference between 2D and 3D distances: 18.3366157554706 meters
+Batch 15:
+  2D Distance: 1774.61319933743 meters
+  3D Distance: 1780.95120976978 meters
+  Difference between 2D and 3D distances: 6.33801043234166 meters
+Batch 16:
+  2D Distance: 2920.92328162068 meters
+  3D Distance: 2921.54425088693 meters
+  Difference between 2D and 3D distances: 0.620969266255543 meters
+
+Average difference between 2D and 3D distances for LineString feature 10: Team 29 Handler --> 0.147039812615932 meters
+
+Processing LineString feature 11 of 11
+	Title of the LineString feature: Team 22 Handler
+	Total number of points in the LineString feature before filtering: 1735
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1496
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 22 Handler
+Batch 1:
+  2D Distance: 4921.42212779225 meters
+  3D Distance: 4922.68171637373 meters
+  Difference between 2D and 3D distances: 1.25958858148442 meters
+Batch 2:
+  2D Distance: 1297.59622816287 meters
+  3D Distance: 1299.27426202539 meters
+  Difference between 2D and 3D distances: 1.67803386251285 meters
+Batch 3:
+  2D Distance: 607.977095110301 meters
+  3D Distance: 608.544376221293 meters
+  Difference between 2D and 3D distances: 0.567281110991985 meters
+Batch 4:
+  2D Distance: 480.005295116631 meters
+  3D Distance: 481.135896060724 meters
+  Difference between 2D and 3D distances: 1.13060094409275 meters
+Batch 5:
+  2D Distance: 486.555308544313 meters
+  3D Distance: 487.041877332375 meters
+  Difference between 2D and 3D distances: 0.486568788061959 meters
+Batch 6:
+  2D Distance: 469.734515031696 meters
+  3D Distance: 470.224486754448 meters
+  Difference between 2D and 3D distances: 0.489971722751875 meters
+Batch 7:
+  2D Distance: 1386.25453283919 meters
+  3D Distance: 1389.82400550943 meters
+  Difference between 2D and 3D distances: 3.56947267023793 meters
+Batch 8:
+  2D Distance: 922.26679759135 meters
+  3D Distance: 926.809679539791 meters
+  Difference between 2D and 3D distances: 4.54288194844173 meters
+Batch 9:
+  2D Distance: 850.942974184693 meters
+  3D Distance: 853.582657814063 meters
+  Difference between 2D and 3D distances: 2.63968362936942 meters
+Batch 10:
+  2D Distance: 925.404907642533 meters
+  3D Distance: 930.841950836599 meters
+  Difference between 2D and 3D distances: 5.43704319406584 meters
+Batch 11:
+  2D Distance: 1040.76056616038 meters
+  3D Distance: 1042.58501466135 meters
+  Difference between 2D and 3D distances: 1.82444850096431 meters
+Batch 12:
+  2D Distance: 741.227614409642 meters
+  3D Distance: 742.54448729229 meters
+  Difference between 2D and 3D distances: 1.31687288264834 meters
+Batch 13:
+  2D Distance: 596.497411635793 meters
+  3D Distance: 600.837028016265 meters
+  Difference between 2D and 3D distances: 4.33961638047174 meters
+Batch 14:
+  2D Distance: 1262.64753237048 meters
+  3D Distance: 1269.37452832136 meters
+  Difference between 2D and 3D distances: 6.72699595087715 meters
+Batch 15:
+  2D Distance: 858.130204508886 meters
+  3D Distance: 861.293532285271 meters
+  Difference between 2D and 3D distances: 3.16332777638456 meters
+
+Average difference between 2D and 3D distances for LineString feature 11: Team 22 Handler --> 0.0262022661828484 meters
+Program complete. Press Enter to End.
+Total number of objects in the GeoJSON data: 26
+
+Processing LineString feature 1 of 11
+	Title of the LineString feature: 13
+	Total number of points in the LineString feature before filtering: 2577
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2413
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: 13
+Batch 1:
+  2D Distance: 682.285202296087 meters
+  3D Distance: 685.177035121919 meters
+  Difference between 2D and 3D distances: 2.89183282583213 meters
+Batch 2:
+  2D Distance: 673.621616821962 meters
+  3D Distance: 674.4946770591 meters
+  Difference between 2D and 3D distances: 0.873060237138247 meters
+Batch 3:
+  2D Distance: 522.898195344315 meters
+  3D Distance: 523.421307949453 meters
+  Difference between 2D and 3D distances: 0.523112605137499 meters
+Batch 4:
+  2D Distance: 421.79227477128 meters
+  3D Distance: 422.160217200411 meters
+  Difference between 2D and 3D distances: 0.367942429130437 meters
+Batch 5:
+  2D Distance: 768.263772442048 meters
+  3D Distance: 768.400981074171 meters
+  Difference between 2D and 3D distances: 0.13720863212302 meters
+Batch 6:
+  2D Distance: 706.530814172566 meters
+  3D Distance: 706.853588717118 meters
+  Difference between 2D and 3D distances: 0.322774544551862 meters
+Batch 7:
+  2D Distance: 584.188786543645 meters
+  3D Distance: 584.636281514697 meters
+  Difference between 2D and 3D distances: 0.447494971051356 meters
+Batch 8:
+  2D Distance: 407.21397273756 meters
+  3D Distance: 410.299040681438 meters
+  Difference between 2D and 3D distances: 3.08506794387841 meters
+Batch 9:
+  2D Distance: 425.188586994366 meters
+  3D Distance: 429.337395869584 meters
+  Difference between 2D and 3D distances: 4.14880887521747 meters
+Batch 10:
+  2D Distance: 556.842067915747 meters
+  3D Distance: 557.146391542352 meters
+  Difference between 2D and 3D distances: 0.30432362660531 meters
+Batch 11:
+  2D Distance: 581.007239346296 meters
+  3D Distance: 581.240815764652 meters
+  Difference between 2D and 3D distances: 0.233576418355938 meters
+Batch 12:
+  2D Distance: 519.136403840683 meters
+  3D Distance: 522.516231057496 meters
+  Difference between 2D and 3D distances: 3.37982721681374 meters
+Batch 13:
+  2D Distance: 474.356175005067 meters
+  3D Distance: 479.15419766254 meters
+  Difference between 2D and 3D distances: 4.79802265747361 meters
+Batch 14:
+  2D Distance: 1190.44010534471 meters
+  3D Distance: 1215.72485490909 meters
+  Difference between 2D and 3D distances: 25.2847495643734 meters
+Batch 15:
+  2D Distance: 1359.90073977448 meters
+  3D Distance: 1378.08978003892 meters
+  Difference between 2D and 3D distances: 18.1890402644378 meters
+Batch 16:
+  2D Distance: 1018.26287332829 meters
+  3D Distance: 1032.81829775711 meters
+  Difference between 2D and 3D distances: 14.5554244288197 meters
+Batch 17:
+  2D Distance: 661.914783312011 meters
+  3D Distance: 675.602192321863 meters
+  Difference between 2D and 3D distances: 13.6874090098527 meters
+Batch 18:
+  2D Distance: 651.333692360264 meters
+  3D Distance: 656.953044643343 meters
+  Difference between 2D and 3D distances: 5.61935228307948 meters
+Batch 19:
+  2D Distance: 2654.58741420291 meters
+  3D Distance: 2656.93114814128 meters
+  Difference between 2D and 3D distances: 2.34373393836722 meters
+Batch 20:
+  2D Distance: 547.011036701953 meters
+  3D Distance: 547.121951956125 meters
+  Difference between 2D and 3D distances: 0.110915254171346 meters
+Batch 21:
+  2D Distance: 485.279047398174 meters
+  3D Distance: 485.319820999353 meters
+  Difference between 2D and 3D distances: 0.0407736011788415 meters
+Batch 22:
+  2D Distance: 338.418027019659 meters
+  3D Distance: 338.51136875633 meters
+  Difference between 2D and 3D distances: 0.0933417366707658 meters
+Batch 23:
+  2D Distance: 324.080994278844 meters
+  3D Distance: 324.179804797323 meters
+  Difference between 2D and 3D distances: 0.098810518478615 meters
+Batch 24:
+  2D Distance: 420.565853593951 meters
+  3D Distance: 420.635583595346 meters
+  Difference between 2D and 3D distances: 0.0697300013949302 meters
+Batch 25:
+  2D Distance: 76.6468888066502 meters
+  3D Distance: 76.6521419074034 meters
+  Difference between 2D and 3D distances: 0.00525310075322238 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 1: 13 --> 0.042127523501196 meters
+
+
+Processing LineString feature 2 of 11
+	Title of the LineString feature: Team 13 K9 Oso 
+	Total number of points in the LineString feature before filtering: 3893
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 3893
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 13 K9 Oso 
+Batch 1:
+  2D Distance: 364.098126871789 meters
+  3D Distance: 366.742122153903 meters
+  Difference between 2D and 3D distances: 2.64399528211436 meters
+Batch 2:
+  2D Distance: 468.111709269882 meters
+  3D Distance: 469.630821751578 meters
+  Difference between 2D and 3D distances: 1.51911248169631 meters
+Batch 3:
+  2D Distance: 647.39783932847 meters
+  3D Distance: 647.635350415317 meters
+  Difference between 2D and 3D distances: 0.237511086847121 meters
+Batch 4:
+  2D Distance: 545.555216571795 meters
+  3D Distance: 545.926514810347 meters
+  Difference between 2D and 3D distances: 0.37129823855264 meters
+Batch 5:
+  2D Distance: 401.559803586239 meters
+  3D Distance: 402.090919297566 meters
+  Difference between 2D and 3D distances: 0.531115711326208 meters
+Batch 6:
+  2D Distance: 300.443843396449 meters
+  3D Distance: 300.937193471185 meters
+  Difference between 2D and 3D distances: 0.493350074735531 meters
+Batch 7:
+  2D Distance: 551.803751754142 meters
+  3D Distance: 552.195761746288 meters
+  Difference between 2D and 3D distances: 0.392009992145404 meters
+Batch 8:
+  2D Distance: 382.483209932317 meters
+  3D Distance: 382.994148377622 meters
+  Difference between 2D and 3D distances: 0.510938445304191 meters
+Batch 9:
+  2D Distance: 403.921560193987 meters
+  3D Distance: 404.085104143434 meters
+  Difference between 2D and 3D distances: 0.16354394944733 meters
+Batch 10:
+  2D Distance: 383.205389591042 meters
+  3D Distance: 383.338209955913 meters
+  Difference between 2D and 3D distances: 0.132820364870611 meters
+Batch 11:
+  2D Distance: 501.951857834863 meters
+  3D Distance: 502.438000493478 meters
+  Difference between 2D and 3D distances: 0.486142658615563 meters
+Batch 12:
+  2D Distance: 450.740021750138 meters
+  3D Distance: 450.907540144381 meters
+  Difference between 2D and 3D distances: 0.167518394242563 meters
+Batch 13:
+  2D Distance: 454.343518765048 meters
+  3D Distance: 454.458362396742 meters
+  Difference between 2D and 3D distances: 0.114843631693816 meters
+Batch 14:
+  2D Distance: 447.823178404539 meters
+  3D Distance: 448.032730557193 meters
+  Difference between 2D and 3D distances: 0.209552152654055 meters
+Batch 15:
+  2D Distance: 572.151637034438 meters
+  3D Distance: 572.275835307295 meters
+  Difference between 2D and 3D distances: 0.124198272857711 meters
+Batch 16:
+  2D Distance: 388.42090634985 meters
+  3D Distance: 389.270807657209 meters
+  Difference between 2D and 3D distances: 0.849901307359119 meters
+Batch 17:
+  2D Distance: 510.185593718099 meters
+  3D Distance: 510.656399061164 meters
+  Difference between 2D and 3D distances: 0.470805343065138 meters
+Batch 18:
+  2D Distance: 318.007225242257 meters
+  3D Distance: 321.538211084749 meters
+  Difference between 2D and 3D distances: 3.53098584249216 meters
+Batch 19:
+  2D Distance: 309.388645580782 meters
+  3D Distance: 312.63931721919 meters
+  Difference between 2D and 3D distances: 3.25067163840805 meters
+Batch 20:
+  2D Distance: 363.338173893338 meters
+  3D Distance: 365.810484692792 meters
+  Difference between 2D and 3D distances: 2.47231079945402 meters
+Batch 21:
+  2D Distance: 343.881507968501 meters
+  3D Distance: 347.327575629601 meters
+  Difference between 2D and 3D distances: 3.44606766110024 meters
+Batch 22:
+  2D Distance: 414.135484462494 meters
+  3D Distance: 414.414096979939 meters
+  Difference between 2D and 3D distances: 0.278612517445254 meters
+Batch 23:
+  2D Distance: 387.973642755213 meters
+  3D Distance: 388.171521560759 meters
+  Difference between 2D and 3D distances: 0.197878805545486 meters
+Batch 24:
+  2D Distance: 443.921993913645 meters
+  3D Distance: 444.214181680821 meters
+  Difference between 2D and 3D distances: 0.292187767175335 meters
+Batch 25:
+  2D Distance: 521.295869714491 meters
+  3D Distance: 521.390987121652 meters
+  Difference between 2D and 3D distances: 0.0951174071603873 meters
+Batch 26:
+  2D Distance: 438.602080028314 meters
+  3D Distance: 440.767497129037 meters
+  Difference between 2D and 3D distances: 2.16541710072255 meters
+Batch 27:
+  2D Distance: 365.437476377175 meters
+  3D Distance: 369.943294999198 meters
+  Difference between 2D and 3D distances: 4.50581862202262 meters
+Batch 28:
+  2D Distance: 407.46871533817 meters
+  3D Distance: 411.467186846759 meters
+  Difference between 2D and 3D distances: 3.99847150858915 meters
+Batch 29:
+  2D Distance: 297.158745106693 meters
+  3D Distance: 303.076033585258 meters
+  Difference between 2D and 3D distances: 5.91728847856484 meters
+Batch 30:
+  2D Distance: 905.722539763062 meters
+  3D Distance: 922.025962765034 meters
+  Difference between 2D and 3D distances: 16.3034230019724 meters
+Batch 31:
+  2D Distance: 1086.99356226381 meters
+  3D Distance: 1104.80853063626 meters
+  Difference between 2D and 3D distances: 17.8149683724475 meters
+Batch 32:
+  2D Distance: 1021.96526688927 meters
+  3D Distance: 1042.04688894424 meters
+  Difference between 2D and 3D distances: 20.0816220549701 meters
+Batch 33:
+  2D Distance: 402.721408589853 meters
+  3D Distance: 406.633911054289 meters
+  Difference between 2D and 3D distances: 3.91250246443565 meters
+Batch 34:
+  2D Distance: 463.727187670494 meters
+  3D Distance: 478.61555909816 meters
+  Difference between 2D and 3D distances: 14.888371427666 meters
+Batch 35:
+  2D Distance: 573.112165307973 meters
+  3D Distance: 588.412689879233 meters
+  Difference between 2D and 3D distances: 15.3005245712602 meters
+Batch 36:
+  2D Distance: 360.623933676375 meters
+  3D Distance: 364.24588859387 meters
+  Difference between 2D and 3D distances: 3.62195491749424 meters
+Batch 37:
+  2D Distance: 431.118536165497 meters
+  3D Distance: 435.008340384988 meters
+  Difference between 2D and 3D distances: 3.88980421949088 meters
+Batch 38:
+  2D Distance: 401.712543448211 meters
+  3D Distance: 401.929487889236 meters
+  Difference between 2D and 3D distances: 0.216944441024282 meters
+Batch 39:
+  2D Distance: 2139.88821451967 meters
+  3D Distance: 2141.57492518024 meters
+  Difference between 2D and 3D distances: 1.6867106605664 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 2: Team 13 K9 Oso  --> 0.0352739752485963 meters
+
+
+Processing LineString feature 3 of 11
+	Title of the LineString feature: Segment 1
+	Total number of points in the LineString feature before filtering: 22
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 22
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Segment 1
+Batch 1:
+  2D Distance: 2721.84787703926 meters
+  3D Distance: 2722.24486289586 meters
+  Difference between 2D and 3D distances: 0.396985856606989 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 3: Segment 1 --> 0.0189040884098316 meters
+
+
+Processing LineString feature 4 of 11
+	Title of the LineString feature: Team 29 K9 Nate
+	Total number of points in the LineString feature before filtering: 4054
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 4054
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 29 K9 Nate
+Batch 1:
+  2D Distance: 549.213478546432 meters
+  3D Distance: 554.241817710381 meters
+  Difference between 2D and 3D distances: 5.028339163949 meters
+Batch 2:
+  2D Distance: 406.084896512935 meters
+  3D Distance: 414.180004056757 meters
+  Difference between 2D and 3D distances: 8.09510754382217 meters
+Batch 3:
+  2D Distance: 360.066788676393 meters
+  3D Distance: 369.026072221531 meters
+  Difference between 2D and 3D distances: 8.95928354513779 meters
+Batch 4:
+  2D Distance: 488.997838969749 meters
+  3D Distance: 494.26899036072 meters
+  Difference between 2D and 3D distances: 5.2711513909714 meters
+Batch 5:
+  2D Distance: 481.549123298896 meters
+  3D Distance: 495.234827468503 meters
+  Difference between 2D and 3D distances: 13.6857041696064 meters
+Batch 6:
+  2D Distance: 365.197390599148 meters
+  3D Distance: 368.002667765572 meters
+  Difference between 2D and 3D distances: 2.80527716642388 meters
+Batch 7:
+  2D Distance: 376.683146017196 meters
+  3D Distance: 380.300547251716 meters
+  Difference between 2D and 3D distances: 3.61740123452 meters
+Batch 8:
+  2D Distance: 334.185931112373 meters
+  3D Distance: 343.995444396021 meters
+  Difference between 2D and 3D distances: 9.80951328364785 meters
+Batch 9:
+  2D Distance: 305.053318494499 meters
+  3D Distance: 310.272436815346 meters
+  Difference between 2D and 3D distances: 5.21911832084703 meters
+Batch 10:
+  2D Distance: 385.583877016591 meters
+  3D Distance: 391.540900493224 meters
+  Difference between 2D and 3D distances: 5.95702347663291 meters
+Batch 11:
+  2D Distance: 415.442138820085 meters
+  3D Distance: 428.304080588286 meters
+  Difference between 2D and 3D distances: 12.8619417682012 meters
+Batch 12:
+  2D Distance: 311.932052816174 meters
+  3D Distance: 322.653030597587 meters
+  Difference between 2D and 3D distances: 10.720977781413 meters
+Batch 13:
+  2D Distance: 376.088211574511 meters
+  3D Distance: 391.76256956014 meters
+  Difference between 2D and 3D distances: 15.6743579856284 meters
+Batch 14:
+  2D Distance: 452.00315995341 meters
+  3D Distance: 465.527967032546 meters
+  Difference between 2D and 3D distances: 13.5248070791367 meters
+Batch 15:
+  2D Distance: 472.403754013735 meters
+  3D Distance: 482.28780222546 meters
+  Difference between 2D and 3D distances: 9.88404821172577 meters
+Batch 16:
+  2D Distance: 382.427203741058 meters
+  3D Distance: 389.13701684932 meters
+  Difference between 2D and 3D distances: 6.70981310826124 meters
+Batch 17:
+  2D Distance: 406.590564410347 meters
+  3D Distance: 422.564926670684 meters
+  Difference between 2D and 3D distances: 15.9743622603373 meters
+Batch 18:
+  2D Distance: 311.659006961722 meters
+  3D Distance: 323.756517050955 meters
+  Difference between 2D and 3D distances: 12.0975100892329 meters
+Batch 19:
+  2D Distance: 455.575047146705 meters
+  3D Distance: 467.643786477738 meters
+  Difference between 2D and 3D distances: 12.0687393310329 meters
+Batch 20:
+  2D Distance: 447.674399173137 meters
+  3D Distance: 457.603962607519 meters
+  Difference between 2D and 3D distances: 9.92956343438175 meters
+Batch 21:
+  2D Distance: 1190.15587851492 meters
+  3D Distance: 1205.68556152353 meters
+  Difference between 2D and 3D distances: 15.5296830086133 meters
+Batch 22:
+  2D Distance: 1463.14127839615 meters
+  3D Distance: 1477.24222516108 meters
+  Difference between 2D and 3D distances: 14.1009467649326 meters
+Batch 23:
+  2D Distance: 1536.53853660154 meters
+  3D Distance: 1572.432144653 meters
+  Difference between 2D and 3D distances: 35.8936080514609 meters
+Batch 24:
+  2D Distance: 2994.69613446856 meters
+  3D Distance: 2997.85890341432 meters
+  Difference between 2D and 3D distances: 3.16276894576595 meters
+Batch 25:
+  2D Distance: 858.242064776 meters
+  3D Distance: 864.240560702039 meters
+  Difference between 2D and 3D distances: 5.9984959260388 meters
+Batch 26:
+  2D Distance: 904.759314407863 meters
+  3D Distance: 914.891019998959 meters
+  Difference between 2D and 3D distances: 10.1317055910962 meters
+Batch 27:
+  2D Distance: 1065.24542391906 meters
+  3D Distance: 1079.39907226433 meters
+  Difference between 2D and 3D distances: 14.1536483452733 meters
+Batch 28:
+  2D Distance: 393.545005358857 meters
+  3D Distance: 403.49904138423 meters
+  Difference between 2D and 3D distances: 9.9540360253734 meters
+Batch 29:
+  2D Distance: 395.732175832651 meters
+  3D Distance: 400.742209122697 meters
+  Difference between 2D and 3D distances: 5.01003329004556 meters
+Batch 30:
+  2D Distance: 303.755758963586 meters
+  3D Distance: 308.232492416888 meters
+  Difference between 2D and 3D distances: 4.47673345330236 meters
+Batch 31:
+  2D Distance: 304.211892293453 meters
+  3D Distance: 308.700520329251 meters
+  Difference between 2D and 3D distances: 4.48862803579823 meters
+Batch 32:
+  2D Distance: 370.185043730016 meters
+  3D Distance: 376.838117088531 meters
+  Difference between 2D and 3D distances: 6.6530733585148 meters
+Batch 33:
+  2D Distance: 437.360465586107 meters
+  3D Distance: 451.69448240536 meters
+  Difference between 2D and 3D distances: 14.3340168192524 meters
+Batch 34:
+  2D Distance: 461.643269000774 meters
+  3D Distance: 477.960872177549 meters
+  Difference between 2D and 3D distances: 16.3176031767753 meters
+Batch 35:
+  2D Distance: 400.419364790888 meters
+  3D Distance: 414.748025049009 meters
+  Difference between 2D and 3D distances: 14.3286602581204 meters
+Batch 36:
+  2D Distance: 335.686430267508 meters
+  3D Distance: 343.531827829339 meters
+  Difference between 2D and 3D distances: 7.84539756183136 meters
+Batch 37:
+  2D Distance: 439.842903398338 meters
+  3D Distance: 450.775166215289 meters
+  Difference between 2D and 3D distances: 10.9322628169507 meters
+Batch 38:
+  2D Distance: 547.542072879709 meters
+  3D Distance: 558.164053569308 meters
+  Difference between 2D and 3D distances: 10.6219806895996 meters
+Batch 39:
+  2D Distance: 1343.28247191667 meters
+  3D Distance: 1354.7115715707 meters
+  Difference between 2D and 3D distances: 11.4290996540274 meters
+Batch 40:
+  2D Distance: 796.650354436005 meters
+  3D Distance: 796.804912585129 meters
+  Difference between 2D and 3D distances: 0.154558149124227 meters
+Batch 41:
+  2D Distance: 149.534543118644 meters
+  3D Distance: 149.589430628943 meters
+  Difference between 2D and 3D distances: 0.0548875102986415 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 4: Team 29 K9 Nate --> 0.0995474630587485 meters
+
+
+Processing LineString feature 5 of 11
+	Title of the LineString feature: Segment 3
+	Total number of points in the LineString feature before filtering: 7
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 7
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Segment 3
+Batch 1:
+  2D Distance: 915.791909527283 meters
+  3D Distance: 927.111228825526 meters
+  Difference between 2D and 3D distances: 11.3193192982428 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 5: Segment 3 --> 1.88655321637379 meters
+
+
+Processing LineString feature 6 of 11
+	Title of the LineString feature: Team 22 K9 R2 PM
+	Total number of points in the LineString feature before filtering: 2707
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2707
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 PM
+Batch 1:
+  2D Distance: 379.013714906238 meters
+  3D Distance: 379.178990149873 meters
+  Difference between 2D and 3D distances: 0.165275243635051 meters
+Batch 2:
+  2D Distance: 328.549276293336 meters
+  3D Distance: 328.968728393068 meters
+  Difference between 2D and 3D distances: 0.419452099732041 meters
+Batch 3:
+  2D Distance: 344.537308072275 meters
+  3D Distance: 348.571138633184 meters
+  Difference between 2D and 3D distances: 4.03383056090883 meters
+Batch 4:
+  2D Distance: 383.176754964133 meters
+  3D Distance: 383.649775784872 meters
+  Difference between 2D and 3D distances: 0.473020820739123 meters
+Batch 5:
+  2D Distance: 322.090901106023 meters
+  3D Distance: 323.123726894982 meters
+  Difference between 2D and 3D distances: 1.03282578895886 meters
+Batch 6:
+  2D Distance: 396.284534277447 meters
+  3D Distance: 397.112317326492 meters
+  Difference between 2D and 3D distances: 0.827783049045081 meters
+Batch 7:
+  2D Distance: 376.784431165634 meters
+  3D Distance: 385.627577094856 meters
+  Difference between 2D and 3D distances: 8.84314592922186 meters
+Batch 8:
+  2D Distance: 411.52099853556 meters
+  3D Distance: 412.133596264229 meters
+  Difference between 2D and 3D distances: 0.612597728668732 meters
+Batch 9:
+  2D Distance: 299.834226771821 meters
+  3D Distance: 303.437085495914 meters
+  Difference between 2D and 3D distances: 3.60285872409344 meters
+Batch 10:
+  2D Distance: 269.10256892729 meters
+  3D Distance: 279.00854742021 meters
+  Difference between 2D and 3D distances: 9.90597849292038 meters
+Batch 11:
+  2D Distance: 374.427621867268 meters
+  3D Distance: 375.04821827842 meters
+  Difference between 2D and 3D distances: 0.620596411152235 meters
+Batch 12:
+  2D Distance: 426.363089514652 meters
+  3D Distance: 445.729983641289 meters
+  Difference between 2D and 3D distances: 19.3668941266372 meters
+Batch 13:
+  2D Distance: 379.051794213506 meters
+  3D Distance: 380.244586955636 meters
+  Difference between 2D and 3D distances: 1.19279274213045 meters
+Batch 14:
+  2D Distance: 302.105429907334 meters
+  3D Distance: 304.343636147812 meters
+  Difference between 2D and 3D distances: 2.23820624047841 meters
+Batch 15:
+  2D Distance: 323.291477463703 meters
+  3D Distance: 323.994469028515 meters
+  Difference between 2D and 3D distances: 0.702991564811498 meters
+Batch 16:
+  2D Distance: 323.23932604519 meters
+  3D Distance: 323.515325291195 meters
+  Difference between 2D and 3D distances: 0.275999246004574 meters
+Batch 17:
+  2D Distance: 319.82224206378 meters
+  3D Distance: 319.955247360868 meters
+  Difference between 2D and 3D distances: 0.133005297088175 meters
+Batch 18:
+  2D Distance: 233.089159347949 meters
+  3D Distance: 234.255380826178 meters
+  Difference between 2D and 3D distances: 1.16622147822812 meters
+Batch 19:
+  2D Distance: 294.621770520301 meters
+  3D Distance: 299.095113623615 meters
+  Difference between 2D and 3D distances: 4.47334310331394 meters
+Batch 20:
+  2D Distance: 385.161354282518 meters
+  3D Distance: 385.256093687252 meters
+  Difference between 2D and 3D distances: 0.0947394047336161 meters
+Batch 21:
+  2D Distance: 359.188148057166 meters
+  3D Distance: 360.054158920994 meters
+  Difference between 2D and 3D distances: 0.866010863828706 meters
+Batch 22:
+  2D Distance: 398.546079879805 meters
+  3D Distance: 411.047708537557 meters
+  Difference between 2D and 3D distances: 12.5016286577516 meters
+Batch 23:
+  2D Distance: 461.067610964888 meters
+  3D Distance: 463.701709918957 meters
+  Difference between 2D and 3D distances: 2.63409895406829 meters
+Batch 24:
+  2D Distance: 492.01899641427 meters
+  3D Distance: 520.087271921976 meters
+  Difference between 2D and 3D distances: 28.0682755077065 meters
+Batch 25:
+  2D Distance: 579.932939628873 meters
+  3D Distance: 591.0624653616 meters
+  Difference between 2D and 3D distances: 11.1295257327273 meters
+Batch 26:
+  2D Distance: 460.854814732006 meters
+  3D Distance: 461.432730972828 meters
+  Difference between 2D and 3D distances: 0.577916240821764 meters
+Batch 27:
+  2D Distance: 319.30670365171 meters
+  3D Distance: 321.326617974763 meters
+  Difference between 2D and 3D distances: 2.01991432305255 meters
+Batch 28:
+  2D Distance: 15.6908045094951 meters
+  3D Distance: 15.6976134050416 meters
+  Difference between 2D and 3D distances: 0.00680889554653952 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 6: Team 22 K9 R2 PM --> 0.0436015289090931 meters
+
+
+Processing LineString feature 7 of 11
+	Title of the LineString feature: Segment 2
+	Total number of points in the LineString feature before filtering: 32
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 32
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Segment 2
+Batch 1:
+  2D Distance: 4120.37489347132 meters
+  3D Distance: 4121.15741923812 meters
+  Difference between 2D and 3D distances: 0.782525766800063 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 7: Segment 2 --> 0.0252427666709922 meters
+
+
+Processing LineString feature 8 of 11
+	Title of the LineString feature: Team 22 K9 R2 AM
+	Total number of points in the LineString feature before filtering: 2156
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2156
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 AM
+Batch 1:
+  2D Distance: 257.99575668545 meters
+  3D Distance: 258.25039358213 meters
+  Difference between 2D and 3D distances: 0.254636896679131 meters
+Batch 2:
+  2D Distance: 273.592689854368 meters
+  3D Distance: 273.781508521439 meters
+  Difference between 2D and 3D distances: 0.188818667071075 meters
+Batch 3:
+  2D Distance: 278.902739279865 meters
+  3D Distance: 279.115121330448 meters
+  Difference between 2D and 3D distances: 0.21238205058296 meters
+Batch 4:
+  2D Distance: 297.900318987421 meters
+  3D Distance: 298.115168308546 meters
+  Difference between 2D and 3D distances: 0.214849321125598 meters
+Batch 5:
+  2D Distance: 350.239919499384 meters
+  3D Distance: 350.700759465062 meters
+  Difference between 2D and 3D distances: 0.460839965678076 meters
+Batch 6:
+  2D Distance: 294.025671702753 meters
+  3D Distance: 294.319428757119 meters
+  Difference between 2D and 3D distances: 0.293757054365642 meters
+Batch 7:
+  2D Distance: 235.577902707197 meters
+  3D Distance: 235.960320010684 meters
+  Difference between 2D and 3D distances: 0.382417303486733 meters
+Batch 8:
+  2D Distance: 281.605540432508 meters
+  3D Distance: 282.778042913909 meters
+  Difference between 2D and 3D distances: 1.17250248140078 meters
+Batch 9:
+  2D Distance: 308.185234173198 meters
+  3D Distance: 308.478192644777 meters
+  Difference between 2D and 3D distances: 0.292958471579539 meters
+Batch 10:
+  2D Distance: 278.683156333642 meters
+  3D Distance: 279.714836233396 meters
+  Difference between 2D and 3D distances: 1.03167989975384 meters
+Batch 11:
+  2D Distance: 277.577803555605 meters
+  3D Distance: 277.757992952592 meters
+  Difference between 2D and 3D distances: 0.180189396987601 meters
+Batch 12:
+  2D Distance: 274.839210294154 meters
+  3D Distance: 275.121885224808 meters
+  Difference between 2D and 3D distances: 0.282674930653855 meters
+Batch 13:
+  2D Distance: 299.531122069708 meters
+  3D Distance: 300.269150440047 meters
+  Difference between 2D and 3D distances: 0.738028370339123 meters
+Batch 14:
+  2D Distance: 242.249479601441 meters
+  3D Distance: 242.660989672275 meters
+  Difference between 2D and 3D distances: 0.41151007083468 meters
+Batch 15:
+  2D Distance: 243.090316229346 meters
+  3D Distance: 243.467286055627 meters
+  Difference between 2D and 3D distances: 0.376969826281083 meters
+Batch 16:
+  2D Distance: 275.608705013956 meters
+  3D Distance: 275.719265572213 meters
+  Difference between 2D and 3D distances: 0.11056055825776 meters
+Batch 17:
+  2D Distance: 256.8762086012 meters
+  3D Distance: 257.203982519577 meters
+  Difference between 2D and 3D distances: 0.327773918376465 meters
+Batch 18:
+  2D Distance: 1043.5044293721 meters
+  3D Distance: 1046.73564398531 meters
+  Difference between 2D and 3D distances: 3.23121461320761 meters
+Batch 19:
+  2D Distance: 206.491904433807 meters
+  3D Distance: 206.526103375975 meters
+  Difference between 2D and 3D distances: 0.0341989421675066 meters
+Batch 20:
+  2D Distance: 332.842052586092 meters
+  3D Distance: 333.273255197076 meters
+  Difference between 2D and 3D distances: 0.431202610984315 meters
+Batch 21:
+  2D Distance: 435.072974382315 meters
+  3D Distance: 436.463923765505 meters
+  Difference between 2D and 3D distances: 1.39094938318993 meters
+Batch 22:
+  2D Distance: 232.51067755325 meters
+  3D Distance: 232.576297572656 meters
+  Difference between 2D and 3D distances: 0.0656200194059977 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 8: Team 22 K9 R2 AM --> 0.00560822958348449 meters
+
+
+Processing LineString feature 9 of 11
+	Title of the LineString feature: Team 13 Handler 
+	Total number of points in the LineString feature before filtering: 1456
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1332
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 13 Handler 
+Batch 1:
+  2D Distance: 4866.97158860437 meters
+  3D Distance: 4867.48199369209 meters
+  Difference between 2D and 3D distances: 0.510405087718027 meters
+Batch 2:
+  2D Distance: 1280.96008918109 meters
+  3D Distance: 1283.80264304731 meters
+  Difference between 2D and 3D distances: 2.8425538662284 meters
+Batch 3:
+  2D Distance: 653.192496909812 meters
+  3D Distance: 653.962181183465 meters
+  Difference between 2D and 3D distances: 0.769684273652274 meters
+Batch 4:
+  2D Distance: 1000.06385566548 meters
+  3D Distance: 1000.51191135988 meters
+  Difference between 2D and 3D distances: 0.448055694394952 meters
+Batch 5:
+  2D Distance: 786.661019234389 meters
+  3D Distance: 786.957601848139 meters
+  Difference between 2D and 3D distances: 0.296582613750161 meters
+Batch 6:
+  2D Distance: 516.205566459606 meters
+  3D Distance: 518.883741254496 meters
+  Difference between 2D and 3D distances: 2.67817479489065 meters
+Batch 7:
+  2D Distance: 654.075139978216 meters
+  3D Distance: 659.377537378433 meters
+  Difference between 2D and 3D distances: 5.30239740021693 meters
+Batch 8:
+  2D Distance: 862.299478543564 meters
+  3D Distance: 862.555835993786 meters
+  Difference between 2D and 3D distances: 0.256357450222026 meters
+Batch 9:
+  2D Distance: 1024.90024759449 meters
+  3D Distance: 1033.41751245992 meters
+  Difference between 2D and 3D distances: 8.51726486543612 meters
+Batch 10:
+  2D Distance: 1358.25324961716 meters
+  3D Distance: 1380.16514005319 meters
+  Difference between 2D and 3D distances: 21.9118904360271 meters
+Batch 11:
+  2D Distance: 1891.74525025919 meters
+  3D Distance: 1922.48740808807 meters
+  Difference between 2D and 3D distances: 30.7421578288786 meters
+Batch 12:
+  2D Distance: 621.767279868692 meters
+  3D Distance: 632.536855442693 meters
+  Difference between 2D and 3D distances: 10.7695755740015 meters
+Batch 13:
+  2D Distance: 943.5645314787 meters
+  3D Distance: 952.897233047673 meters
+  Difference between 2D and 3D distances: 9.33270156897311 meters
+Batch 14:
+  2D Distance: 1598.65018247274 meters
+  3D Distance: 1598.74519132071 meters
+  Difference between 2D and 3D distances: 0.095008847971485 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 9: Team 13 Handler  --> 0.0709788206629329 meters
+
+
+Processing LineString feature 10 of 11
+	Title of the LineString feature: Team 29 Handler
+	Total number of points in the LineString feature before filtering: 1659
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1568
+Minimum distance: 1 meters
+Batch size: 100
+Title of the LineString feature: Team 29 Handler
+Batch 1:
+  2D Distance: 5836.1839439149 meters
+  3D Distance: 5842.57911452329 meters
+  Difference between 2D and 3D distances: 6.39517060838807 meters
+Batch 2:
+  2D Distance: 2406.646263859 meters
+  3D Distance: 2425.90277061993 meters
+  Difference between 2D and 3D distances: 19.2565067609362 meters
+Batch 3:
+  2D Distance: 1593.51520689934 meters
+  3D Distance: 1617.86475171485 meters
+  Difference between 2D and 3D distances: 24.3495448155024 meters
+Batch 4:
+  2D Distance: 706.321837110543 meters
+  3D Distance: 715.076470198201 meters
+  Difference between 2D and 3D distances: 8.75463308765848 meters
+Batch 5:
+  2D Distance: 714.427814568053 meters
+  3D Distance: 728.769467649473 meters
+  Difference between 2D and 3D distances: 14.3416530814195 meters
+Batch 6:
+  2D Distance: 594.119675549164 meters
+  3D Distance: 608.690349251181 meters
+  Difference betTotal number of objects in the GeoJSON data: 26
+
+Processing LineString feature 1 of 11
+	Title of the LineString feature: 13
+	Total number of points in the LineString feature before filtering: 2577
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 890
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: 13
+Batch 1:
+  2D Distance: 1452.70674459144 meters
+  3D Distance: 1455.95420673568 meters
+  Difference between 2D and 3D distances: 3.24746214423203 meters
+Batch 2:
+  2D Distance: 1539.95298235173 meters
+  3D Distance: 1540.50960709221 meters
+  Difference between 2D and 3D distances: 0.556624740476764 meters
+Batch 3:
+  2D Distance: 1440.94252744354 meters
+  3D Distance: 1442.71549008761 meters
+  Difference between 2D and 3D distances: 1.77296264406641 meters
+Batch 4:
+  2D Distance: 1387.61064234706 meters
+  3D Distance: 1391.5914490937 meters
+  Difference between 2D and 3D distances: 3.98080674664379 meters
+Batch 5:
+  2D Distance: 1455.05657414466 meters
+  3D Distance: 1470.17898172237 meters
+  Difference between 2D and 3D distances: 15.1224075777072 meters
+Batch 6:
+  2D Distance: 2088.65757633189 meters
+  3D Distance: 2121.51945472298 meters
+  Difference between 2D and 3D distances: 32.8618783910879 meters
+Batch 7:
+  2D Distance: 1541.45122600067 meters
+  3D Distance: 1566.07705180163 meters
+  Difference between 2D and 3D distances: 24.6258258009611 meters
+Batch 8:
+  2D Distance: 2909.15908727108 meters
+  3D Distance: 2914.79883057412 meters
+  Difference between 2D and 3D distances: 5.63974330304336 meters
+Batch 9:
+  2D Distance: 1469.85227849613 meters
+  3D Distance: 1471.48136051214 meters
+  Difference between 2D and 3D distances: 1.62908201600385 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 1: 13 --> 0.100603817057618 meters
+
+
+Processing LineString feature 2 of 11
+	Title of the LineString feature: Team 13 K9 Oso 
+	Total number of points in the LineString feature before filtering: 3893
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1129
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 13 K9 Oso 
+Batch 1:
+  2D Distance: 1310.06958202615 meters
+  3D Distance: 1313.73440096983 meters
+  Difference between 2D and 3D distances: 3.66481894367348 meters
+Batch 2:
+  2D Distance: 1299.21413234735 meters
+  3D Distance: 1300.07467546951 meters
+  Difference between 2D and 3D distances: 0.860543122159697 meters
+Batch 3:
+  2D Distance: 1212.96177286869 meters
+  3D Distance: 1213.45538113068 meters
+  Difference between 2D and 3D distances: 0.493608261988811 meters
+Batch 4:
+  2D Distance: 1285.51182138165 meters
+  3D Distance: 1285.80267174892 meters
+  Difference between 2D and 3D distances: 0.290850367269968 meters
+Batch 5:
+  2D Distance: 1263.64357775088 meters
+  3D Distance: 1267.54057471537 meters
+  Difference between 2D and 3D distances: 3.89699696448292 meters
+Batch 6:
+  2D Distance: 1220.9709919266 meters
+  3D Distance: 1224.76668109758 meters
+  Difference between 2D and 3D distances: 3.79568917097913 meters
+Batch 7:
+  2D Distance: 1262.98906369121 meters
+  3D Distance: 1269.25059580085 meters
+  Difference between 2D and 3D distances: 6.26153210964094 meters
+Batch 8:
+  2D Distance: 1565.06875452578 meters
+  3D Distance: 1590.50907699155 meters
+  Difference between 2D and 3D distances: 25.4403224657733 meters
+Batch 9:
+  2D Distance: 1609.5401658182 meters
+  3D Distance: 1636.67902421922 meters
+  Difference between 2D and 3D distances: 27.138858401019 meters
+Batch 10:
+  2D Distance: 1310.78686504923 meters
+  3D Distance: 1332.63376708816 meters
+  Difference between 2D and 3D distances: 21.8469020389273 meters
+Batch 11:
+  2D Distance: 1986.67008527114 meters
+  3D Distance: 1990.32799794464 meters
+  Difference between 2D and 3D distances: 3.65791267349778 meters
+Batch 12:
+  2D Distance: 791.504010994842 meters
+  3D Distance: 792.564194441006 meters
+  Difference between 2D and 3D distances: 1.06018344616427 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 2: Team 13 K9 Oso  --> 0.0872413279836669 meters
+
+
+Processing LineString feature 3 of 11
+	Title of the LineString feature: Segment 1
+	Total number of points in the LineString feature before filtering: 22
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 21
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 1
+Batch 1:
+  2D Distance: 2719.92765372565 meters
+  3D Distance: 2720.32506850259 meters
+  Difference between 2D and 3D distances: 0.397414776940423 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 3: Segment 1 --> 0.0198707388470068 meters
+
+
+Processing LineString feature 4 of 11
+	Title of the LineString feature: Team 29 K9 Nate
+	Total number of points in the LineString feature before filtering: 4054
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1353
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 29 K9 Nate
+Batch 1:
+  2D Distance: 1344.35453588865 meters
+  3D Distance: 1361.67964954217 meters
+  Difference between 2D and 3D distances: 17.3251136535191 meters
+Batch 2:
+  2D Distance: 1195.98006398311 meters
+  3D Distance: 1217.07389916258 meters
+  Difference between 2D and 3D distances: 21.0938351794766 meters
+Batch 3:
+  2D Distance: 1229.52073838166 meters
+  3D Distance: 1259.72063282045 meters
+  Difference between 2D and 3D distances: 30.1998944387938 meters
+Batch 4:
+  2D Distance: 1243.57650504741 meters
+  3D Distance: 1268.95935501635 meters
+  Difference between 2D and 3D distances: 25.3828499689389 meters
+Batch 5:
+  2D Distance: 1410.69973769062 meters
+  3D Distance: 1435.97477178555 meters
+  Difference between 2D and 3D distances: 25.2750340949335 meters
+Batch 6:
+  2D Distance: 1666.91984013407 meters
+  3D Distance: 1680.62404314607 meters
+  Difference between 2D and 3D distances: 13.704203011991 meters
+Batch 7:
+  2D Distance: 1764.32769800597 meters
+  3D Distance: 1800.6990653426 meters
+  Difference between 2D and 3D distances: 36.3713673366267 meters
+Batch 8:
+  2D Distance: 3086.77163474573 meters
+  3D Distance: 3089.87855898754 meters
+  Difference between 2D and 3D distances: 3.10692424181252 meters
+Batch 9:
+  2D Distance: 1569.90945474678 meters
+  3D Distance: 1582.95290895798 meters
+  Difference between 2D and 3D distances: 13.0434542112018 meters
+Batch 10:
+  2D Distance: 1484.00069421108 meters
+  3D Distance: 1501.97147791956 meters
+  Difference between 2D and 3D distances: 17.9707837084827 meters
+Batch 11:
+  2D Distance: 1220.33394012894 meters
+  3D Distance: 1238.77653402895 meters
+  Difference between 2D and 3D distances: 18.4425939000146 meters
+Batch 12:
+  2D Distance: 1233.1408125172 meters
+  3D Distance: 1266.87174013313 meters
+  Difference between 2D and 3D distances: 33.7309276159244 meters
+Batch 13:
+  2D Distance: 1620.95709434861 meters
+  3D Distance: 1636.92642302902 meters
+  Difference between 2D and 3D distances: 15.9693286804031 meters
+Batch 14:
+  2D Distance: 970.044656968945 meters
+  3D Distance: 970.247658262148 meters
+  Difference between 2D and 3D distances: 0.203001293203215 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 4: Team 29 K9 Nate --> 0.201049786490623 meters
+
+
+Processing LineString feature 5 of 11
+	Title of the LineString feature: Segment 3
+	Total number of points in the LineString feature before filtering: 7
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 6
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 3
+Batch 1:
+  2D Distance: 914.215358965603 meters
+  3D Distance: 925.531965280606 meters
+  Difference between 2D and 3D distances: 11.3166063150027 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 5: Segment 3 --> 2.26332126300052 meters
+
+
+Processing LineString feature 6 of 11
+	Title of the LineString feature: Team 22 K9 R2 PM
+	Total number of points in the LineString feature before filtering: 2707
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 643
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 PM
+Batch 1:
+  2D Distance: 1205.26135346262 meters
+  3D Distance: 1207.32406909385 meters
+  Difference between 2D and 3D distances: 2.06271563123232 meters
+Batch 2:
+  2D Distance: 1199.05876767648 meters
+  3D Distance: 1204.21722281282 meters
+  Difference between 2D and 3D distances: 5.15845513634508 meters
+Batch 3:
+  2D Distance: 1199.32768095894 meters
+  3D Distance: 1221.28667544787 meters
+  Difference between 2D and 3D distances: 21.9589944889292 meters
+Batch 4:
+  2D Distance: 1190.13813251837 meters
+  3D Distance: 1193.87255967353 meters
+  Difference between 2D and 3D distances: 3.73442715516376 meters
+Batch 5:
+  2D Distance: 1232.70717373806 meters
+  3D Distance: 1240.54231310879 meters
+  Difference between 2D and 3D distances: 7.83513937073121 meters
+Batch 6:
+  2D Distance: 1330.97230290622 meters
+  3D Distance: 1359.08231454596 meters
+  Difference between 2D and 3D distances: 28.1100116397463 meters
+Batch 7:
+  2D Distance: 523.975199246911 meters
+  3D Distance: 525.884070309995 meters
+  Difference between 2D and 3D distances: 1.90887106308469 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 6: Team 22 K9 R2 PM --> 0.11023148673712 meters
+
+
+Processing LineString feature 7 of 11
+	Title of the LineString feature: Segment 2
+	Total number of points in the LineString feature before filtering: 32
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 31
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 2
+Batch 1:
+  2D Distance: 4115.91786717998 meters
+  3D Distance: 4116.6998727192 meters
+  Difference between 2D and 3D distances: 0.782005539216698 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 7: Segment 2 --> 0.0260668513072278 meters
+
+
+Processing LineString feature 8 of 11
+	Title of the LineString feature: Team 22 K9 R2 AM
+	Total number of points in the LineString feature before filtering: 2156
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 378
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 AM
+Batch 1:
+  2D Distance: 1191.67694621545 meters
+  3D Distance: 1192.49475838668 meters
+  Difference between 2D and 3D distances: 0.817812171225569 meters
+Batch 2:
+  2D Distance: 1151.05974553694 meters
+  3D Distance: 1152.33193133461 meters
+  Difference between 2D and 3D distances: 1.27218579767123 meters
+Batch 3:
+  2D Distance: 1453.7852449759 meters
+  3D Distance: 1455.46015730379 meters
+  Difference between 2D and 3D distances: 1.67491232788484 meters
+Batch 4:
+  2D Distance: 1111.03464434711 meters
+  3D Distance: 1114.91412090791 meters
+  Difference between 2D and 3D distances: 3.87947656080223 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 8: Team 22 K9 R2 AM --> 0.0202768882164033 meters
+
+
+Processing LineString feature 9 of 11
+	Title of the LineString feature: Team 13 Handler 
+	Total number of points in the LineString feature before filtering: 1456
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 694
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 13 Handler 
+Batch 1:
+  2D Distance: 5873.73514019402 meters
+  3D Distance: 5876.73665839316 meters
+  Difference between 2D and 3D distances: 3.00151819914845 meters
+Batch 2:
+  2D Distance: 1657.0541708473 meters
+  3D Distance: 1657.94392485584 meters
+  Difference between 2D and 3D distances: 0.889754008540649 meters
+Batch 3:
+  2D Distance: 1479Total number of objects in the GeoJSON data: 26
+
+Processing LineString feature 1 of 11
+	Title of the LineString feature: 13
+	Total number of points in the LineString feature before filtering: 2577
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 890
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: 13
+Batch 1:
+  2D Distance: 1452.70674459144 meters
+  3D Distance: 1455.95420673568 meters
+  Difference between 2D and 3D distances: 3.24746214423203 meters
+Batch 2:
+  2D Distance: 1539.95298235173 meters
+  3D Distance: 1540.50960709221 meters
+  Difference between 2D and 3D distances: 0.556624740476764 meters
+Batch 3:
+  2D Distance: 1440.94252744354 meters
+  3D Distance: 1442.71549008761 meters
+  Difference between 2D and 3D distances: 1.77296264406641 meters
+Batch 4:
+  2D Distance: 1387.61064234706 meters
+  3D Distance: 1391.5914490937 meters
+  Difference between 2D and 3D distances: 3.98080674664379 meters
+Batch 5:
+  2D Distance: 1455.05657414466 meters
+  3D Distance: 1470.17898172237 meters
+  Difference between 2D and 3D distances: 15.1224075777072 meters
+Batch 6:
+  2D Distance: 2088.65757633189 meters
+  3D Distance: 2121.51945472298 meters
+  Difference between 2D and 3D distances: 32.8618783910879 meters
+Batch 7:
+  2D Distance: 1541.45122600067 meters
+  3D Distance: 1566.07705180163 meters
+  Difference between 2D and 3D distances: 24.6258258009611 meters
+Batch 8:
+  2D Distance: 2909.15908727108 meters
+  3D Distance: 2914.79883057412 meters
+  Difference between 2D and 3D distances: 5.63974330304336 meters
+Batch 9:
+  2D Distance: 1469.85227849613 meters
+  3D Distance: 1471.48136051214 meters
+  Difference between 2D and 3D distances: 1.62908201600385 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 1: 13 --> 0.100603817057618 meters
+
+
+Processing LineString feature 2 of 11
+	Title of the LineString feature: Team 13 K9 Oso 
+	Total number of points in the LineString feature before filtering: 3893
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1129
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 13 K9 Oso 
+Batch 1:
+  2D Distance: 1310.06958202615 meters
+  3D Distance: 1313.73440096983 meters
+  Difference between 2D and 3D distances: 3.66481894367348 meters
+Batch 2:
+  2D Distance: 1299.21413234735 meters
+  3D Distance: 1300.07467546951 meters
+  Difference between 2D and 3D distances: 0.860543122159697 meters
+Batch 3:
+  2D Distance: 1212.96177286869 meters
+  3D Distance: 1213.45538113068 meters
+  Difference between 2D and 3D distances: 0.493608261988811 meters
+Batch 4:
+  2D Distance: 1285.51182138165 meters
+  3D Distance: 1285.80267174892 meters
+  Difference between 2D and 3D distances: 0.290850367269968 meters
+Batch 5:
+  2D Distance: 1263.64357775088 meters
+  3D Distance: 1267.54057471537 meters
+  Difference between 2D and 3D distances: 3.89699696448292 meters
+Batch 6:
+  2D Distance: 1220.9709919266 meters
+  3D Distance: 1224.76668109758 meters
+  Difference between 2D and 3D distances: 3.79568917097913 meters
+Batch 7:
+  2D Distance: 1262.98906369121 meters
+  3D Distance: 1269.25059580085 meters
+  Difference between 2D and 3D distances: 6.26153210964094 meters
+Batch 8:
+  2D Distance: 1565.06875452578 meters
+  3D Distance: 1590.50907699155 meters
+  Difference between 2D and 3D distances: 25.4403224657733 meters
+Batch 9:
+  2D Distance: 1609.5401658182 meters
+  3D Distance: 1636.67902421922 meters
+  Difference between 2D and 3D distances: 27.138858401019 meters
+Batch 10:
+  2D Distance: 1310.78686504923 meters
+  3D Distance: 1332.63376708816 meters
+  Difference between 2D and 3D distances: 21.8469020389273 meters
+Batch 11:
+  2D Distance: 1986.67008527114 meters
+  3D Distance: 1990.32799794464 meters
+  Difference between 2D and 3D distances: 3.65791267349778 meters
+Batch 12:
+  2D Distance: 791.504010994842 meters
+  3D Distance: 792.564194441006 meters
+  Difference between 2D and 3D distances: 1.06018344616427 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 2: Team 13 K9 Oso  --> 0.0872413279836669 meters
+
+
+Processing LineString feature 3 of 11
+	Title of the LineString feature: Segment 1
+	Total number of points in the LineString feature before filtering: 22
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 21
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 1
+Batch 1:
+  2D Distance: 2719.92765372565 meters
+  3D Distance: 2720.32506850259 meters
+  Difference between 2D and 3D distances: 0.397414776940423 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 3: Segment 1 --> 0.0198707388470068 meters
+
+
+Processing LineString feature 4 of 11
+	Title of the LineString feature: Team 29 K9 Nate
+	Total number of points in the LineString feature before filtering: 4054
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1353
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 29 K9 Nate
+Batch 1:
+  2D Distance: 1344.35453588865 meters
+  3D Distance: 1361.67964954217 meters
+  Difference between 2D and 3D distances: 17.3251136535191 meters
+Batch 2:
+  2D Distance: 1195.98006398311 meters
+  3D Distance: 1217.07389916258 meters
+  Difference between 2D and 3D distances: 21.0938351794766 meters
+Batch 3:
+  2D Distance: 1229.52073838166 meters
+  3D Distance: 1259.72063282045 meters
+  Difference between 2D and 3D distances: 30.1998944387938 meters
+Batch 4:
+  2D Distance: 1243.57650504741 meters
+  3D Distance: 1268.95935501635 meters
+  Difference between 2D and 3D distances: 25.3828499689389 meters
+Batch 5:
+  2D Distance: 1410.69973769062 meters
+  3D Distance: 1435.97477178555 meters
+  Difference between 2D and 3D distances: 25.2750340949335 meters
+Batch 6:
+  2D Distance: 1666.91984013407 meters
+  3D Distance: 1680.62404314607 meters
+  Difference between 2D and 3D distances: 13.704203011991 meters
+Batch 7:
+  2D Distance: 1764.32769800597 meters
+  3D Distance: 1800.6990653426 meters
+  Difference between 2D and 3D distances: 36.3713673366267 meters
+Batch 8:
+  2D Distance: 3086.77163474573 meters
+  3D Distance: 3089.87855898754 meters
+  Difference between 2D and 3D distances: 3.10692424181252 meters
+Batch 9:
+  2D Distance: 1569.90945474678 meters
+  3D Distance: 1582.95290895798 meters
+  Difference between 2D and 3D distances: 13.0434542112018 meters
+Batch 10:
+  2D Distance: 1484.00069421108 meters
+  3D Distance: 1501.97147791956 meters
+  Difference between 2D and 3D distances: 17.9707837084827 meters
+Batch 11:
+  2D Distance: 1220.33394012894 meters
+  3D Distance: 1238.77653402895 meters
+  Difference between 2D and 3D distances: 18.4425939000146 meters
+Batch 12:
+  2D Distance: 1233.1408125172 meters
+  3D Distance: 1266.87174013313 meters
+  Difference between 2D and 3D distances: 33.7309276159244 meters
+Batch 13:
+  2D Distance: 1620.95709434861 meters
+  3D Distance: 1636.92642302902 meters
+  Difference between 2D and 3D distances: 15.9693286804031 meters
+Batch 14:
+  2D Distance: 970.044656968945 meters
+  3D Distance: 970.247658262148 meters
+  Difference between 2D and 3D distances: 0.203001293203215 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 4: Team 29 K9 Nate --> 0.201049786490623 meters
+
+
+Processing LineString feature 5 of 11
+	Title of the LineString feature: Segment 3
+	Total number of points in the LineString feature before filtering: 7
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 6
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 3
+Batch 1:
+  2D Distance: 914.215358965603 meters
+  3D Distance: 925.531965280606 meters
+  Difference between 2D and 3D distances: 11.3166063150027 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 5: Segment 3 --> 2.26332126300052 meters
+
+
+Processing LineString feature 6 of 11
+	Title of the LineString feature: Team 22 K9 R2 PM
+	Total number of points in the LineString feature before filtering: 2707
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 643
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 PM
+Batch 1:
+  2D Distance: 1205.26135346262 meters
+  3D Distance: 1207.32406909385 meters
+  Difference between 2D and 3D distances: 2.06271563123232 meters
+Batch 2:
+  2D Distance: 1199.05876767648 meters
+  3D Distance: 1204.21722281282 meters
+  Difference between 2D and 3D distances: 5.15845513634508 meters
+Batch 3:
+  2D Distance: 1199.32768095894 meters
+  3D Distance: 1221.28667544787 meters
+  Difference between 2D and 3D distances: 21.9589944889292 meters
+Batch 4:
+  2D Distance: 1190.13813251837 meters
+  3D Distance: 1193.87255967353 meters
+  Difference between 2D and 3D distances: 3.73442715516376 meters
+Batch 5:
+  2D Distance: 1232.70717373806 meters
+  3D Distance: 1240.54231310879 meters
+  Difference between 2D and 3D distances: 7.83513937073121 meters
+Batch 6:
+  2D Distance: 1330.97230290622 meters
+  3D Distance: 1359.08231454596 meters
+  Difference between 2D and 3D distances: 28.1100116397463 meters
+Batch 7:
+  2D Distance: 523.975199246911 meters
+  3D Distance: 525.884070309995 meters
+  Difference between 2D and 3D distances: 1.90887106308469 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 6: Team 22 K9 R2 PM --> 0.11023148673712 meters
+
+
+Processing LineString feature 7 of 11
+	Title of the LineString feature: Segment 2
+	Total number of points in the LineString feature before filtering: 32
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 31
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 2
+Batch 1:
+  2D Distance: 4115.91786717998 meters
+  3D Distance: 4116.6998727192 meters
+  Difference between 2D and 3D distances: 0.782005539216698 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 7: Segment 2 --> 0.0260668513072278 meters
+
+
+Processing LineString feature 8 of 11
+	Title of the LineString feature: Team 22 K9 R2 AM
+	Total number of points in the LineString feature before filtering: 2156
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 378
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 AM
+Batch 1:
+  2D Distance: 1191.67694621545 meters
+  3D Distance: 1192.49475838668 meters
+  Difference between 2D and 3D distances: 0.817812171225569 meters
+Batch 2:
+  2D Distance: 1151.05974553694 meters
+  3D Distance: 1152.33193133461 meters
+  Difference between 2D and 3D distances: 1.27218579767123 meters
+Batch 3:
+  2D Distance: 1453.7852449759 meters
+  3D Distance: 1455.46015730379 meters
+  Difference between 2D and 3D distances: 1.67491232788484 meters
+Batch 4:
+  2D Distance: 1111.03464434711 meters
+  3D Distance: 1114.91412090791 meters
+  Difference between 2D and 3D distances: 3.87947656080223 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 8: Team 22 K9 R2 AM --> 0.0202768882164033 meters
+
+
+Processing LineString feature 9 of 11
+	Title of the LineString feature: Team 13 Handler 
+	Total number of points in the LineString feature before filtering: 1456
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 694
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 13 Handler 
+Batch 1:
+  2D Distance: 5873.73514019402 meters
+  3D Distance: 5876.73665839316 meters
+  Difference between 2D and 3D distances: 3.00151819914845 meters
+Batch 2:
+  2D Distance: 1657.0541708473 meters
+  3D Distance: 1657.94392485584 meters
+  Difference between 2D and 3D distances: 0.889754008540649 meters
+Batch 3:
+  2D Distance: 1479Total number of objects in the GeoJSON data: 26
+
+Processing LineString feature 1 of 11
+	Title of the LineString feature: 13
+	Total number of points in the LineString feature before filtering: 2577
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 890
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: 13
+Batch 1:
+  2D Distance: 1452.70674459144 meters
+  3D Distance: 1455.95420673568 meters
+  Difference between 2D and 3D distances: 3.24746214423203 meters
+Batch 2:
+  2D Distance: 1539.95298235173 meters
+  3D Distance: 1540.50960709221 meters
+  Difference between 2D and 3D distances: 0.556624740476764 meters
+Batch 3:
+  2D Distance: 1440.94252744354 meters
+  3D Distance: 1442.71549008761 meters
+  Difference between 2D and 3D distances: 1.77296264406641 meters
+Batch 4:
+  2D Distance: 1387.61064234706 meters
+  3D Distance: 1391.5914490937 meters
+  Difference between 2D and 3D distances: 3.98080674664379 meters
+Batch 5:
+  2D Distance: 1455.05657414466 meters
+  3D Distance: 1470.17898172237 meters
+  Difference between 2D and 3D distances: 15.1224075777072 meters
+Batch 6:
+  2D Distance: 2088.65757633189 meters
+  3D Distance: 2121.51945472298 meters
+  Difference between 2D and 3D distances: 32.8618783910879 meters
+Batch 7:
+  2D Distance: 1541.45122600067 meters
+  3D Distance: 1566.07705180163 meters
+  Difference between 2D and 3D distances: 24.6258258009611 meters
+Batch 8:
+  2D Distance: 2909.15908727108 meters
+  3D Distance: 2914.79883057412 meters
+  Difference between 2D and 3D distances: 5.63974330304336 meters
+Batch 9:
+  2D Distance: 1469.85227849613 meters
+  3D Distance: 1471.48136051214 meters
+  Difference between 2D and 3D distances: 1.62908201600385 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 1: 13 --> 0.100603817057618 meters
+
+
+Processing LineString feature 2 of 11
+	Title of the LineString feature: Team 13 K9 Oso 
+	Total number of points in the LineString feature before filtering: 3893
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1129
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 13 K9 Oso 
+Batch 1:
+  2D Distance: 1310.06958202615 meters
+  3D Distance: 1313.73440096983 meters
+  Difference between 2D and 3D distances: 3.66481894367348 meters
+Batch 2:
+  2D Distance: 1299.21413234735 meters
+  3D Distance: 1300.07467546951 meters
+  Difference between 2D and 3D distances: 0.860543122159697 meters
+Batch 3:
+  2D Distance: 1212.96177286869 meters
+  3D Distance: 1213.45538113068 meters
+  Difference between 2D and 3D distances: 0.493608261988811 meters
+Batch 4:
+  2D Distance: 1285.51182138165 meters
+  3D Distance: 1285.80267174892 meters
+  Difference between 2D and 3D distances: 0.290850367269968 meters
+Batch 5:
+  2D Distance: 1263.64357775088 meters
+  3D Distance: 1267.54057471537 meters
+  Difference between 2D and 3D distances: 3.89699696448292 meters
+Batch 6:
+  2D Distance: 1220.9709919266 meters
+  3D Distance: 1224.76668109758 meters
+  Difference between 2D and 3D distances: 3.79568917097913 meters
+Batch 7:
+  2D Distance: 1262.98906369121 meters
+  3D Distance: 1269.25059580085 meters
+  Difference between 2D and 3D distances: 6.26153210964094 meters
+Batch 8:
+  2D Distance: 1565.06875452578 meters
+  3D Distance: 1590.50907699155 meters
+  Difference between 2D and 3D distances: 25.4403224657733 meters
+Batch 9:
+  2D Distance: 1609.5401658182 meters
+  3D Distance: 1636.67902421922 meters
+  Difference between 2D and 3D distances: 27.138858401019 meters
+Batch 10:
+  2D Distance: 1310.78686504923 meters
+  3D Distance: 1332.63376708816 meters
+  Difference between 2D and 3D distances: 21.8469020389273 meters
+Batch 11:
+  2D Distance: 1986.67008527114 meters
+  3D Distance: 1990.32799794464 meters
+  Difference between 2D and 3D distances: 3.65791267349778 meters
+Batch 12:
+  2D Distance: 791.504010994842 meters
+  3D Distance: 792.564194441006 meters
+  Difference between 2D and 3D distances: 1.06018344616427 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 2: Team 13 K9 Oso  --> 0.0872413279836669 meters
+
+
+Processing LineString feature 3 of 11
+	Title of the LineString feature: Segment 1
+	Total number of points in the LineString feature before filtering: 22
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 21
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 1
+Batch 1:
+  2D Distance: 2719.92765372565 meters
+  3D Distance: 2720.32506850259 meters
+  Difference between 2D and 3D distances: 0.397414776940423 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 3: Segment 1 --> 0.0198707388470068 meters
+
+
+Processing LineString feature 4 of 11
+	Title of the LineString feature: Team 29 K9 Nate
+	Total number of points in the LineString feature before filtering: 4054
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1353
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 29 K9 Nate
+Batch 1:
+  2D Distance: 1344.35453588865 meters
+  3D Distance: 1361.67964954217 meters
+  Difference between 2D and 3D distances: 17.3251136535191 meters
+Batch 2:
+  2D Distance: 1195.98006398311 meters
+  3D Distance: 1217.07389916258 meters
+  Difference between 2D and 3D distances: 21.0938351794766 meters
+Batch 3:
+  2D Distance: 1229.52073838166 meters
+  3D Distance: 1259.72063282045 meters
+  Difference between 2D and 3D distances: 30.1998944387938 meters
+Batch 4:
+  2D Distance: 1243.57650504741 meters
+  3D Distance: 1268.95935501635 meters
+  Difference between 2D and 3D distances: 25.3828499689389 meters
+Batch 5:
+  2D Distance: 1410.69973769062 meters
+  3D Distance: 1435.97477178555 meters
+  Difference between 2D and 3D distances: 25.2750340949335 meters
+Batch 6:
+  2D Distance: 1666.91984013407 meters
+  3D Distance: 1680.62404314607 meters
+  Difference between 2D and 3D distances: 13.704203011991 meters
+Batch 7:
+  2D Distance: 1764.32769800597 meters
+  3D Distance: 1800.6990653426 meters
+  Difference between 2D and 3D distances: 36.3713673366267 meters
+Batch 8:
+  2D Distance: 3086.77163474573 meters
+  3D Distance: 3089.87855898754 meters
+  Difference between 2D and 3D distances: 3.10692424181252 meters
+Batch 9:
+  2D Distance: 1569.90945474678 meters
+  3D Distance: 1582.95290895798 meters
+  Difference between 2D and 3D distances: 13.0434542112018 meters
+Batch 10:
+  2D Distance: 1484.00069421108 meters
+  3D Distance: 1501.97147791956 meters
+  Difference between 2D and 3D distances: 17.9707837084827 meters
+Batch 11:
+  2D Distance: 1220.33394012894 meters
+  3D Distance: 1238.77653402895 meters
+  Difference between 2D and 3D distances: 18.4425939000146 meters
+Batch 12:
+  2D Distance: 1233.1408125172 meters
+  3D Distance: 1266.87174013313 meters
+  Difference between 2D and 3D distances: 33.7309276159244 meters
+Batch 13:
+  2D Distance: 1620.95709434861 meters
+  3D Distance: 1636.92642302902 meters
+  Difference between 2D and 3D distances: 15.9693286804031 meters
+Batch 14:
+  2D Distance: 970.044656968945 meters
+  3D Distance: 970.247658262148 meters
+  Difference between 2D and 3D distances: 0.203001293203215 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 4: Team 29 K9 Nate --> 0.201049786490623 meters
+
+
+Processing LineString feature 5 of 11
+	Title of the LineString feature: Segment 3
+	Total number of points in the LineString feature before filtering: 7
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 6
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 3
+Batch 1:
+  2D Distance: 914.215358965603 meters
+  3D Distance: 925.531965280606 meters
+  Difference between 2D and 3D distances: 11.3166063150027 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 5: Segment 3 --> 2.26332126300052 meters
+
+
+Processing LineString feature 6 of 11
+	Title of the LineString feature: Team 22 K9 R2 PM
+	Total number of points in the LineString feature before filtering: 2707
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 643
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 PM
+Batch 1:
+  2D Distance: 1205.26135346262 meters
+  3D Distance: 1207.32406909385 meters
+  Difference between 2D and 3D distances: 2.06271563123232 meters
+Batch 2:
+  2D Distance: 1199.05876767648 meters
+  3D Distance: 1204.21722281282 meters
+  Difference between 2D and 3D distances: 5.15845513634508 meters
+Batch 3:
+  2D Distance: 1199.32768095894 meters
+  3D Distance: 1221.28667544787 meters
+  Difference between 2D and 3D distances: 21.9589944889292 meters
+Batch 4:
+  2D Distance: 1190.13813251837 meters
+  3D Distance: 1193.87255967353 meters
+  Difference between 2D and 3D distances: 3.73442715516376 meters
+Batch 5:
+  2D Distance: 1232.70717373806 meters
+  3D Distance: 1240.54231310879 meters
+  Difference between 2D and 3D distances: 7.83513937073121 meters
+Batch 6:
+  2D Distance: 1330.97230290622 meters
+  3D Distance: 1359.08231454596 meters
+  Difference between 2D and 3D distances: 28.1100116397463 meters
+Batch 7:
+  2D Distance: 523.975199246911 meters
+  3D Distance: 525.884070309995 meters
+  Difference between 2D and 3D distances: 1.90887106308469 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 6: Team 22 K9 R2 PM --> 0.11023148673712 meters
+
+
+Processing LineString feature 7 of 11
+	Title of the LineString feature: Segment 2
+	Total number of points in the LineString feature before filtering: 32
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 31
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Segment 2
+Batch 1:
+  2D Distance: 4115.91786717998 meters
+  3D Distance: 4116.6998727192 meters
+  Difference between 2D and 3D distances: 0.782005539216698 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 7: Segment 2 --> 0.0260668513072278 meters
+
+
+Processing LineString feature 8 of 11
+	Title of the LineString feature: Team 22 K9 R2 AM
+	Total number of points in the LineString feature before filtering: 2156
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 378
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 AM
+Batch 1:
+  2D Distance: 1191.67694621545 meters
+  3D Distance: 1192.49475838668 meters
+  Difference between 2D and 3D distances: 0.817812171225569 meters
+Batch 2:
+  2D Distance: 1151.05974553694 meters
+  3D Distance: 1152.33193133461 meters
+  Difference between 2D and 3D distances: 1.27218579767123 meters
+Batch 3:
+  2D Distance: 1453.7852449759 meters
+  3D Distance: 1455.46015730379 meters
+  Difference between 2D and 3D distances: 1.67491232788484 meters
+Batch 4:
+  2D Distance: 1111.03464434711 meters
+  3D Distance: 1114.91412090791 meters
+  Difference between 2D and 3D distances: 3.87947656080223 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 8: Team 22 K9 R2 AM --> 0.0202768882164033 meters
+
+
+Processing LineString feature 9 of 11
+	Title of the LineString feature: Team 13 Handler 
+	Total number of points in the LineString feature before filtering: 1456
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 694
+Minimum distance: 10 meters
+Batch size: 100
+Title of the LineString feature: Team 13 Handler 
+Batch 1:
+  2D Distance: 5873.73514019402 meters
+  3D Distance: 5876.73665839316 meters
+  Difference between 2D and 3D distances: 3.00151819914845 meters
+Batch 2:
+  2D Distance: 1657.0541708473 meters
+  3D Distance: 1657.94392485584 meters
+  Difference between 2D and 3D distances: 0.889754008540649 meters
+Batch 3:
+  2D Distance: 1479Total number of objects in the GeoJSON data: 26
+
+Processing LineString feature 1 of 11
+	Title of the LineString feature: 13
+	Total number of points in the LineString feature before filtering: 2577
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2130
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: 13
+Batch 1:
+  2D Distance: 696.110219546432 meters
+  3D Distance: 699.006735557527 meters
+  Difference between 2D and 3D distances: 2.89651601109517 meters
+Batch 2:
+  2D Distance: 679.451904352202 meters
+  3D Distance: 680.289499085529 meters
+  Difference between 2D and 3D distances: 0.837594733327364 meters
+Batch 3:
+  2D Distance: 629.125200881622 meters
+  3D Distance: 629.694569268312 meters
+  Difference between 2D and 3D distances: 0.569368386689916 meters
+Batch 4:
+  2D Distance: 605.713502012491 meters
+  3D Distance: 606.099458697646 meters
+  Difference between 2D and 3D distances: 0.385956685155293 meters
+Batch 5:
+  2D Distance: 740.732710438459 meters
+  3D Distance: 740.934280835559 meters
+  Difference between 2D and 3D distances: 0.201570397099545 meters
+Batch 6:
+  2D Distance: 777.74336035768 meters
+  3D Distance: 778.103665932358 meters
+  Difference between 2D and 3D distances: 0.360305574678023 meters
+Batch 7:
+  2D Distance: 484.534552628448 meters
+  3D Distance: 485.851824953664 meters
+  Difference between 2D and 3D distances: 1.31727232521564 meters
+Batch 8:
+  2D Distance: 504.935307346375 meters
+  3D Distance: 510.890964819584 meters
+  Difference between 2D and 3D distances: 5.95565747320859 meters
+Batch 9:
+  2D Distance: 607.613127750211 meters
+  3D Distance: 608.053447969937 meters
+  Difference between 2D and 3D distances: 0.440320219725322 meters
+Batch 10:
+  2D Distance: 590.066133808828 meters
+  3D Distance: 590.298937167777 meters
+  Difference between 2D and 3D distances: 0.232803358949127 meters
+Batch 11:
+  2D Distance: 541.472337622678 meters
+  3D Distance: 545.802386944889 meters
+  Difference between 2D and 3D distances: 4.33004932221058 meters
+Batch 12:
+  2D Distance: 507.785625156305 meters
+  3D Distance: 513.18864344852 meters
+  Difference between 2D and 3D distances: 5.40301829221414 meters
+Batch 13:
+  2D Distance: 1906.48545232686 meters
+  3D Distance: 1941.79419463886 meters
+  Difference between 2D and 3D distances: 35.3087423120012 meters
+Batch 14:
+  2D Distance: 1366.83247686064 meters
+  3D Distance: 1386.49346433573 meters
+  Difference between 2D and 3D distances: 19.6609874750925 meters
+Batch 15:
+  2D Distance: 574.679989023939 meters
+  3D Distance: 586.076874411683 meters
+  Difference between 2D and 3D distances: 11.3968853877442 meters
+Batch 16:
+  2D Distance: 665.09880655142 meters
+  3D Distance: 672.285173347078 meters
+  Difference between 2D and 3D distances: 7.18636679565816 meters
+Batch 17:
+  2D Distance: 2444.57704358898 meters
+  3D Distance: 2446.54097578718 meters
+  Difference between 2D and 3D distances: 1.96393219819493 meters
+Batch 18:
+  2D Distance: 881.951685994829 meters
+  3D Distance: 883.76411826785 meters
+  Difference between 2D and 3D distances: 1.81243227302139 meters
+Batch 19:
+  2D Distance: 614.301176377919 meters
+  3D Distance: 614.365248447557 meters
+  Difference between 2D and 3D distances: 0.0640720696386552 meters
+Batch 20:
+  2D Distance: 450.058966311797 meters
+  3D Distance: 450.15408871818 meters
+  Difference between 2D and 3D distances: 0.0951224063826999 meters
+Batch 21:
+  2D Distance: 403.923071840375 meters
+  3D Distance: 404.044427762248 meters
+  Difference between 2D and 3D distances: 0.121355921872862 meters
+Batch 22:
+  2D Distance: 183.940097652215 meters
+  3D Distance: 183.952250737364 meters
+  Difference between 2D and 3D distances: 0.012153085149464 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 1: 13 --> 0.0472299120264571 meters
+
+
+Processing LineString feature 2 of 11
+	Title of the LineString feature: Team 13 K9 Oso 
+	Total number of points in the LineString feature before filtering: 3893
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 3472
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 13 K9 Oso 
+Batch 1:
+  2D Distance: 374.352847916531 meters
+  3D Distance: 376.974662384505 meters
+  Difference between 2D and 3D distances: 2.62181446797342 meters
+Batch 2:
+  2D Distance: 547.946683252562 meters
+  3D Distance: 549.521880274159 meters
+  Difference between 2D and 3D distances: 1.57519702159675 meters
+Batch 3:
+  2D Distance: 646.768439624437 meters
+  3D Distance: 647.040786344495 meters
+  Difference between 2D and 3D distances: 0.272346720057726 meters
+Batch 4:
+  2D Distance: 579.407408363355 meters
+  3D Distance: 580.079250951952 meters
+  Difference between 2D and 3D distances: 0.671842588597315 meters
+Batch 5:
+  2D Distance: 398.240934239724 meters
+  3D Distance: 398.698328884265 meters
+  Difference between 2D and 3D distances: 0.457394644541296 meters
+Batch 6:
+  2D Distance: 492.032652521009 meters
+  3D Distance: 492.412462780238 meters
+  Difference between 2D and 3D distances: 0.379810259228634 meters
+Batch 7:
+  2D Distance: 483.226372812243 meters
+  3D Distance: 483.644773229452 meters
+  Difference between 2D and 3D distances: 0.418400417208488 meters
+Batch 8:
+  2D Distance: 452.026255494383 meters
+  3D Distance: 452.328267820355 meters
+  Difference between 2D and 3D distances: 0.30201232597193 meters
+Batch 9:
+  2D Distance: 425.354497018714 meters
+  3D Distance: 425.497408069438 meters
+  Difference between 2D and 3D distances: 0.142911050724763 meters
+Batch 10:
+  2D Distance: 554.627778190748 meters
+  3D Distance: 555.120482161934 meters
+  Difference between 2D and 3D distances: 0.492703971186188 meters
+Batch 11:
+  2D Distance: 463.040469768807 meters
+  3D Distance: 463.187595410527 meters
+  Difference between 2D and 3D distances: 0.147125641720947 meters
+Batch 12:
+  2D Distance: 524.450976727099 meters
+  3D Distance: 524.670986785277 meters
+  Difference between 2D and 3D distances: 0.220010058177877 meters
+Batch 13:
+  2D Distance: 547.953620807823 meters
+  3D Distance: 548.088332853658 meters
+  Difference between 2D and 3D distances: 0.134712045835499 meters
+Batch 14:
+  2D Distance: 508.025293190726 meters
+  3D Distance: 508.421728420867 meters
+  Difference between 2D and 3D distances: 0.396435230141719 meters
+Batch 15:
+  2D Distance: 527.604889470193 meters
+  3D Distance: 528.222911123155 meters
+  Difference between 2D and 3D distances: 0.618021652961488 meters
+Batch 16:
+  2D Distance: 380.525948643596 meters
+  3D Distance: 384.034862808764 meters
+  Difference between 2D and 3D distances: 3.50891416516777 meters
+Batch 17:
+  2D Distance: 363.440273358823 meters
+  3D Distance: 366.730819563877 meters
+  Difference between 2D and 3D distances: 3.29054620505457 meters
+Batch 18:
+  2D Distance: 408.16802693986 meters
+  3D Distance: 413.158498659848 meters
+  Difference between 2D and 3D distances: 4.99047171998774 meters
+Batch 19:
+  2D Distance: 402.646766099381 meters
+  3D Distance: 402.914647961893 meters
+  Difference between 2D and 3D distances: 0.267881862512183 meters
+Batch 20:
+  2D Distance: 462.185915942263 meters
+  3D Distance: 462.492319308885 meters
+  Difference between 2D and 3D distances: 0.306403366621851 meters
+Batch 21:
+  2D Distance: 407.518977193571 meters
+  3D Distance: 407.744543585395 meters
+  Difference between 2D and 3D distances: 0.22556639182443 meters
+Batch 22:
+  2D Distance: 600.347708584578 meters
+  3D Distance: 600.48687557483 meters
+  Difference between 2D and 3D distances: 0.139166990252079 meters
+Batch 23:
+  2D Distance: 479.502190236591 meters
+  3D Distance: 481.745180507077 meters
+  Difference between 2D and 3D distances: 2.24299027048602 meters
+Batch 24:
+  2D Distance: 386.465915692191 meters
+  3D Distance: 391.37090911266 meters
+  Difference between 2D and 3D distances: 4.9049934204686 meters
+Batch 25:
+  2D Distance: 428.194904688097 meters
+  3D Distance: 433.165785554831 meters
+  Difference between 2D and 3D distances: 4.97088086673466 meters
+Batch 26:
+  2D Distance: 537.197605156084 meters
+  3D Distance: 547.141398824492 meters
+  Difference between 2D and 3D distances: 9.94379366840838 meters
+Batch 27:
+  2D Distance: 1054.47289812444 meters
+  3D Distance: 1071.89672134346 meters
+  Difference between 2D and 3D distances: 17.4238232190173 meters
+Batch 28:
+  2D Distance: 1115.00689439058 meters
+  3D Distance: 1132.53284625076 meters
+  Difference between 2D and 3D distances: 17.5259518601806 meters
+Batch 29:
+  2D Distance: 766.930318728097 meters
+  3D Distance: 782.202371383176 meters
+  Difference between 2D and 3D distances: 15.2720526550781 meters
+Batch 30:
+  2D Distance: 457.243736565948 meters
+  3D Distance: 467.686896000455 meters
+  Difference between 2D and 3D distances: 10.4431594345074 meters
+Batch 31:
+  2D Distance: 594.44550298431 meters
+  3D Distance: 613.497858139817 meters
+  Difference between 2D and 3D distances: 19.0523551555074 meters
+Batch 32:
+  2D Distance: 381.04376588064 meters
+  3D Distance: 385.17384919346 meters
+  Difference between 2D and 3D distances: 4.1300833128206 meters
+Batch 33:
+  2D Distance: 470.128349407755 meters
+  3D Distance: 474.183898168016 meters
+  Difference between 2D and 3D distances: 4.0555487602615 meters
+Batch 34:
+  2D Distance: 462.970413275275 meters
+  3D Distance: 463.18344481046 meters
+  Difference between 2D and 3D distances: 0.213031535184825 meters
+Batch 35:
+  2D Distance: 2015.42360962983 meters
+  3D Distance: 2017.08892922954 meters
+  Difference between 2D and 3D distances: 1.66531959971121 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 2: Team 13 K9 Oso  --> 0.038439548417088 meters
+
+
+Processing LineString feature 3 of 11
+	Title of the LineString feature: Segment 1
+	Total number of points in the LineString feature before filtering: 22
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 21
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Segment 1
+Batch 1:
+  2D Distance: 2719.92765372565 meters
+  3D Distance: 2720.32506850259 meters
+  Difference between 2D and 3D distances: 0.397414776940423 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 3: Segment 1 --> 0.0198707388470068 meters
+
+
+Processing LineString feature 4 of 11
+	Title of the LineString feature: Team 29 K9 Nate
+	Total number of points in the LineString feature before filtering: 4054
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 3574
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 29 K9 Nate
+Batch 1:
+  2D Distance: 579.283792835253 meters
+  3D Distance: 584.293000946531 meters
+  Difference between 2D and 3D distances: 5.00920811127799 meters
+Batch 2:
+  2D Distance: 437.623365332266 meters
+  3D Distance: 445.846311615927 meters
+  Difference between 2D and 3D distances: 8.22294628366149 meters
+Batch 3:
+  2D Distance: 463.874894087575 meters
+  3D Distance: 472.552424985574 meters
+  Difference between 2D and 3D distances: 8.67753089799965 meters
+Batch 4:
+  2D Distance: 576.336154972385 meters
+  3D Distance: 587.925424066078 meters
+  Difference between 2D and 3D distances: 11.5892690936928 meters
+Batch 5:
+  2D Distance: 459.128634382868 meters
+  3D Distance: 464.645531078571 meters
+  Difference between 2D and 3D distances: 5.51689669570226 meters
+Batch 6:
+  2D Distance: 415.611848412104 meters
+  3D Distance: 420.145031508041 meters
+  Difference between 2D and 3D distances: 4.53318309593692 meters
+Batch 7:
+  2D Distance: 388.495316555281 meters
+  3D Distance: 399.682083675097 meters
+  Difference between 2D and 3D distances: 11.1867671198158 meters
+Batch 8:
+  2D Distance: 366.09617100957 meters
+  3D Distance: 370.605922569483 meters
+  Difference between 2D and 3D distances: 4.50975155991347 meters
+Batch 9:
+  2D Distance: 518.350103697888 meters
+  3D Distance: 530.871026793251 meters
+  Difference between 2D and 3D distances: 12.5209230953626 meters
+Batch 10:
+  2D Distance: 352.413302619265 meters
+  3D Distance: 364.701272067458 meters
+  Difference between 2D and 3D distances: 12.2879694481936 meters
+Batch 11:
+  2D Distance: 436.204397336107 meters
+  3D Distance: 453.747080583826 meters
+  Difference between 2D and 3D distances: 17.5426832477189 meters
+Batch 12:
+  2D Distance: 516.999203506337 meters
+  3D Distance: 532.070929153205 meters
+  Difference between 2D and 3D distances: 15.0717256468686 meters
+Batch 13:
+  2D Distance: 463.609471300616 meters
+  3D Distance: 471.909594396343 meters
+  Difference between 2D and 3D distances: 8.30012309572697 meters
+Batch 14:
+  2D Distance: 486.196786414293 meters
+  3D Distance: 497.190837999256 meters
+  Difference between 2D and 3D distances: 10.9940515849636 meters
+Batch 15:
+  2D Distance: 401.690563506112 meters
+  3D Distance: 415.688954149082 meters
+  Difference between 2D and 3D distances: 13.99839064297 meters
+Batch 16:
+  2D Distance: 478.474791799651 meters
+  3D Distance: 494.936270177794 meters
+  Difference between 2D and 3D distances: 16.4614783781429 meters
+Batch 17:
+  2D Distance: 485.20778158451 meters
+  3D Distance: 495.617373341825 meters
+  Difference between 2D and 3D distances: 10.4095917573149 meters
+Batch 18:
+  2D Distance: 1149.37245602407 meters
+  3D Distance: 1164.79726638225 meters
+  Difference between 2D and 3D distances: 15.4248103581824 meters
+Batch 19:
+  2D Distance: 1441.42486269658 meters
+  3D Distance: 1455.32065324767 meters
+  Difference between 2D and 3D distances: 13.8957905510936 meters
+Batch 20:
+  2D Distance: 1568.05177789238 meters
+  3D Distance: 1603.90227503396 meters
+  Difference between 2D and 3D distances: 35.8504971415789 meters
+Batch 21:
+  2D Distance: 3008.40387998543 meters
+  3D Distance: 3012.12212407436 meters
+  Difference between 2D and 3D distances: 3.71824408892962 meters
+Batch 22:
+  2D Distance: 851.261217211201 meters
+  3D Distance: 856.845832983498 meters
+  Difference between 2D and 3D distances: 5.58461577229627 meters
+Batch 23:
+  2D Distance: 901.557067262636 meters
+  3D Distance: 911.374740261842 meters
+  Difference between 2D and 3D distances: 9.81767299920602 meters
+Batch 24:
+  2D Distance: 1095.23077200537 meters
+  3D Distance: 1109.77123789945 meters
+  Difference between 2D and 3D distances: 14.5404658940738 meters
+Batch 25:
+  2D Distance: 463.230528686642 meters
+  3D Distance: 472.997824903981 meters
+  Difference between 2D and 3D distances: 9.76729621733853 meters
+Batch 26:
+  2D Distance: 400.110038575456 meters
+  3D Distance: 404.55692848902 meters
+  Difference between 2D and 3D distances: 4.44688991356452 meters
+Batch 27:
+  2D Distance: 364.096917470104 meters
+  3D Distance: 370.741697919174 meters
+  Difference between 2D and 3D distances: 6.64478044907071 meters
+Batch 28:
+  2D Distance: 401.587696385003 meters
+  3D Distance: 407.029659669999 meters
+  Difference between 2D and 3D distances: 5.44196328499538 meters
+Batch 29:
+  2D Distance: 486.268137913119 meters
+  3D Distance: 501.368764809645 meters
+  Difference between 2D and 3D distances: 15.1006268965269 meters
+Batch 30:
+  2D Distance: 532.076433737024 meters
+  3D Distance: 548.664780254378 meters
+  Difference between 2D and 3D distances: 16.588346517354 meters
+Batch 31:
+  2D Distance: 424.561219697115 meters
+  3D Distance: 440.530357463149 meters
+  Difference between 2D and 3D distances: 15.9691377660337 meters
+Batch 32:
+  2D Distance: 424.362984736709 meters
+  3D Distance: 431.997036966433 meters
+  Difference between 2D and 3D distances: 7.63405222972403 meters
+Batch 33:
+  2D Distance: 411.4181983533 meters
+  3D Distance: 425.899799400387 meters
+  Difference between 2D and 3D distances: 14.4816010470869 meters
+Batch 34:
+  2D Distance: 994.778076536215 meters
+  3D Distance: 1004.80497549952 meters
+  Difference between 2D and 3D distances: 10.0268989633043 meters
+Batch 35:
+  2D Distance: 1355.90232084298 meters
+  3D Distance: 1360.70389421681 meters
+  Difference between 2D and 3D distances: 4.80157337382593 meters
+Batch 36:
+  2D Distance: 268.611372181548 meters
+  3D Distance: 268.702588549595 meters
+  Difference between 2D and 3D distances: 0.0912163680462754 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 4: Team 29 K9 Nate --> 0.108216896050236 meters
+
+
+Processing LineString feature 5 of 11
+	Title of the LineString feature: Segment 3
+	Total number of points in the LineString feature before filtering: 7
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 6
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Segment 3
+Batch 1:
+  2D Distance: 914.215358965603 meters
+  3D Distance: 925.531965280606 meters
+  Difference between 2D and 3D distances: 11.3166063150027 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 5: Segment 3 --> 2.26332126300052 meters
+
+
+Processing LineString feature 6 of 11
+	Title of the LineString feature: Team 22 K9 R2 PM
+	Total number of points in the LineString feature before filtering: 2707
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 2320
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 PM
+Batch 1:
+  2D Distance: 448.188059859047 meters
+  3D Distance: 448.379682120693 meters
+  Difference between 2D and 3D distances: 0.191622261646273 meters
+Batch 2:
+  2D Distance: 363.825918899988 meters
+  3D Distance: 366.041108528668 meters
+  Difference between 2D and 3D distances: 2.21518962868049 meters
+Batch 3:
+  2D Distance: 426.23562776518 meters
+  3D Distance: 428.06571314179 meters
+  Difference between 2D and 3D distances: 1.8300853766101 meters
+Batch 4:
+  2D Distance: 409.148504615588 meters
+  3D Distance: 410.151147501231 meters
+  Difference between 2D and 3D distances: 1.00264288564347 meters
+Batch 5:
+  2D Distance: 431.68887682966 meters
+  3D Distance: 432.664592016849 meters
+  Difference between 2D and 3D distances: 0.975715187188598 meters
+Batch 6:
+  2D Distance: 418.26338135587 meters
+  3D Distance: 427.331579285973 meters
+  Difference between 2D and 3D distances: 9.06819793010368 meters
+Batch 7:
+  2D Distance: 423.839905834697 meters
+  3D Distance: 424.249996339235 meters
+  Difference between 2D and 3D distances: 0.410090504537663 meters
+Batch 8:
+  2D Distance: 364.934099398326 meters
+  3D Distance: 374.039267215842 meters
+  Difference between 2D and 3D distances: 9.10516781751636 meters
+Batch 9:
+  2D Distance: 382.267066537748 meters
+  3D Distance: 386.05224221505 meters
+  Difference between 2D and 3D distances: 3.78517567730165 meters
+Batch 10:
+  2D Distance: 451.330664932723 meters
+  3D Distance: 467.255870694117 meters
+  Difference between 2D and 3D distances: 15.925205761394 meters
+Batch 11:
+  2D Distance: 432.240812881784 meters
+  3D Distance: 436.497039685103 meters
+  Difference between 2D and 3D distances: 4.25622680331901 meters
+Batch 12:
+  2D Distance: 379.4920019339 meters
+  3D Distance: 381.451832401972 meters
+  Difference between 2D and 3D distances: 1.95983046807197 meters
+Batch 13:
+  2D Distance: 376.82381686237 meters
+  3D Distance: 377.551193054745 meters
+  Difference between 2D and 3D distances: 0.727376192374493 meters
+Batch 14:
+  2D Distance: 360.609901962489 meters
+  3D Distance: 360.703485815395 meters
+  Difference between 2D and 3D distances: 0.0935838529059083 meters
+Batch 15:
+  2D Distance: 306.306433993607 meters
+  3D Distance: 307.346928662275 meters
+  Difference between 2D and 3D distances: 1.04049466866769 meters
+Batch 16:
+  2D Distance: 347.892597848185 meters
+  3D Distance: 351.963811506711 meters
+  Difference between 2D and 3D distances: 4.07121365852635 meters
+Batch 17:
+  2D Distance: 401.649878177712 meters
+  3D Distance: 401.994694667438 meters
+  Difference between 2D and 3D distances: 0.344816489726213 meters
+Batch 18:
+  2D Distance: 435.468716526919 meters
+  3D Distance: 436.854808012551 meters
+  Difference between 2D and 3D distances: 1.38609148563177 meters
+Batch 19:
+  2D Distance: 464.457376866275 meters
+  3D Distance: 475.905216219111 meters
+  Difference between 2D and 3D distances: 11.4478393528356 meters
+Batch 20:
+  2D Distance: 511.297842252483 meters
+  3D Distance: 527.940714354802 meters
+  Difference between 2D and 3D distances: 16.6428721023186 meters
+Batch 21:
+  2D Distance: 596.836521207625 meters
+  3D Distance: 618.874464313618 meters
+  Difference between 2D and 3D distances: 22.0379431059937 meters
+Batch 22:
+  2D Distance: 534.570684094403 meters
+  3D Distance: 535.77806936249 meters
+  Difference between 2D and 3D distances: 1.20738526808623 meters
+Batch 23:
+  2D Distance: 343.683907700726 meters
+  3D Distance: 345.829941507238 meters
+  Difference between 2D and 3D distances: 2.14603380651198 meters
+Batch 24:
+  2D Distance: 59.1747238233796 meters
+  3D Distance: 59.1904238603157 meters
+  Difference between 2D and 3D distances: 0.0157000369360603 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 6: Team 22 K9 R2 PM --> 0.0482477362322253 meters
+
+
+Processing LineString feature 7 of 11
+	Title of the LineString feature: Segment 2
+	Total number of points in the LineString feature before filtering: 32
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 32
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Segment 2
+Batch 1:
+  2D Distance: 4120.37489347132 meters
+  3D Distance: 4121.15741923812 meters
+  Difference between 2D and 3D distances: 0.782525766800063 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 7: Segment 2 --> 0.0252427666709922 meters
+
+
+Processing LineString feature 8 of 11
+	Title of the LineString feature: Team 22 K9 R2 AM
+	Total number of points in the LineString feature before filtering: 2156
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1648
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 22 K9 R2 AM
+Batch 1:
+  2D Distance: 345.723631565395 meters
+  3D Distance: 346.022664314288 meters
+  Difference between 2D and 3D distances: 0.299032748892216 meters
+Batch 2:
+  2D Distance: 351.762248755752 meters
+  3D Distance: 352.012073411174 meters
+  Difference between 2D and 3D distances: 0.249824655421833 meters
+Batch 3:
+  2D Distance: 338.56227199204 meters
+  3D Distance: 338.802629922587 meters
+  Difference between 2D and 3D distances: 0.24035793054702 meters
+Batch 4:
+  2D Distance: 407.906131801311 meters
+  3D Distance: 408.414582515134 meters
+  Difference between 2D and 3D distances: 0.50845071382372 meters
+Batch 5:
+  2D Distance: 312.6620775775 meters
+  3D Distance: 313.03087838717 meters
+  Difference between 2D and 3D distances: 0.368800809669722 meters
+Batch 6:
+  2D Distance: 335.449236388881 meters
+  3D Distance: 336.309898492399 meters
+  Difference between 2D and 3D distances: 0.860662103518166 meters
+Batch 7:
+  2D Distance: 348.566459384236 meters
+  3D Distance: 349.124750938209 meters
+  Difference between 2D and 3D distances: 0.558291553972651 meters
+Batch 8:
+  2D Distance: 350.826844488367 meters
+  3D Distance: 351.676038176937 meters
+  Difference between 2D and 3D distances: 0.849193688570665 meters
+Batch 9:
+  2D Distance: 342.263246577415 meters
+  3D Distance: 342.542490536772 meters
+  Difference between 2D and 3D distances: 0.279243959357188 meters
+Batch 10:
+  2D Distance: 359.726319829593 meters
+  3D Distance: 360.482313669183 meters
+  Difference between 2D and 3D distances: 0.755993839589564 meters
+Batch 11:
+  2D Distance: 305.462324581969 meters
+  3D Distance: 305.897193852899 meters
+  Difference between 2D and 3D distances: 0.434869270930164 meters
+Batch 12:
+  2D Distance: 333.912977915692 meters
+  3D Distance: 334.233642784485 meters
+  Difference between 2D and 3D distances: 0.32066486879279 meters
+Batch 13:
+  2D Distance: 313.021101182428 meters
+  3D Distance: 313.341896587753 meters
+  Difference between 2D and 3D distances: 0.320795405325441 meters
+Batch 14:
+  2D Distance: 1084.38466122716 meters
+  3D Distance: 1087.60509453348 meters
+  Difference between 2D and 3D distances: 3.22043330631186 meters
+Batch 15:
+  2D Distance: 331.548911516773 meters
+  3D Distance: 331.94101662845 meters
+  Difference between 2D and 3D distances: 0.392105111676699 meters
+Batch 16:
+  2D Distance: 520.562000024734 meters
+  3D Distance: 521.98504995252 meters
+  Difference between 2D and 3D distances: 1.42304992778645 meters
+Batch 17:
+  2D Distance: 215.274777867646 meters
+  3D Distance: 215.330792784942 meters
+  Difference between 2D and 3D distances: 0.0560149172954993 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 8: Team 22 K9 R2 AM --> 0.00676246800940029 meters
+
+
+Processing LineString feature 9 of 11
+	Title of the LineString feature: Team 13 Handler 
+	Total number of points in the LineString feature before filtering: 1456
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1213
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 13 Handler 
+Batch 1:
+  2D Distance: 5086.78770305953 meters
+  3D Distance: 5088.9523674026 meters
+  Difference between 2D and 3D distances: 2.16466434306858 meters
+Batch 2:
+  2D Distance: 1197.37806619274 meters
+  3D Distance: 1198.75308708776 meters
+  Difference between 2D and 3D distances: 1.37502089502846 meters
+Batch 3:
+  2D Distance: 641.599051163109 meters
+  3D Distance: 642.305933631459 meters
+  Difference between 2D and 3D distances: 0.706882468349249 meters
+Batch 4:
+  2D Distance: 1099.96132581409 meters
+  3D Distance: 1100.33527082928 meters
+  Difference between 2D and 3D distances: 0.373945015189747 meters
+Batch 5:
+  2D Distance: 817.430595715965 meters
+  3D Distance: 817.885130342746 meters
+  Difference between 2D and 3D distances: 0.454534626780742 meters
+Batch 6:
+  2D Distance: 553.699787537332 meters
+  3D Distance: 558.22679842909 meters
+  Difference between 2D and 3D distances: 4.52701089175787 meters
+Batch 7:
+  2D Distance: 784.036918988113 meters
+  3D Distance: 787.048220053175 meters
+  Difference between 2D and 3D distances: 3.01130106506173 meters
+Batch 8:
+  2D Distance: 1246.78289994785 meters
+  3D Distance: 1252.42695048638 meters
+  Difference between 2D and 3D distances: 5.64405053853852 meters
+Batch 9:
+  2D Distance: 1422.65753245008 meters
+  3D Distance: 1445.02001893539 meters
+  Difference between 2D and 3D distances: 22.3624864853105 meters
+Batch 10:
+  2D Distance: 1839.36781703189 meters
+  3D Distance: 1870.18428610813 meters
+  Difference between 2D and 3D distances: 30.8164690762353 meters
+Batch 11:
+  2D Distance: 891.950634934624 meters
+  3D Distance: 904.686335599387 meters
+  Difference between 2D and 3D distances: 12.7357006647627 meters
+Batch 12:
+  2D Distance: 959.623855393902 meters
+  3D Distance: 967.374597435229 meters
+  Difference between 2D and 3D distances: 7.75074204132761 meters
+Batch 13:
+  2D Distance: 1425.27037822442 meters
+  3D Distance: 1425.34580655191 meters
+  Difference between 2D and 3D distances: 0.075428327490954 meters
+
+
+Average difference between 2D and 3D distances for LineString feature 9: Team 13 Handler  --> 0.0759061356756629 meters
+
+
+Processing LineString feature 10 of 11
+	Title of the LineString feature: Team 29 Handler
+	Total number of points in the LineString feature before filtering: 1659
+Processing GeoJSON coordinates...
+	Total number of points in the LineString feature after filtering: 1473
+Minimum distance: 2 meters
+Batch size: 100
+Title of the LineString feature: Team 29 Handler
+Batch 1:
+  2D Distance: 5988.6753041658 meters
+  3D Distance: 5995.4207142151 meters
+  Difference between 2D and 3D distances: 6.74541004929688 meters
+Batch 2:
+  2D Distance: 2409.15026209056 meters
+  3D Distance: 2429.04148365202 meters
+  Difference between 2D and 3D 
