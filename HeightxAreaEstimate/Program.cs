@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using IntersectionSupport;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using Newtonsoft.Json.Serialization;
 
 namespace HeightxAreaEstimate
 {
@@ -41,6 +42,7 @@ namespace HeightxAreaEstimate
 
             Console.WriteLine("Processing GeoJSON coordinates...");
 
+            // Filter points by distance
             List<Point> filteredPoints = new List<Point>();
             double minDistance = 1; // Minimum distance in meters
             filteredPoints.Add(feature.Points[0]);
@@ -58,114 +60,123 @@ namespace HeightxAreaEstimate
             }
 
             feature.Points = filteredPoints;
-
             Console.WriteLine($"Total number of points in the LineString feature after filtering: {feature.Points.Count}");
 
-            // Limit the number of points to the first 500
-            int pointLimit = 10;
-            if (feature.Points.Count > pointLimit)
+            int batchSize = 100;
+            int batchCount = (int)Math.Ceiling((double)feature.Points.Count / batchSize);
+
+            Console.WriteLine($"Minimum distance: {minDistance} meters");
+            Console.WriteLine($"Batch size: {batchSize}");
+            Console.WriteLine($"Title of the LineString feature: {feature.Name}");
+
+            
+            // Get elevation data
+            feature = await GetElevationDataFromOpenTopoData(feature, minDistance, 100);
+
+            for (int batchIndex = 0; batchIndex < batchCount; batchIndex++)
             {
-                feature.Points = feature.Points.GetRange(0, pointLimit);
+                int startIndex = batchIndex * batchSize;
+                int endIndex = Math.Min(startIndex + batchSize, feature.Points.Count);
+                int currentBatchSize = endIndex - startIndex;
+
+                double total2DDistance = 0;
+                double total3DDistance = 0;
+
+                for (int i = startIndex; i < endIndex - 1; i++)
+                {
+                    Point point1 = feature.Points[i];
+                    Point point2 = feature.Points[i + 1];
+
+                    double twoDimensionalDistance = Calculate2DDistance(point1.Latitude, point1.Longitude, point2.Latitude, point2.Longitude);
+                    double threeDimensionalDistance = Calculate3DDistance(point1.Latitude, point1.Longitude, point1.Altitude, point2.Latitude, point2.Longitude, point2.Altitude);
+
+                    total2DDistance += twoDimensionalDistance;
+                    total3DDistance += threeDimensionalDistance;
+                }
+
+                Console.WriteLine($"Batch {batchIndex + 1}:");
+                Console.WriteLine($"  2D Distance: {total2DDistance} meters");
+                Console.WriteLine($"  3D Distance: {total3DDistance} meters");
+                Console.WriteLine($"  Difference between 2D and 3D distances: {Math.Abs(total2DDistance - total3DDistance)} meters");
             }
 
-            Console.WriteLine($"Minimum distance between points: {minDistance} meters");
-            Console.WriteLine($"Number of points used for calculations: {feature.Points.Count}");
 
-            // Calculate the distance between the first 500 points
-            double total2DDistance = 0;
-            double total3DDistance = 0;
+            // Save the updated GeoJSON with elevation data
+            string updatedGeoJsonString = JsonConvert.SerializeObject(feature, Formatting.Indented);
+            File.WriteAllText("output_with_elevation.geojson", updatedGeoJsonString);
 
-            for (int i = 0; i < feature.Points.Count - 1; i++)
+            // Save the original GeoJSON without elevation data
+            string originalGeoJsonString = JsonConvert.SerializeObject(feature, Formatting.Indented, new JsonSerializerSettings
             {
-                Point point1 = feature.Points[i];
-                Point point2 = feature.Points[i + 1];
+                ContractResolver = new IgnorePropertyResolver("Altitude")
+            });
+            File.WriteAllText("output_without_elevation.geojson", originalGeoJsonString);
 
-                double twoDimensionalDistance = Calculate2DDistance(point1.Latitude, point1.Longitude, point2.Latitude, point2.Longitude);
-                double threeDimensionalDistance = Calculate3DDistance(point1.Latitude, point1.Longitude, point1.Altitude, point2.Latitude, point2.Longitude, point2.Altitude);
-
-                total2DDistance += twoDimensionalDistance;
-                total3DDistance += threeDimensionalDistance;
-            }
-
-            // Output the calculated distances
-            string output = $"Total 2D distance: {total2DDistance} meters\n";
-            output += $"Total 3D distance: {total3DDistance} meters\n";
-            output += $"Difference between 2D and 3D distances: {Math.Abs(total2DDistance - total3DDistance)} meters\n";
-
-            Console.WriteLine(output);
-
-            // Save the output to output.log
-            File.WriteAllText("output.log", output);
-
+            Console.WriteLine("Program complete. Press Enter to End.");
             Console.ReadLine();
         }
 
-        //elevation query with sleep 
-        public static async Task<List<double>> GetElevationsFromOpenTopoDataAsync(List<List<double>> coordinates)
+        public static async Task<LineString> GetElevationDataFromOpenTopoData(LineString feature, double minDistance, int batchSize = 100)
         {
-            string baseUrl = "https://api.opentopodata.org/v1/ned10m";
-            string locationsParam = string.Join("|", coordinates.Select(coord => $"{coord[1]},{coord[0]}"));
-            string requestUrl = $"{baseUrl}?locations={locationsParam}";
+            List<List<double>> coordinates = feature.Points.Select(p => new List<double> { p.Longitude, p.Latitude }).ToList();
+            List<double> elevations = await GetElevationsFromOpenTopoDataAsync(coordinates, minDistance, batchSize);
 
-            HttpResponseMessage response = await httpClient.GetAsync(requestUrl);
-            if (response.IsSuccessStatusCode)
+            for (int i = 0; i < elevations.Count; i++)
             {
-                string content = await response.Content.ReadAsStringAsync();
-                JObject json = JObject.Parse(content);
-                JArray results = (JArray)json["results"];
-
-                List<double> elevations = new List<double>();
-                foreach (JObject result in results)
-                {
-                    double? elevation = (double?)result["elevation"];
-
-                    if (elevation.HasValue)
-                    {
-                        elevations.Add(elevation.Value);
-                    }
-                    else
-                    {
-                        // Replace with your desired default value or error handling
-                        Console.WriteLine("Elevation data is null. Using default value.");
-                        elevations.Add(0);
-                    }
-                }
-
-                return elevations;
+                feature.Points[i].Altitude = elevations[i];
             }
-            else
-            {
-                throw new Exception($"Failed to fetch elevation data: {response.ReasonPhrase}");
-            }
+
+            return feature;
         }
 
-        public static async Task<double> GetElevationFromOpenTopoDataAsync(double latitude, double longitude)
+        //elevation query with sleep 
+        public static async Task<List<double>> GetElevationsFromOpenTopoDataAsync(List<List<double>> coordinates, double minDistance, int batchSize = 100)
         {
-            string baseUrl = "https://api.opentopodata.org/v1/ned10m"; //calls ned10m dataset that has 10m resolution
-            string requestUrl = $"{baseUrl}?locations={latitude},{longitude}";
+            List<double> elevations = new List<double>();
+            int numberOfBatches = (int)Math.Ceiling((double)coordinates.Count / batchSize);
 
-            HttpResponseMessage response = await httpClient.GetAsync(requestUrl);
-            if (response.IsSuccessStatusCode)
+            for (int batchIndex = 0; batchIndex < numberOfBatches; batchIndex++)
             {
-                string content = await response.Content.ReadAsStringAsync();
-                JObject json = JObject.Parse(content);
-                JArray results = (JArray)json["results"];
-                double? elevation = (double?)results[0]["elevation"];
+                int startIndex = batchIndex * batchSize;
+                int endIndex = Math.Min(startIndex + batchSize, coordinates.Count);
+                List<List<double>> batchCoordinates = coordinates.GetRange(startIndex, endIndex - startIndex);
 
-                if (elevation.HasValue)
+                Console.WriteLine($"Processing batch {batchIndex + 1} of {numberOfBatches} (points {startIndex} to {endIndex - 1})");
+
+                string baseUrl = "https://api.opentopodata.org/v1/ned10m";
+                string locationsParam = string.Join("|", batchCoordinates.Select(coord => $"{coord[1]},{coord[0]}"));
+                string requestUrl = $"{baseUrl}?locations={locationsParam}";
+
+                HttpResponseMessage response = await httpClient.GetAsync(requestUrl);
+
+                if (response.IsSuccessStatusCode)
                 {
-                    return elevation.Value;
+                    string content = await response.Content.ReadAsStringAsync();
+                    JObject json = JObject.Parse(content);
+                    JArray results = (JArray)json["results"];
+
+                    foreach (JObject result in results)
+                    {
+                        double? elevation = (double?)result["elevation"];
+
+                        if (elevation.HasValue)
+                        {
+                            elevations.Add(elevation.Value);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Elevation data is null. Using default value.");
+                            elevations.Add(0);
+                        }
+                    }
                 }
                 else
                 {
-                    Console.WriteLine("Elevation data is null. Using default value.");
-                    return 0;
+                    throw new Exception($"Failed to fetch elevation data: {response.ReasonPhrase}");
                 }
             }
-            else
-            {
-                throw new Exception($"Failed to fetch elevation data: {response.ReasonPhrase}");
-            }
+
+            return elevations;
         }
 
         public static double HaversineDistance(double lat1, double lon1, double lat2, double lon2)
@@ -206,6 +217,23 @@ namespace HeightxAreaEstimate
             double threeDimensionalDistance = Math.Sqrt(Math.Pow(twoDimensionalDistance, 2) + Math.Pow(elevationDifference, 2));
 
             return threeDimensionalDistance;
+        }
+    }
+
+    public class IgnorePropertyResolver : DefaultContractResolver
+    {
+        private readonly string _propertyNameToIgnore;
+
+        public IgnorePropertyResolver(string propertyNameToIgnore)
+        {
+            _propertyNameToIgnore = propertyNameToIgnore;
+        }
+
+        protected override IList<JsonProperty> CreateProperties(Type type, MemberSerialization memberSerialization)
+        {
+            IList<JsonProperty> properties = base.CreateProperties(type, memberSerialization);
+            properties = properties.Where(p => p.PropertyName != _propertyNameToIgnore).ToList();
+            return properties;
         }
     }
 }
