@@ -65,7 +65,7 @@ namespace HeightxAreaEstimate
                     int featureIndex = 0;
                     List<(string LineStringName, double AverageDifference, double MinDistance, int preFilterPoints, int postFilterPoints)> lineStringResults = new List<(string, double, double, int, int)>();
 
-                    foreach (LineString feature in lineStringFeatures)
+                    foreach (LineString feature in lineStringFeatures.Take(3))
                     {
                         featureIndex++;
                         Log($"\nProcessing LineString feature {featureIndex} of {lineStringFeatures.Count}");
@@ -78,7 +78,7 @@ namespace HeightxAreaEstimate
 
                         // Filter points by distance
                         List<Point> filteredPoints = new List<Point>();
-                        double minDistance = 2; // Minimum distance in meters
+                        double minDistance = 5; // Minimum distance in meters
                         filteredPoints.Add(feature.Points[0]);
 
                         for (int i = 1; i < feature.Points.Count; i++)
@@ -108,9 +108,9 @@ namespace HeightxAreaEstimate
                         LineString updatedFeature = await GetElevationDataFromOpenTopoData(feature, minDistance, 100);
                         feature.Points = updatedFeature.Points;
 
-                        double totalDifference = 0;
-                        int totalProcessedPoints = 0;
-
+                        double featureTotal2DDistance = 0;
+                        double featureTotal3DDistance = 0;
+                        double featureTotalDifference = 0;
 
                         for (int batchIndex = 0; batchIndex < batchCount; batchIndex++)
                         {
@@ -120,6 +120,7 @@ namespace HeightxAreaEstimate
 
                             double total2DDistance = 0;
                             double total3DDistance = 0;
+                            double totalDifference = 0;
 
                             for (int i = startIndex; i < endIndex - 1; i++)
                             {
@@ -136,18 +137,24 @@ namespace HeightxAreaEstimate
                                 totalDifference += difference;
                             }
 
+                            // Accumulate results for each batch
+                            featureTotal2DDistance += total2DDistance;
+                            featureTotal3DDistance += total3DDistance;
+                            featureTotalDifference += totalDifference;
+
                             Log($"Batch {batchIndex + 1}:");
                             Log($"  2D Distance: {total2DDistance} meters");
                             Log($"  3D Distance: {total3DDistance} meters");
                             Log($"  Difference between 2D and 3D distances: {Math.Abs(total2DDistance - total3DDistance)} meters");
                         }
 
-                        totalProcessedPoints = feature.Points.Count - 1; // Subtract 1 because the difference is calculated between pairs of points
-                        double averageDifference = totalDifference / totalProcessedPoints;
+                        // Adjusted average difference calculation
+                        double averageDifference = featureTotalDifference / featureTotal3DDistance;
 
                         Log($"\n\nAverage difference between 2D and 3D distances for LineString feature {featureIndex}: {feature.Name} --> {averageDifference} meters\n");
 
                         lineStringResults.Add((feature.Name, averageDifference, minDistance, preFilteredPoints, filteredPoints.Count));
+
 
                         // Save the updated GeoJSON with elevation data
                         string updatedGeoJsonString = JsonConvert.SerializeObject(feature, Formatting.Indented);
