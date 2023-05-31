@@ -1,9 +1,0 @@
-C:\Users\Tyler\source\repos\IntersectionSupport\bin\Release\IntersectionSupport.dll
-C:\Users\Tyler\source\repos\IntersectionSupport\bin\Release\IntersectionSupport.pdb
-C:\Users\Tyler\source\repos\IntersectionSupport\bin\Release\Newtonsoft.Json.dll
-C:\Users\Tyler\source\repos\IntersectionSupport\bin\Release\Newtonsoft.Json.xml
-C:\Users\Tyler\source\repos\IntersectionSupport\obj\Release\IntersectionSupport.csproj.AssemblyReference.cache
-C:\Users\Tyler\source\repos\IntersectionSupport\obj\Release\IntersectionSupport.csproj.CoreCompileInputs.cache
-C:\Users\Tyler\source\repos\IntersectionSupport\obj\Release\IntersectionSupport.csproj.CopyComplete
-C:\Users\Tyler\source\repos\IntersectionSupport\obj\Release\IntersectionSupport.dll
-C:\Users\Tyler\source\repos\IntersectionSupport\obj\Release\IntersectionSupport.pdb
