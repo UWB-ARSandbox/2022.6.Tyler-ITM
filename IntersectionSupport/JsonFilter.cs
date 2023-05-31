@@ -161,7 +161,7 @@ namespace IntersectionSupport
 
                         if (pointCoords.Count >= 3)
                         {
-                            point.Altitude = (double)pointCoords[2];
+                            point.Altitude = 0;// (double)pointCoords[2];
                         }
                         // timestamp is pointCoords[3], not considered yet
                         objects.Add(point);
