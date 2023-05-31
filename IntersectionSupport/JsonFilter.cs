@@ -183,6 +183,7 @@ namespace IntersectionSupport
                             if (coordinate.Count() > 2)
                             {
                                 altitude = (double)coordinate[2];
+                                altitude = 0; //set elevation altitude values to 0 
                             }
 
                             Point point = new Point(longitude, latitude, altitude);
@@ -216,7 +217,7 @@ namespace IntersectionSupport
                                 if (coordinate.Count() > 2)
                                 {
                                     float altitude = (float)coordinate[2];
-                                    point.Altitude = altitude;
+                                    point.Altitude = 0;// altitude;
                                 }
                             }
 

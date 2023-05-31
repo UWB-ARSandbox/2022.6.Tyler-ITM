@@ -172,189 +172,103 @@ namespace IntersectionSupport
 
         private (List<Intersection> Intersections, double addedDistance) FindIntersections(LineString targetLineString, object selectedArea)
         {
+            List<Intersection> intersections = new List<Intersection>();
+            bool startPointInside = false;
+            bool endPointInside = false;
+            double startOrEndDistance = 0;
+
+            if (selectedArea is LineString lineStringArea)
             {
-                List<Intersection> intersections = new List<Intersection>();
-                // Code to handle LineString starting inside an area
-                bool startPointInside = false;
-                bool endPointInside = false;
-                double startOrEndDistance = 0;
+                startPointInside = IsPointInsideLineStringArea(targetLineString.Points[0], lineStringArea);
+                endPointInside = IsPointInsideLineStringArea(targetLineString.Points[targetLineString.Points.Count - 1], lineStringArea);
 
-                if (selectedArea is LineString lineStringArea)
+                for (int i = 0; i < lineStringArea.Points.Count - 1; i++)
                 {
-                    // This is a LineString
-                    startPointInside = IsPointInsideLineStringArea(targetLineString.Points[0], lineStringArea);
-                    endPointInside = IsPointInsideLineStringArea(targetLineString.Points[targetLineString.Points.Count - 1], lineStringArea);
+                    Point p1 = lineStringArea.Points[i];
+                    Vector3 v1 = new Vector3((float)p1.Longitude, (float)p1.Latitude, (float)p1.Altitude);
+                    Point p2 = lineStringArea.Points[i + 1];
+                    Vector3 v2 = new Vector3((float)p2.Longitude, (float)p2.Latitude, (float)p2.Altitude);
 
-                    // Find the intersections between the LineString and the target LineString
-                    for (int i = 0; i < lineStringArea.Points.Count - 1; i++)
+                    for (int j = 0; j < targetLineString.Points.Count - 1; j++)
                     {
-                        Point p1 = lineStringArea.Points[i];
-                        Vector3 p1Meters = PointToMeters(p1);
-                        Vector3 v1 = new Vector3(p1Meters.X, p1Meters.Y, p1Meters.Z);
-                        Point p2 = lineStringArea.Points[(i + 1) % lineStringArea.Points.Count];
-                        Vector3 p2Meters = PointToMeters(p2);
-                        Vector3 v2 = new Vector3(p2Meters.X, p2Meters.Y, p2Meters.Z);
+                        Point q1 = targetLineString.Points[j];
+                        Vector3 w1 = new Vector3((float)q1.Longitude, (float)q1.Latitude, (float)q1.Altitude);
+                        Point q2 = targetLineString.Points[j + 1];
+                        Vector3 w2 = new Vector3((float)q2.Longitude, (float)q2.Latitude, (float)q2.Altitude);
 
-                        for (int j = 0; j < targetLineString.Points.Count - 1; j++)
+                        Intersection intersection = new Intersection(j, Intersection.PositiveInfinity)
                         {
-                            Point q1 = targetLineString.Points[j];
-                            Vector3 q1Meters = PointToMeters(q1);
-                            Vector3 w1 = new Vector3(q1Meters.X, q1Meters.Y, q1Meters.Z);
-                            Point q2 = targetLineString.Points[(j + 1) % targetLineString.Points.Count];
-                            Vector3 q2Meters = PointToMeters(q2);
-                            Vector3 w2 = new Vector3(q2Meters.X, q2Meters.Y, q2Meters.Z);
+                            Point = LineSegmentIntersection(v1, v2, w1, w2),
+                            Index = j
+                        };
 
-                            Intersection intersection = new Intersection(j, Intersection.PositiveInfinity)
-                            {
-                                Point = this.LineSegmentIntersection(v1, v2, w1, w2),
-                                Index = j
-                            };
-
-                            if (intersection.Point != Intersection.PositiveInfinity)
-                            {
-                                // Check if intersection point lies within the bounds of both line segments
-                                float dot1 = Vector3.Dot(intersection.Point - w1, w2 - w1);
-                                float dot2 = Vector3.Dot(intersection.Point - w2, w1 - w2);
-                                float dot3 = Vector3.Dot(intersection.Point - v1, v2 - v1);
-                                float dot4 = Vector3.Dot(intersection.Point - v2, v1 - v2);
-
-                                if (dot1 >= 0 && dot2 >= 0 && dot3 >= 0 && dot4 >= 0)
-                                {
-                                    // Intersection found
-                                    bool isDuplicate = false;
-                                    foreach (Intersection existingIntersection in intersections)
-                                    {
-                                        if (Math.Abs(existingIntersection.Point.Y - intersection.Point.Y) < _distanceThreshold
-                                            && Math.Abs(existingIntersection.Point.X - intersection.Point.X) < _distanceThreshold)
-                                        {
-                                            isDuplicate = true;
-                                            break;
-                                        }
-                                    }
-                                    if (!isDuplicate)
-                                    {
-                                        intersections.Add(intersection);
-                                        //Console.WriteLine("Intersection found at index " + j);
-                                        //Console.WriteLine("Intersection position " + intersection.Point);
-                                        //Console.WriteLine("Intersection count: " + intersections.Count);
-                                    }
-                                }
-                            }
+                        if (intersection.Point != Intersection.PositiveInfinity)
+                        {
+                            intersections.Add(intersection);
                         }
                     }
                 }
-                else if (selectedArea is Polygon polygonArea)
-                {
-                    // This is a Polygon
-
-                    startPointInside = IsPointInsidePolygon(targetLineString.Points[0], polygonArea);
-                    endPointInside = IsPointInsidePolygon(targetLineString.Points[targetLineString.Points.Count - 1], polygonArea);
-
-                    // Find the intersections between the Polygon and the target LineString
-                    foreach (List<Point> ring in polygonArea.Rings)
-                    {
-                        ProcessRing(ring);
-                    }
-
-                    
-                }
-
-                void ProcessRing(List<Point> ring)
-                {
-                    // Find the intersections between the Polygon and the target LineString
-                    for (int k = 0; k < ring.Count - 1; k++)
-                    {
-                        Point p1 = ring[k];
-                        Vector3 p1Meters = PointToMeters(p1);
-                        Vector3 v1 = new Vector3(p1Meters.X, p1Meters.Y, p1Meters.Z);
-                        Point p2 = ring[(k + 1) % ring.Count];
-                        Vector3 p2Meters = PointToMeters(p2);
-                        Vector3 v2 = new Vector3(p2Meters.X, p2Meters.Y, p2Meters.Z);
-
-                        for (int j = 0; j < targetLineString.Points.Count - 1; j++)
-                        {
-                            Point q1 = targetLineString.Points[j];
-                            Vector3 q1Meters = PointToMeters(q1);
-                            Vector3 w1 = new Vector3(q1Meters.X, q1Meters.Y, q1Meters.Z);
-                            Point q2 = targetLineString.Points[(j + 1) % targetLineString.Points.Count];
-                            Vector3 q2Meters = PointToMeters(q2);
-                            Vector3 w2 = new Vector3(q2Meters.X, q2Meters.Y, q2Meters.Z);
-
-                            // Intersection code...
-                            Intersection intersection = new Intersection(j, Intersection.PositiveInfinity)
-                            {
-                                Point = this.LineSegmentIntersection(v1, v2, w1, w2),
-                                Index = j
-                            };
-                            if (intersection.Point != Intersection.PositiveInfinity)
-                            {
-                                // Check if intersection point lies within the bounds of both line segments
-                                float dot1 = Vector3.Dot(intersection.Point - w1, w2 - w1);
-                                float dot2 = Vector3.Dot(intersection.Point - w2, w1 - w2);
-                                float dot3 = Vector3.Dot(intersection.Point - v1, v2 - v1);
-                                float dot4 = Vector3.Dot(intersection.Point - v2, v1 - v2);
-
-                                if (dot1 >= 0 && dot2 >= 0 && dot3 >= 0 && dot4 >= 0)
-                                {
-                                    // Intersection found
-                                    bool isDuplicate = false;
-                                    foreach (Intersection existingIntersection in intersections)
-                                    {
-                                        if (Math.Abs(existingIntersection.Point.Y - intersection.Point.Y) < _distanceThreshold
-                                            && Math.Abs(existingIntersection.Point.X - intersection.Point.X) < _distanceThreshold)
-                                        {
-                                            isDuplicate = true;
-                                            break;
-                                        }
-                                    }
-                                    if (!isDuplicate)
-                                    {
-                                        intersections.Add(intersection);
-                                        //Console.WriteLine("Intersection found at index " + j);
-                                        //Console.WriteLine("Intersection position " + intersection.Point);
-                                        //Console.WriteLine("Intersection count: " + intersections.Count);
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-                // If startPointInside or endPointInside are true, you can now calculate the distance
-                // from the starting point to the first intersection (if startPointInside is true)
-                // or from the last intersection to the ending point (if endPointInside is true)
-                // and add these distances to the total distance sum.
-                if (startPointInside)
-                {
-                    // Calculate distance from starting point to first intersection along the LineString
-                    if (intersections.Count > 0)
-                    {
-                        Intersection firstIntersection = intersections[0];
-                        double distance = CalculateDistanceAlongLineString(targetLineString.Points, 0, firstIntersection.Index);
-                        //Console.WriteLine("Distance from starting point to first intersection: " + distance);
-
-                        // Add the distance to the startOrEndDistance sum
-                        startOrEndDistance += distance;
-
-                    }
-                }
-
-                if (endPointInside)
-                {
-                    // Calculate distance from last intersection to ending point along the LineString
-                    if (intersections.Count > 0)
-                    {
-                        Intersection lastIntersection = intersections[intersections.Count - 1];
-                        double distance = CalculateDistanceAlongLineString(targetLineString.Points, lastIntersection.Index, targetLineString.Points.Count - 1);
-                        //Console.WriteLine("Distance from last intersection to ending point: " + distance);
-
-                        // Add the distance to the total distance sum
-                        startOrEndDistance += distance;
-                    }
-                }
-
-                return (intersections, startOrEndDistance);
             }
+            else if (selectedArea is Polygon polygonArea)
+            {
+                startPointInside = IsPointInsidePolygon(targetLineString.Points[0], polygonArea);
+                endPointInside = IsPointInsidePolygon(targetLineString.Points[targetLineString.Points.Count - 1], polygonArea);
+
+                foreach (List<Point> ring in polygonArea.Rings)
+                {
+                    for (int i = 0; i < ring.Count - 1; i++)
+                    {
+                        Point p1 = ring[i];
+                        Vector3 v1 = new Vector3((float)p1.Longitude, (float)p1.Latitude, 0f); // Set altitude to 0
+                        Point p2 = ring[i + 1];
+                        Vector3 v2 = new Vector3((float)p2.Longitude, (float)p2.Latitude, 0f); // Set altitude to 0
+
+                        for (int j = 0; j < targetLineString.Points.Count - 1; j++)
+                        {
+                            Point q1 = targetLineString.Points[j];
+                            Vector3 w1 = new Vector3((float)q1.Longitude, (float)q1.Latitude, 0f); // Set altitude to 0
+                            Point q2 = targetLineString.Points[j + 1];
+                            Vector3 w2 = new Vector3((float)q2.Longitude, (float)q2.Latitude, 0f); // Set altitude to 0
+
+                            Intersection intersection = new Intersection(j, Intersection.PositiveInfinity)
+                            {
+                                Point = LineSegmentIntersection(v1, v2, w1, w2),
+                                Index = j
+                            };
+
+                            if (intersection.Point != Intersection.PositiveInfinity)
+                            {
+                                intersections.Add(intersection);
+                            }
+                        }
+                    }
+                }
+            }
+
+
+            if (startPointInside)
+            {
+                if (intersections.Count > 0)
+                {
+                    Intersection firstIntersection = intersections[0];
+                    double distance = CalculateDistanceAlongLineString(targetLineString.Points, 0, firstIntersection.Index);
+                    startOrEndDistance += distance;
+                }
+            }
+
+            if (endPointInside)
+            {
+                if (intersections.Count > 0)
+                {
+                    Intersection lastIntersection = intersections[intersections.Count - 1];
+                    double distance = CalculateDistanceAlongLineString(targetLineString.Points, lastIntersection.Index, targetLineString.Points.Count - 1);
+                    startOrEndDistance += distance;
+                }
+            }
+
+            return (intersections, startOrEndDistance);
         }
+
 
         private Vector3 LineSegmentIntersection(Vector3 p1, Vector3 p2, Vector3 q1, Vector3 q2)
         {
@@ -391,15 +305,19 @@ namespace IntersectionSupport
             double x = point.Latitude;
             double y = point.Longitude;
 
-            for (int i = 0; i < polygon.Rings[0].Count - 1; i++)
+            foreach (var ring in polygon.Rings)
             {
-                Point vertex1 = polygon.Rings[0][i];
-                Point vertex2 = polygon.Rings[0][(i + 1) % polygon.Rings[0].Count];
-
-                if (((vertex1.Longitude > y) != (vertex2.Longitude > y))
-                    && (x < (vertex2.Latitude - vertex1.Latitude) * (y - vertex1.Longitude) / (vertex2.Longitude - vertex1.Longitude) + vertex1.Latitude))
+                for (int i = 0, j = ring.Count - 1; i < ring.Count; j = i++)
                 {
-                    intersections++;
+                    double xi = ring[i].Latitude;
+                    double yi = ring[i].Longitude;
+                    double xj = ring[j].Latitude;
+                    double yj = ring[j].Longitude;
+
+                    if (((yi > y) != (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi))
+                    {
+                        intersections++;
+                    }
                 }
             }
 
@@ -408,14 +326,14 @@ namespace IntersectionSupport
 
         public bool IsPointInsideLineStringArea(Point point, LineString lineStringArea)
         {
-            // Create a new Polygon by connecting the last point to the first point
             List<Point> closedPoints = new List<Point>(lineStringArea.Points);
             closedPoints.Add(lineStringArea.Points[0]);
             Polygon polygon = new Polygon(new List<List<Point>> { closedPoints });
 
-            // Use the IsPointInsidePolygon method to test if the point is inside the closed shape
             return IsPointInsidePolygon(point, polygon);
         }
+
+
 
         private double CalculateDistanceBetweenIntersections(List<Intersection> intersections, LineString lineString)
         {

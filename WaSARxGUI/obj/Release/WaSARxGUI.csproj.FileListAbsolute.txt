@@ -10,3 +10,7 @@ C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\GUI.exe
 C:\Users\Tyler\source\repos\WaSARxGUI\obj\Release\GUI.pdb
 C:\Users\Tyler\source\repos\WaSARxGUI\GUI.exe
 C:\Users\Tyler\source\repos\WaSARxGUI\GUI.pdb
+C:\Users\Tyler\source\repos\WaSARxGUI\IntersectionSupport.dll
+C:\Users\Tyler\source\repos\WaSARxGUI\Newtonsoft.Json.dll
+C:\Users\Tyler\source\repos\WaSARxGUI\IntersectionSupport.pdb
+C:\Users\Tyler\source\repos\WaSARxGUI\Newtonsoft.Json.xml

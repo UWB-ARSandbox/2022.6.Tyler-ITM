@@ -1,249 +1,137 @@
 Results:
-Processing file: newTest.json
+Processing file: MarbleMt.txt
 ------------------------------------------------------------------------------------
 Areas:
-  S31
-  S10
-  S30
-  S25
-  S08
-  S04
-  S03
-  S22
-  S11
-  S02
-  S27
-  S26
-  S24
-  S13
-  S21
-  S28
-  S01
-  S12
-  S20
-  S23
-  S07
-  S05
-  S06
+  Seg 2 Area A
+  Seg 2 Area C
+  Seg 1 Area B
+  Seg 2 Area B
+  Seg 1 Area A
+  Segment 1
+  Segment 3
+  Segment 2
 
 Routes:
-  PCESAR Team 3
-  Brett and Andy
-  Dan VdE Track
-  PCESAR Team 1
-  TMR Team 1 tracks B
-  Betts
-  Dan
-  TMRU Team 1 tracks A
+  13
+  Team 13 K9 Oso 
+  Team 29 K9 Nate
+  Team 22 K9 R2 PM
+  Team 22 K9 R2 AM
+  Team 13 Handler 
+  Team 29 Handler
+  Team 22 Handler
 
 Intersection Results:
 ------------------------------------------------------------------------------------
-Area: S31
---> Route: TMR Team 1 tracks B
-  Total distance of route: 0.02 kilometers
-Total traversed in Area S31 --> 0.02 kilometers
+Area: Seg 2 Area A
+--> Route: 13
+  Total distance of route: 4.44 kilometers
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 4.31 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 6.07 kilometers
+--> Route: Team 13 Handler 
+  Total distance of route: 1.20 kilometers
+--> Route: Team 22 Handler
+  Total distance of route: 9.87 kilometers
+Total traversed in Area Seg 2 Area A --> 25.89 kilometers
 ------------------------------------------------------------------------------------
-Area: S10
---> Route: PCESAR Team 1
-  Total distance of route: 0.02 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 1.32 kilometers
---> Route: Dan
-  Total distance of route: 0.63 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 1.07 kilometers
-Total traversed in Area S10 --> 3.03 kilometers
+Area: Seg 2 Area C
+--> Route: 13
+  Total distance of route: 7.09 kilometers
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 4.55 kilometers
+--> Route: Team 29 K9 Nate
+  Total distance of route: 1.03 kilometers
+--> Route: Team 13 Handler 
+  Total distance of route: 9.53 kilometers
+--> Route: Team 29 Handler
+  Total distance of route: 1.90 kilometers
+--> Route: Team 22 Handler
+  Total distance of route: 0.20 kilometers
+Total traversed in Area Seg 2 Area C --> 24.31 kilometers
 ------------------------------------------------------------------------------------
-Area: S30
---> Route: Brett and Andy
-  Total distance of route: 0.12 kilometers
---> Route: TMR Team 1 tracks B
+Area: Seg 1 Area B
+--> Route: 13
+  Total distance of route: 5.49 kilometers
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 17.51 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 2.88 kilometers
+--> Route: Team 13 Handler 
+  Total distance of route: 3.20 kilometers
+--> Route: Team 29 Handler
+  Total distance of route: 29.42 kilometers
+--> Route: Team 22 Handler
+  Total distance of route: 1.80 kilometers
+Total traversed in Area Seg 1 Area B --> 60.29 kilometers
+------------------------------------------------------------------------------------
+Area: Seg 2 Area B
+--> Route: 13
+  Total distance of route: 12.90 kilometers
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 14.96 kilometers
+--> Route: Team 29 K9 Nate
+  Total distance of route: 9.58 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 6.35 kilometers
+--> Route: Team 13 Handler 
+  Total distance of route: 1.82 kilometers
+--> Route: Team 29 Handler
+  Total distance of route: 28.01 kilometers
+--> Route: Team 22 Handler
+  Total distance of route: 0.54 kilometers
+Total traversed in Area Seg 2 Area B --> 74.18 kilometers
+------------------------------------------------------------------------------------
+Area: Seg 1 Area A
+--> Route: 13
+  Total distance of route: 0.84 kilometers
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 17.64 kilometers
+--> Route: Team 22 K9 R2 AM
   Total distance of route: 0.04 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 4.11 kilometers
-Total traversed in Area S30 --> 4.27 kilometers
+--> Route: Team 13 Handler 
+  Total distance of route: 11.55 kilometers
+Total traversed in Area Seg 1 Area A --> 30.07 kilometers
 ------------------------------------------------------------------------------------
-Area: S25
---> Route: Brett and Andy
-  Total distance of route: 3.33 kilometers
---> Route: Dan VdE Track
-  Total distance of route: 0.04 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 5.10 kilometers
---> Route: Dan
-  Total distance of route: 2.13 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 1.26 kilometers
-Total traversed in Area S25 --> 11.87 kilometers
+Area: Segment 1
+--> Route: 13
+  Total distance of route: 12.27 kilometers
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 15.75 kilometers
+--> Route: Team 22 K9 R2 PM
+  Total distance of route: 6.05 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 7.28 kilometers
+--> Route: Team 13 Handler 
+  Total distance of route: 15.91 kilometers
+--> Route: Team 29 Handler
+  Total distance of route: 29.18 kilometers
+--> Route: Team 22 Handler
+  Total distance of route: 9.25 kilometers
+Total traversed in Area Segment 1 --> 95.67 kilometers
 ------------------------------------------------------------------------------------
-Area: S08
---> Route: PCESAR Team 3
-  Total distance of route: 0.55 kilometers
---> Route: Brett and Andy
-  Total distance of route: 6.11 kilometers
---> Route: PCESAR Team 1
-  Total distance of route: 0.95 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 2.43 kilometers
---> Route: Dan
-  Total distance of route: 1.10 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 6.20 kilometers
-Total traversed in Area S08 --> 17.36 kilometers
+Area: Segment 3
+--> Route: Team 29 K9 Nate
+  Total distance of route: 4.65 kilometers
+--> Route: Team 29 Handler
+  Total distance of route: 2.20 kilometers
+Total traversed in Area Segment 3 --> 6.85 kilometers
 ------------------------------------------------------------------------------------
-Area: S04
---> Route: Brett and Andy
-  Total distance of route: 6.04 kilometers
---> Route: PCESAR Team 1
-  Total distance of route: 3.59 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 2.22 kilometers
---> Route: Dan
-  Total distance of route: 0.02 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 7.53 kilometers
-Total traversed in Area S04 --> 19.39 kilometers
-------------------------------------------------------------------------------------
-Area: S03
---> Route: TMR Team 1 tracks B
-  Total distance of route: 0.22 kilometers
-Total traversed in Area S03 --> 0.22 kilometers
-------------------------------------------------------------------------------------
-Area: S22
---> Route: Brett and Andy
-  Total distance of route: 4.04 kilometers
---> Route: Dan VdE Track
-  Total distance of route: 0.13 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 5.68 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 5.99 kilometers
-Total traversed in Area S22 --> 15.84 kilometers
-------------------------------------------------------------------------------------
-Area: S11
---> Route: PCESAR Team 3
-  Total distance of route: 0.14 kilometers
---> Route: Brett and Andy
-  Total distance of route: 0.04 kilometers
---> Route: PCESAR Team 1
-  Total distance of route: 1.22 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 1.91 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 2.13 kilometers
-Total traversed in Area S11 --> 5.44 kilometers
-------------------------------------------------------------------------------------
-Area: S02
---> Route: TMR Team 1 tracks B
-  Total distance of route: 0.13 kilometers
---> Route: Betts
-  Total distance of route: 2.02 kilometers
-Total traversed in Area S02 --> 2.15 kilometers
-------------------------------------------------------------------------------------
-Area: S27
---> Route: Brett and Andy
-  Total distance of route: 4.12 kilometers
---> Route: Dan VdE Track
-  Total distance of route: 0.06 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 5.96 kilometers
-Total traversed in Area S27 --> 10.15 kilometers
-------------------------------------------------------------------------------------
-Area: S26
---> Route: Brett and Andy
-  Total distance of route: 1.64 kilometers
---> Route: Dan VdE Track
-  Total distance of route: 0.39 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 0.26 kilometers
-Total traversed in Area S26 --> 2.29 kilometers
-------------------------------------------------------------------------------------
-Area: S24
---> Route: Brett and Andy
-  Total distance of route: 0.74 kilometers
-Total traversed in Area S24 --> 0.74 kilometers
-------------------------------------------------------------------------------------
-Area: S13
---> Route: PCESAR Team 3
-  Total distance of route: 0.03 kilometers
---> Route: PCESAR Team 1
-  Total distance of route: 0.01 kilometers
-Total traversed in Area S13 --> 0.04 kilometers
-------------------------------------------------------------------------------------
-Area: S21
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 0.02 kilometers
-Total traversed in Area S21 --> 0.02 kilometers
-------------------------------------------------------------------------------------
-Area: S28
---> Route: Brett and Andy
-  Total distance of route: 0.40 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 0.27 kilometers
-Total traversed in Area S28 --> 0.67 kilometers
-------------------------------------------------------------------------------------
-Area: S01
---> Route: Brett and Andy
-  Total distance of route: 0.05 kilometers
---> Route: PCESAR Team 1
-  Total distance of route: 0.01 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 0.25 kilometers
---> Route: Betts
-  Total distance of route: 9.37 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 0.18 kilometers
-Total traversed in Area S01 --> 9.85 kilometers
-------------------------------------------------------------------------------------
-Area: S12
---> Route: TMR Team 1 tracks B
-  Total distance of route: 0.16 kilometers
---> Route: Betts
-  Total distance of route: 0.03 kilometers
-Total traversed in Area S12 --> 0.19 kilometers
-------------------------------------------------------------------------------------
-Area: S20
---> Route: Brett and Andy
-  Total distance of route: 0.48 kilometers
---> Route: Dan VdE Track
-  Total distance of route: 0.16 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 5.67 kilometers
-Total traversed in Area S20 --> 6.31 kilometers
-------------------------------------------------------------------------------------
-Area: S23
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 5.33 kilometers
-Total traversed in Area S23 --> 5.33 kilometers
-------------------------------------------------------------------------------------
-Area: S07
---> Route: Brett and Andy
-  Total distance of route: 5.55 kilometers
---> Route: PCESAR Team 1
-  Total distance of route: 2.47 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 0.09 kilometers
---> Route: Dan
-  Total distance of route: 0.55 kilometers
---> Route: TMRU Team 1 tracks A
-  Total distance of route: 7.52 kilometers
-Total traversed in Area S07 --> 16.18 kilometers
-------------------------------------------------------------------------------------
-Area: S05
---> Route: Betts
-  Total distance of route: 8.52 kilometers
-Total traversed in Area S05 --> 8.52 kilometers
-------------------------------------------------------------------------------------
-Area: S06
---> Route: Brett and Andy
-  Total distance of route: 0.11 kilometers
---> Route: PCESAR Team 1
-  Total distance of route: 6.12 kilometers
---> Route: TMR Team 1 tracks B
-  Total distance of route: 0.13 kilometers
---> Route: Betts
-  Total distance of route: 0.00 kilometers
---> Route: TMRU Team 1 tracks A
+Area: Segment 2
+--> Route: 13
+  Total distance of route: 5.73 kilometers
+--> Route: Team 13 K9 Oso 
+  Total distance of route: 14.20 kilometers
+--> Route: Team 29 K9 Nate
   Total distance of route: 8.96 kilometers
-Total traversed in Area S06 --> 15.32 kilometers
+--> Route: Team 22 K9 R2 AM
+  Total distance of route: 0.71 kilometers
+--> Route: Team 13 Handler 
+  Total distance of route: 3.92 kilometers
+--> Route: Team 29 Handler
+  Total distance of route: 10.89 kilometers
+--> Route: Team 22 Handler
+  Total distance of route: 0.96 kilometers
+Total traversed in Area Segment 2 --> 45.37 kilometers
 ------------------------------------------------------------------------------------
