@@ -14,25 +14,25 @@ Usage
 To run the program, enter the following command:
 
 Copy code
-rt datafile
+- rt datafile
 This will output one number per route, representing the length in kilometers. For example, if there are five routes over three regions in the datafile, the output will be five numbers ordered according to the route in the datafile.
 
 If you want to specify a custom log filename, use the following command:
 
 Copy code
-rt -l filename datafile
+- rt -l filename datafile
 This will produce the same output as the previous command, but the log file name will be filename.
 
 If you want to enable verbose mode, use the following command:
 
 Copy code
-rt -v datafile
+- rt -v datafile
 This will print the contents of rt.log to the screen.
 
 If you want to both print the log to a file and to the screen, use the following command:
 
 Copy code
-rt -v -l filename datafile
+- rt -v -l filename datafile
 This will print the log to both filename and the screen.
 
 Note that datafile should be replaced with the actual name of the data file you wish to calculate the route lengths for.
