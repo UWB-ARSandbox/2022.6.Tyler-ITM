@@ -1,12 +1,11 @@
-Intersection Route Length Calculator
+# Intersection Route Length Calculator
 
 Developed by UW Bothell graduate student Tyler Choi (tchoi94@uw.edu)in support of Washington State Search and Rescue in 2023. 
 
-==============================================================================================
-
 This command line tool, named routelength.exe or rt.exe, is designed to calculate the length of specified routes in a given data file.
 
-Options
+# Options
+
 The following options are available:
 
 -l: Allows you to specify a custom log filename. If this option is not used, the default log filename will be rt.log.
