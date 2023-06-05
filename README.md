@@ -10,18 +10,20 @@ This repository houses the source code for four key components integral to this 
 # Contents:
 
 Source/WaSARxCLI
-- This package within the Source directory provides a command-line interface for our tool. It enhances the tool's accessibility and usability for those who prefer or require a command-line interface.
+
+- This package within the Source directory provides a command-line interface for our tool. It includes a solution file, WaSARxCLI.sln, for easy project setup and building. It enhances the tool's accessibility and usability for those who prefer or require a command-line interface.
 
 Source/WaSARxGUI
-- The WaSARxGUI package provides a graphical user interface for our tool. This makes the tool accessible to a wider range of users who prefer visual interfaces.
+
+- The WaSARxGUI package provides a graphical user interface for our tool. This package also includes a solution file, WaSARxGUI.sln, for convenient project setup. This makes the tool accessible to a wider range of users who prefer visual interfaces.
 
 Source/IntersectionSupport
 
-- This package houses the algorithm that determines the intersection between the GPS track and the defined search area. It forms the backbone of our tool, enabling the precise calculation of the Total Track Line Length (TLL) within search areas.
+- This package houses the algorithm that determines the intersection between the GPS track and the defined search area. It forms the backbone of our tool, enabling the precise calculation of the Total Track Line Length (TLL) within search areas. Note that this package doesn't have a solution file as it contains the core algorithm layer.
 
 Source/HeightEstimate
 
-- HeightEstimate is an experimental package being developed alongside the main project. It queries elevation values for coordinate points, utilizing the IntersectionSupport algorithm layer. It aims to enhance terrain data processing and coverage estimation capabilities.
+- HeightEstimate is an experimental package being developed alongside the main project. It queries elevation values for coordinate points, utilizing the IntersectionSupport algorithm layer. It includes a solution file, HeightxAreaEstimate.sln, for easy project setup. It aims to enhance terrain data processing and coverage estimation capabilities.
 
 Source/Executables
 
