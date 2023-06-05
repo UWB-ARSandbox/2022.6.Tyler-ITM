@@ -28,6 +28,6 @@ Source/Executables
 - This directory houses the executable files for the CLI and GUI versions of our tool. These are ready-to-run programs that allow users to quickly start using the SAR GPS Track Processing Tool.
 
 About   
-- This directory contains the Capstone Paper and Presentation, providing a detailed overview of the repository and its structure.
+- This directory contains the Capstone Paper and Presentation, providing a detailed overview of the project and its objectives. 
 
 Your contribution and feedback are welcome. Feel free to explore, use, and contribute to the development of this tool.
