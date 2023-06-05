@@ -1,0 +1,110 @@
+{
+  "Points": [
+    {
+      "Longitude": -121.26498699188234,
+      "Latitude": 48.6739741202261,
+      "Name": null
+    },
+    {
+      "Longitude": -121.2655019760132,
+      "Latitude": 48.675093492002866,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27363443374635,
+      "Latitude": 48.679188197103215,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27781867980959,
+      "Latitude": 48.677105464819775,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27642393112184,
+      "Latitude": 48.676581226122416,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27640247344972,
+      "Latitude": 48.676127826092852,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27681016921999,
+      "Latitude": 48.675561070317485,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27618789672852,
+      "Latitude": 48.6745408938543,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27421379089357,
+      "Latitude": 48.6740591366768,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27395629882814,
+      "Latitude": 48.673704900519112,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27417087554933,
+      "Latitude": 48.672727195800363,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27320528030397,
+      "Latitude": 48.672316270763083,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27228260040285,
+      "Latitude": 48.671891172370131,
+      "Name": null
+    },
+    {
+      "Longitude": -121.27187490463258,
+      "Latitude": 48.671763642152868,
+      "Name": null
+    },
+    {
+      "Longitude": -121.26773357391359,
+      "Latitude": 48.673846595281056,
+      "Name": null
+    },
+    {
+      "Longitude": -121.26756,
+      "Latitude": 48.6739,
+      "Name": null
+    },
+    {
+      "Longitude": -121.26709,
+      "Latitude": 48.67394,
+      "Name": null
+    },
+    {
+      "Longitude": -121.26684972388821,
+      "Latitude": 48.673944215370383,
+      "Name": null
+    },
+    {
+      "Longitude": -121.26652,
+      "Latitude": 48.67395,
+      "Name": null
+    },
+    {
+      "Longitude": -121.26604001958994,
+      "Latitude": 48.6739331585821,
+      "Name": null
+    },
+    {
+      "Longitude": -121.26498699188234,
+      "Latitude": 48.6739741202261,
+      "Name": null
+    }
+  ],
+  "Name": "Segment 1"
+}

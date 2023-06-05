@@ -1,0 +1,12 @@
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\bin\Debug\HeightxAreaEstimate.exe.config
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\bin\Debug\HeightxAreaEstimate.exe
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\bin\Debug\HeightxAreaEstimate.pdb
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.csproj.CopyComplete
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.exe
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\obj\Debug\HeightxAreaEstimate.pdb
+C:\Users\Tyler\source\repos\HeightxAreaEstimate\bin\Debug\IntersectionSupport.dll

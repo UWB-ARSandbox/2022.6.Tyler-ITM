@@ -1,0 +1,4 @@
+LineString Name, Average Difference (2D vs 3D), Minimum Distance, Pre-filter Points, Post-filter Points
+13, 0.00595097767563084, 5, 2577, 1496
+Team 13 K9 Oso , 0.00655562374828623, 5, 3893, 2133
+Segment 1, 0.000146090914479909, 5, 22, 21
