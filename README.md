@@ -5,8 +5,6 @@
 This tool is designed to expedite the GPS track processing in Search and Rescue (SAR) missions. 
 By swiftly calculating the Total Track Line Length (TLL), it enhances the efficiency of SAR operations. 
 
-This repository houses the source code for four key components integral to this tool.
-
 # Contents:
 
 Source/WaSARxCLI
